@@ -1,0 +1,3664 @@
+year,quarter,level,region,device,count
+2020,1,country,india,Xiaomi,51004503
+2020,1,country,india,Samsung,39560399
+2020,1,country,india,Vivo,33573609
+2020,1,country,india,Oppo,23375458
+2020,1,country,india,Realme,10582375
+2020,1,country,india,Apple,5755009
+2020,1,country,india,Motorola,4756036
+2020,1,country,india,OnePlus,4027133
+2020,1,country,india,Huawei,3850925
+2020,1,country,india,Lenovo,3276777
+2020,1,country,india,Others,17812940
+2020,2,country,india,Xiaomi,56202867
+2020,2,country,india,Samsung,43708551
+2020,2,country,india,Vivo,38093292
+2020,2,country,india,Oppo,26438928
+2020,2,country,india,Realme,12034857
+2020,2,country,india,Apple,6099798
+2020,2,country,india,Motorola,5066664
+2020,2,country,india,Huawei,4210805
+2020,2,country,india,OnePlus,4176941
+2020,2,country,india,Lenovo,3472895
+2020,2,country,india,Others,19490728
+2020,3,country,india,Xiaomi,61383234
+2020,3,country,india,Samsung,48012276
+2020,3,country,india,Vivo,43182078
+2020,3,country,india,Oppo,29530065
+2020,3,country,india,Realme,13737667
+2020,3,country,india,Apple,6523683
+2020,3,country,india,Motorola,5363550
+2020,3,country,india,Huawei,4565437
+2020,3,country,india,OnePlus,4382412
+2020,3,country,india,Lenovo,3679349
+2020,3,country,india,Others,20809932
+2020,4,country,india,Xiaomi,66711711
+2020,4,country,india,Samsung,52578970
+2020,4,country,india,Vivo,48210115
+2020,4,country,india,Oppo,32684041
+2020,4,country,india,Realme,15590747
+2020,4,country,india,Apple,7052763
+2020,4,country,india,Motorola,5650618
+2020,4,country,india,Huawei,4915828
+2020,4,country,india,OnePlus,4621214
+2020,4,country,india,Lenovo,3880170
+2020,4,country,india,Others,22375116
+2021,1,country,india,Xiaomi,71553154
+2021,1,country,india,Samsung,56154585
+2021,1,country,india,Vivo,53341749
+2021,1,country,india,Oppo,35512326
+2021,1,country,india,Realme,17541519
+2021,1,country,india,Apple,7576154
+2021,1,country,india,Motorola,5792974
+2021,1,country,india,Huawei,5145488
+2021,1,country,india,OnePlus,4895538
+2021,1,country,india,Lenovo,3907304
+2021,1,country,india,Others,23564639
+2021,2,country,india,Xiaomi,75948492
+2021,2,country,india,Samsung,59144667
+2021,2,country,india,Vivo,58646521
+2021,2,country,india,Oppo,38402777
+2021,2,country,india,Realme,20619455
+2021,2,country,india,Apple,8143414
+2021,2,country,india,Motorola,5744294
+2021,2,country,india,OnePlus,5365636
+2021,2,country,india,Huawei,5068955
+2021,2,country,india,Lenovo,3768280
+2021,2,country,india,Others,24405595
+2021,3,country,india,Xiaomi,80749587
+2021,3,country,india,Vivo,65338474
+2021,3,country,india,Samsung,61299387
+2021,3,country,india,Oppo,42064749
+2021,3,country,india,Realme,24185973
+2021,3,country,india,Apple,8753177
+2021,3,country,india,OnePlus,6266945
+2021,3,country,india,Motorola,5650891
+2021,3,country,india,Huawei,5126319
+2021,3,country,india,Lenovo,3585329
+2021,3,country,india,Others,25334092
+2021,4,country,india,Xiaomi,84820436
+2021,4,country,india,Vivo,71483071
+2021,4,country,india,Samsung,63618499
+2021,4,country,india,Oppo,45569087
+2021,4,country,india,Realme,28686022
+2021,4,country,india,Apple,9883075
+2021,4,country,india,OnePlus,7178086
+2021,4,country,india,Motorola,5648173
+2021,4,country,india,Huawei,4930699
+2021,4,country,india,Tecno,3799428
+2021,4,country,india,Others,25544819
+2022,1,country,india,Xiaomi,88426997
+2022,1,country,india,Vivo,77224616
+2022,1,country,india,Samsung,65886728
+2022,1,country,india,Oppo,49093857
+2022,1,country,india,Realme,32685615
+2022,1,country,india,Apple,10780434
+2022,1,country,india,OnePlus,7974546
+2022,1,country,india,Motorola,5610140
+2022,1,country,india,Huawei,4882972
+2022,1,country,india,Tecno,4550078
+2022,1,country,india,Others,25835848
+2020,1,state,Andaman & Nicobar Islands,Xiaomi,6803
+2020,1,state,Andaman & Nicobar Islands,Vivo,5880
+2020,1,state,Andaman & Nicobar Islands,Samsung,5335
+2020,1,state,Andaman & Nicobar Islands,Oppo,2557
+2020,1,state,Andaman & Nicobar Islands,Realme,1511
+2020,1,state,Andaman & Nicobar Islands,OnePlus,1184
+2020,1,state,Andaman & Nicobar Islands,Huawei,891
+2020,1,state,Andaman & Nicobar Islands,Apple,735
+2020,1,state,Andaman & Nicobar Islands,Motorola,715
+2020,1,state,Andaman & Nicobar Islands,Lenovo,500
+2020,1,state,Andaman & Nicobar Islands,Others,2257
+2020,2,state,Andaman & Nicobar Islands,Xiaomi,7805
+2020,2,state,Andaman & Nicobar Islands,Vivo,7122
+2020,2,state,Andaman & Nicobar Islands,Samsung,6030
+2020,2,state,Andaman & Nicobar Islands,Oppo,2976
+2020,2,state,Andaman & Nicobar Islands,Realme,1761
+2020,2,state,Andaman & Nicobar Islands,OnePlus,1271
+2020,2,state,Andaman & Nicobar Islands,Huawei,1005
+2020,2,state,Andaman & Nicobar Islands,Apple,792
+2020,2,state,Andaman & Nicobar Islands,Motorola,779
+2020,2,state,Andaman & Nicobar Islands,Lenovo,552
+2020,2,state,Andaman & Nicobar Islands,Others,2617
+2020,3,state,Andaman & Nicobar Islands,Xiaomi,9794
+2020,3,state,Andaman & Nicobar Islands,Vivo,9556
+2020,3,state,Andaman & Nicobar Islands,Samsung,7572
+2020,3,state,Andaman & Nicobar Islands,Oppo,3730
+2020,3,state,Andaman & Nicobar Islands,Realme,2285
+2020,3,state,Andaman & Nicobar Islands,OnePlus,1440
+2020,3,state,Andaman & Nicobar Islands,Huawei,1213
+2020,3,state,Andaman & Nicobar Islands,Motorola,907
+2020,3,state,Andaman & Nicobar Islands,Apple,870
+2020,3,state,Andaman & Nicobar Islands,Lenovo,606
+2020,3,state,Andaman & Nicobar Islands,Others,3362
+2020,4,state,Andaman & Nicobar Islands,Xiaomi,12398
+2020,4,state,Andaman & Nicobar Islands,Vivo,12275
+2020,4,state,Andaman & Nicobar Islands,Samsung,9938
+2020,4,state,Andaman & Nicobar Islands,Oppo,4723
+2020,4,state,Andaman & Nicobar Islands,Realme,2996
+2020,4,state,Andaman & Nicobar Islands,OnePlus,1638
+2020,4,state,Andaman & Nicobar Islands,Huawei,1472
+2020,4,state,Andaman & Nicobar Islands,Motorola,1032
+2020,4,state,Andaman & Nicobar Islands,Apple,973
+2020,4,state,Andaman & Nicobar Islands,Lenovo,708
+2020,4,state,Andaman & Nicobar Islands,Others,4243
+2021,1,state,Andaman & Nicobar Islands,Vivo,13812
+2021,1,state,Andaman & Nicobar Islands,Xiaomi,13714
+2021,1,state,Andaman & Nicobar Islands,Samsung,10861
+2021,1,state,Andaman & Nicobar Islands,Oppo,5158
+2021,1,state,Andaman & Nicobar Islands,Realme,3419
+2021,1,state,Andaman & Nicobar Islands,OnePlus,1773
+2021,1,state,Andaman & Nicobar Islands,Huawei,1575
+2021,1,state,Andaman & Nicobar Islands,Motorola,1062
+2021,1,state,Andaman & Nicobar Islands,Apple,1056
+2021,1,state,Andaman & Nicobar Islands,Tecno,796
+2021,1,state,Andaman & Nicobar Islands,Others,4532
+2021,2,state,Andaman & Nicobar Islands,Vivo,15056
+2021,2,state,Andaman & Nicobar Islands,Xiaomi,14788
+2021,2,state,Andaman & Nicobar Islands,Samsung,11476
+2021,2,state,Andaman & Nicobar Islands,Oppo,5456
+2021,2,state,Andaman & Nicobar Islands,Realme,4034
+2021,2,state,Andaman & Nicobar Islands,OnePlus,1981
+2021,2,state,Andaman & Nicobar Islands,Huawei,1559
+2021,2,state,Andaman & Nicobar Islands,Apple,1153
+2021,2,state,Andaman & Nicobar Islands,Motorola,1054
+2021,2,state,Andaman & Nicobar Islands,Tecno,974
+2021,2,state,Andaman & Nicobar Islands,Others,4564
+2021,3,state,Andaman & Nicobar Islands,Vivo,16411
+2021,3,state,Andaman & Nicobar Islands,Xiaomi,15938
+2021,3,state,Andaman & Nicobar Islands,Samsung,12028
+2021,3,state,Andaman & Nicobar Islands,Oppo,5853
+2021,3,state,Andaman & Nicobar Islands,Realme,4808
+2021,3,state,Andaman & Nicobar Islands,OnePlus,2306
+2021,3,state,Andaman & Nicobar Islands,Huawei,1567
+2021,3,state,Andaman & Nicobar Islands,Apple,1283
+2021,3,state,Andaman & Nicobar Islands,Tecno,1178
+2021,3,state,Andaman & Nicobar Islands,Motorola,1017
+2021,3,state,Andaman & Nicobar Islands,Others,4593
+2021,4,state,Andaman & Nicobar Islands,Vivo,17597
+2021,4,state,Andaman & Nicobar Islands,Xiaomi,16968
+2021,4,state,Andaman & Nicobar Islands,Samsung,12574
+2021,4,state,Andaman & Nicobar Islands,Oppo,6127
+2021,4,state,Andaman & Nicobar Islands,Realme,5830
+2021,4,state,Andaman & Nicobar Islands,OnePlus,2691
+2021,4,state,Andaman & Nicobar Islands,Apple,1490
+2021,4,state,Andaman & Nicobar Islands,Huawei,1459
+2021,4,state,Andaman & Nicobar Islands,Tecno,1417
+2021,4,state,Andaman & Nicobar Islands,Motorola,1055
+2021,4,state,Andaman & Nicobar Islands,Others,4572
+2022,1,state,Andaman & Nicobar Islands,Vivo,18688
+2022,1,state,Andaman & Nicobar Islands,Xiaomi,17957
+2022,1,state,Andaman & Nicobar Islands,Samsung,12955
+2022,1,state,Andaman & Nicobar Islands,Realme,6769
+2022,1,state,Andaman & Nicobar Islands,Oppo,6461
+2022,1,state,Andaman & Nicobar Islands,OnePlus,3005
+2022,1,state,Andaman & Nicobar Islands,Tecno,1770
+2022,1,state,Andaman & Nicobar Islands,Apple,1634
+2022,1,state,Andaman & Nicobar Islands,Huawei,1441
+2022,1,state,Andaman & Nicobar Islands,Motorola,1050
+2022,1,state,Andaman & Nicobar Islands,Others,4558
+2020,1,state,Andhra Pradesh,Xiaomi,3307542
+2020,1,state,Andhra Pradesh,Samsung,2622762
+2020,1,state,Andhra Pradesh,Vivo,2165012
+2020,1,state,Andhra Pradesh,Oppo,1387060
+2020,1,state,Andhra Pradesh,Realme,960418
+2020,1,state,Andhra Pradesh,Motorola,411062
+2020,1,state,Andhra Pradesh,Huawei,348324
+2020,1,state,Andhra Pradesh,Apple,329329
+2020,1,state,Andhra Pradesh,OnePlus,298911
+2020,1,state,Andhra Pradesh,Lenovo,227154
+2020,1,state,Andhra Pradesh,Others,964486
+2020,2,state,Andhra Pradesh,Xiaomi,3635594
+2020,2,state,Andhra Pradesh,Samsung,2888149
+2020,2,state,Andhra Pradesh,Vivo,2409399
+2020,2,state,Andhra Pradesh,Oppo,1535129
+2020,2,state,Andhra Pradesh,Realme,1072165
+2020,2,state,Andhra Pradesh,Motorola,445380
+2020,2,state,Andhra Pradesh,Huawei,379220
+2020,2,state,Andhra Pradesh,Apple,348938
+2020,2,state,Andhra Pradesh,OnePlus,309208
+2020,2,state,Andhra Pradesh,Lenovo,243288
+2020,2,state,Andhra Pradesh,Others,1053205
+2020,3,state,Andhra Pradesh,Xiaomi,3978789
+2020,3,state,Andhra Pradesh,Samsung,3154020
+2020,3,state,Andhra Pradesh,Vivo,2687996
+2020,3,state,Andhra Pradesh,Oppo,1695723
+2020,3,state,Andhra Pradesh,Realme,1207622
+2020,3,state,Andhra Pradesh,Motorola,477313
+2020,3,state,Andhra Pradesh,Huawei,408520
+2020,3,state,Andhra Pradesh,Apple,370327
+2020,3,state,Andhra Pradesh,OnePlus,322028
+2020,3,state,Andhra Pradesh,Lenovo,260912
+2020,3,state,Andhra Pradesh,Others,1129155
+2020,4,state,Andhra Pradesh,Xiaomi,4325662
+2020,4,state,Andhra Pradesh,Samsung,3419866
+2020,4,state,Andhra Pradesh,Vivo,2950572
+2020,4,state,Andhra Pradesh,Oppo,1856052
+2020,4,state,Andhra Pradesh,Realme,1361491
+2020,4,state,Andhra Pradesh,Motorola,506158
+2020,4,state,Andhra Pradesh,Huawei,437125
+2020,4,state,Andhra Pradesh,Apple,394191
+2020,4,state,Andhra Pradesh,OnePlus,336518
+2020,4,state,Andhra Pradesh,Lenovo,276671
+2020,4,state,Andhra Pradesh,Others,1212259
+2021,1,state,Andhra Pradesh,Xiaomi,4644641
+2021,1,state,Andhra Pradesh,Samsung,3635596
+2021,1,state,Andhra Pradesh,Vivo,3245151
+2021,1,state,Andhra Pradesh,Oppo,2010506
+2021,1,state,Andhra Pradesh,Realme,1531645
+2021,1,state,Andhra Pradesh,Motorola,518115
+2021,1,state,Andhra Pradesh,Huawei,455604
+2021,1,state,Andhra Pradesh,Apple,421002
+2021,1,state,Andhra Pradesh,OnePlus,355922
+2021,1,state,Andhra Pradesh,Lenovo,277980
+2021,1,state,Andhra Pradesh,Others,1267571
+2021,2,state,Andhra Pradesh,Xiaomi,4937684
+2021,2,state,Andhra Pradesh,Samsung,3798250
+2021,2,state,Andhra Pradesh,Vivo,3572140
+2021,2,state,Andhra Pradesh,Oppo,2173037
+2021,2,state,Andhra Pradesh,Realme,1817804
+2021,2,state,Andhra Pradesh,Motorola,503072
+2021,2,state,Andhra Pradesh,Apple,450689
+2021,2,state,Andhra Pradesh,Huawei,440324
+2021,2,state,Andhra Pradesh,OnePlus,394851
+2021,2,state,Andhra Pradesh,Lenovo,261201
+2021,2,state,Andhra Pradesh,Others,1271853
+2021,3,state,Andhra Pradesh,Xiaomi,5256707
+2021,3,state,Andhra Pradesh,Vivo,3981492
+2021,3,state,Andhra Pradesh,Samsung,3911188
+2021,3,state,Andhra Pradesh,Oppo,2382363
+2021,3,state,Andhra Pradesh,Realme,2134616
+2021,3,state,Andhra Pradesh,Motorola,486971
+2021,3,state,Andhra Pradesh,Apple,480993
+2021,3,state,Andhra Pradesh,OnePlus,459011
+2021,3,state,Andhra Pradesh,Huawei,435214
+2021,3,state,Andhra Pradesh,Lenovo,245241
+2021,3,state,Andhra Pradesh,Others,1286102
+2021,4,state,Andhra Pradesh,Xiaomi,5518238
+2021,4,state,Andhra Pradesh,Vivo,4381023
+2021,4,state,Andhra Pradesh,Samsung,4017419
+2021,4,state,Andhra Pradesh,Oppo,2580845
+2021,4,state,Andhra Pradesh,Realme,2528884
+2021,4,state,Andhra Pradesh,Apple,544986
+2021,4,state,Andhra Pradesh,OnePlus,525373
+2021,4,state,Andhra Pradesh,Motorola,474422
+2021,4,state,Andhra Pradesh,Huawei,409934
+2021,4,state,Andhra Pradesh,Lenovo,224391
+2021,4,state,Andhra Pradesh,Others,1283514
+2022,1,state,Andhra Pradesh,Xiaomi,5743382
+2022,1,state,Andhra Pradesh,Vivo,4772765
+2022,1,state,Andhra Pradesh,Samsung,4124296
+2022,1,state,Andhra Pradesh,Realme,2864092
+2022,1,state,Andhra Pradesh,Oppo,2780974
+2022,1,state,Andhra Pradesh,Apple,594003
+2022,1,state,Andhra Pradesh,OnePlus,580737
+2022,1,state,Andhra Pradesh,Motorola,463652
+2022,1,state,Andhra Pradesh,Huawei,401477
+2022,1,state,Andhra Pradesh,Lenovo,222586
+2022,1,state,Andhra Pradesh,Others,1309987
+2020,1,state,Arunachal Pradesh,Xiaomi,35625
+2020,1,state,Arunachal Pradesh,Vivo,31742
+2020,1,state,Arunachal Pradesh,Samsung,29807
+2020,1,state,Arunachal Pradesh,Oppo,22566
+2020,1,state,Arunachal Pradesh,Realme,9351
+2020,1,state,Arunachal Pradesh,Apple,3135
+2020,1,state,Arunachal Pradesh,Gionee,2068
+2020,1,state,Arunachal Pradesh,Huawei,1768
+2020,1,state,Arunachal Pradesh,Motorola,1742
+2020,1,state,Arunachal Pradesh,OnePlus,1696
+2020,1,state,Arunachal Pradesh,Others,9566
+2020,2,state,Arunachal Pradesh,Xiaomi,41662
+2020,2,state,Arunachal Pradesh,Vivo,39089
+2020,2,state,Arunachal Pradesh,Samsung,34984
+2020,2,state,Arunachal Pradesh,Oppo,27629
+2020,2,state,Arunachal Pradesh,Realme,11596
+2020,2,state,Arunachal Pradesh,Apple,3398
+2020,2,state,Arunachal Pradesh,Gionee,2355
+2020,2,state,Arunachal Pradesh,Huawei,2019
+2020,2,state,Arunachal Pradesh,Motorola,1873
+2020,2,state,Arunachal Pradesh,OnePlus,1809
+2020,2,state,Arunachal Pradesh,Others,11120
+2020,3,state,Arunachal Pradesh,Xiaomi,47870
+2020,3,state,Arunachal Pradesh,Vivo,46799
+2020,3,state,Arunachal Pradesh,Samsung,40403
+2020,3,state,Arunachal Pradesh,Oppo,32287
+2020,3,state,Arunachal Pradesh,Realme,13982
+2020,3,state,Arunachal Pradesh,Apple,3738
+2020,3,state,Arunachal Pradesh,Gionee,2514
+2020,3,state,Arunachal Pradesh,Huawei,2276
+2020,3,state,Arunachal Pradesh,Motorola,1997
+2020,3,state,Arunachal Pradesh,OnePlus,1965
+2020,3,state,Arunachal Pradesh,Others,12215
+2020,4,state,Arunachal Pradesh,Vivo,53198
+2020,4,state,Arunachal Pradesh,Xiaomi,53097
+2020,4,state,Arunachal Pradesh,Samsung,45317
+2020,4,state,Arunachal Pradesh,Oppo,36466
+2020,4,state,Arunachal Pradesh,Realme,16419
+2020,4,state,Arunachal Pradesh,Apple,4188
+2020,4,state,Arunachal Pradesh,Gionee,2611
+2020,4,state,Arunachal Pradesh,Huawei,2424
+2020,4,state,Arunachal Pradesh,Motorola,2149
+2020,4,state,Arunachal Pradesh,OnePlus,2141
+2020,4,state,Arunachal Pradesh,Others,13282
+2021,1,state,Arunachal Pradesh,Vivo,58748
+2021,1,state,Arunachal Pradesh,Xiaomi,57405
+2021,1,state,Arunachal Pradesh,Samsung,48405
+2021,1,state,Arunachal Pradesh,Oppo,39602
+2021,1,state,Arunachal Pradesh,Realme,18658
+2021,1,state,Arunachal Pradesh,Apple,4560
+2021,1,state,Arunachal Pradesh,Gionee,2611
+2021,1,state,Arunachal Pradesh,Huawei,2526
+2021,1,state,Arunachal Pradesh,OnePlus,2342
+2021,1,state,Arunachal Pradesh,Motorola,2224
+2021,1,state,Arunachal Pradesh,Others,14159
+2021,2,state,Arunachal Pradesh,Vivo,63439
+2021,2,state,Arunachal Pradesh,Xiaomi,61629
+2021,2,state,Arunachal Pradesh,Samsung,51110
+2021,2,state,Arunachal Pradesh,Oppo,42407
+2021,2,state,Arunachal Pradesh,Realme,22481
+2021,2,state,Arunachal Pradesh,Apple,5062
+2021,2,state,Arunachal Pradesh,OnePlus,2622
+2021,2,state,Arunachal Pradesh,Gionee,2510
+2021,2,state,Arunachal Pradesh,Huawei,2408
+2021,2,state,Arunachal Pradesh,Motorola,2229
+2021,2,state,Arunachal Pradesh,Others,14675
+2021,3,state,Arunachal Pradesh,Vivo,69301
+2021,3,state,Arunachal Pradesh,Xiaomi,66832
+2021,3,state,Arunachal Pradesh,Samsung,52621
+2021,3,state,Arunachal Pradesh,Oppo,46021
+2021,3,state,Arunachal Pradesh,Realme,26567
+2021,3,state,Arunachal Pradesh,Apple,5574
+2021,3,state,Arunachal Pradesh,OnePlus,3208
+2021,3,state,Arunachal Pradesh,Gionee,2629
+2021,3,state,Arunachal Pradesh,Huawei,2593
+2021,3,state,Arunachal Pradesh,Motorola,2253
+2021,3,state,Arunachal Pradesh,Others,15474
+2021,4,state,Arunachal Pradesh,Vivo,74157
+2021,4,state,Arunachal Pradesh,Xiaomi,72002
+2021,4,state,Arunachal Pradesh,Samsung,54367
+2021,4,state,Arunachal Pradesh,Oppo,48973
+2021,4,state,Arunachal Pradesh,Realme,31777
+2021,4,state,Arunachal Pradesh,Apple,6342
+2021,4,state,Arunachal Pradesh,OnePlus,3900
+2021,4,state,Arunachal Pradesh,Gionee,2500
+2021,4,state,Arunachal Pradesh,Huawei,2496
+2021,4,state,Arunachal Pradesh,Motorola,2316
+2021,4,state,Arunachal Pradesh,Others,16114
+2022,1,state,Arunachal Pradesh,Vivo,78763
+2022,1,state,Arunachal Pradesh,Xiaomi,75927
+2022,1,state,Arunachal Pradesh,Samsung,56027
+2022,1,state,Arunachal Pradesh,Oppo,52153
+2022,1,state,Arunachal Pradesh,Realme,36430
+2022,1,state,Arunachal Pradesh,Apple,7110
+2022,1,state,Arunachal Pradesh,OnePlus,4423
+2022,1,state,Arunachal Pradesh,Huawei,2515
+2022,1,state,Arunachal Pradesh,Gionee,2482
+2022,1,state,Arunachal Pradesh,Infinix,2358
+2022,1,state,Arunachal Pradesh,Others,17151
+2020,1,state,Assam,Xiaomi,576697
+2020,1,state,Assam,Vivo,410865
+2020,1,state,Assam,Samsung,337886
+2020,1,state,Assam,Oppo,292242
+2020,1,state,Assam,Realme,167659
+2020,1,state,Assam,Huawei,39212
+2020,1,state,Assam,Motorola,34939
+2020,1,state,Assam,Gionee,33136
+2020,1,state,Assam,Asus,32099
+2020,1,state,Assam,Lenovo,28782
+2020,1,state,Assam,Others,232421
+2020,2,state,Assam,Xiaomi,663323
+2020,2,state,Assam,Vivo,494955
+2020,2,state,Assam,Samsung,388754
+2020,2,state,Assam,Oppo,346884
+2020,2,state,Assam,Realme,204222
+2020,2,state,Assam,Huawei,44120
+2020,2,state,Assam,Motorola,38074
+2020,2,state,Assam,Gionee,37873
+2020,2,state,Assam,Asus,36040
+2020,2,state,Assam,Lenovo,31346
+2020,2,state,Assam,Others,265292
+2020,3,state,Assam,Xiaomi,729048
+2020,3,state,Assam,Vivo,564343
+2020,3,state,Assam,Samsung,427293
+2020,3,state,Assam,Oppo,388827
+2020,3,state,Assam,Realme,236986
+2020,3,state,Assam,Huawei,47619
+2020,3,state,Assam,Motorola,40261
+2020,3,state,Assam,Gionee,39463
+2020,3,state,Assam,Asus,38775
+2020,3,state,Assam,Lenovo,33169
+2020,3,state,Assam,Others,284227
+2020,4,state,Assam,Xiaomi,792324
+2020,4,state,Assam,Vivo,627536
+2020,4,state,Assam,Samsung,465965
+2020,4,state,Assam,Oppo,431650
+2020,4,state,Assam,Realme,271012
+2020,4,state,Assam,Huawei,50719
+2020,4,state,Assam,Motorola,42173
+2020,4,state,Assam,Gionee,41431
+2020,4,state,Assam,Asus,40998
+2020,4,state,Assam,Lenovo,34802
+2020,4,state,Assam,Others,307543
+2021,1,state,Assam,Xiaomi,852998
+2021,1,state,Assam,Vivo,692740
+2021,1,state,Assam,Samsung,495482
+2021,1,state,Assam,Oppo,467440
+2021,1,state,Assam,Realme,303919
+2021,1,state,Assam,Huawei,53218
+2021,1,state,Assam,Asus,46880
+2021,1,state,Assam,Motorola,43119
+2021,1,state,Assam,Gionee,41879
+2021,1,state,Assam,Apple,37442
+2021,1,state,Assam,Others,323331
+2021,2,state,Assam,Xiaomi,909274
+2021,2,state,Assam,Vivo,753920
+2021,2,state,Assam,Samsung,522765
+2021,2,state,Assam,Oppo,503448
+2021,2,state,Assam,Realme,358841
+2021,2,state,Assam,Huawei,51958
+2021,2,state,Assam,Asus,45364
+2021,2,state,Assam,Motorola,42821
+2021,2,state,Assam,Apple,41622
+2021,2,state,Assam,Gionee,41574
+2021,2,state,Assam,Others,345469
+2021,3,state,Assam,Xiaomi,977013
+2021,3,state,Assam,Vivo,827232
+2021,3,state,Assam,Oppo,549403
+2021,3,state,Assam,Samsung,540646
+2021,3,state,Assam,Realme,422801
+2021,3,state,Assam,Huawei,56098
+2021,3,state,Assam,Apple,45531
+2021,3,state,Assam,Gionee,44481
+2021,3,state,Assam,Asus,43763
+2021,3,state,Assam,Motorola,42384
+2021,3,state,Assam,Others,369128
+2021,4,state,Assam,Xiaomi,1040847
+2021,4,state,Assam,Vivo,889004
+2021,4,state,Assam,Oppo,590804
+2021,4,state,Assam,Samsung,559238
+2021,4,state,Assam,Realme,501363
+2021,4,state,Assam,Huawei,54361
+2021,4,state,Assam,Apple,53459
+2021,4,state,Assam,Tecno,46362
+2021,4,state,Assam,OnePlus,45171
+2021,4,state,Assam,Motorola,43263
+2021,4,state,Assam,Others,385719
+2022,1,state,Assam,Xiaomi,1094829
+2022,1,state,Assam,Vivo,949299
+2022,1,state,Assam,Oppo,636621
+2022,1,state,Assam,Samsung,577746
+2022,1,state,Assam,Realme,573316
+2022,1,state,Assam,Apple,59621
+2022,1,state,Assam,Tecno,55957
+2022,1,state,Assam,Huawei,54586
+2022,1,state,Assam,OnePlus,52178
+2022,1,state,Assam,Infinix,47589
+2022,1,state,Assam,Others,390847
+2020,1,state,Bihar,Xiaomi,2779954
+2020,1,state,Bihar,Samsung,1896957
+2020,1,state,Bihar,Vivo,1297671
+2020,1,state,Bihar,Oppo,1103628
+2020,1,state,Bihar,Realme,782681
+2020,1,state,Bihar,Motorola,169958
+2020,1,state,Bihar,Huawei,161040
+2020,1,state,Bihar,Lenovo,132051
+2020,1,state,Bihar,Infinix,94820
+2020,1,state,Bihar,Micromax,81035
+2020,1,state,Bihar,Others,851439
+2020,2,state,Bihar,Xiaomi,3138353
+2020,2,state,Bihar,Samsung,2126374
+2020,2,state,Bihar,Vivo,1506720
+2020,2,state,Bihar,Oppo,1266996
+2020,2,state,Bihar,Realme,914785
+2020,2,state,Bihar,Motorola,183599
+2020,2,state,Bihar,Huawei,179273
+2020,2,state,Bihar,Lenovo,141217
+2020,2,state,Bihar,Infinix,115210
+2020,2,state,Bihar,Micromax,89409
+2020,2,state,Bihar,Others,941831
+2020,3,state,Bihar,Xiaomi,3459128
+2020,3,state,Bihar,Samsung,2346143
+2020,3,state,Bihar,Vivo,1712480
+2020,3,state,Bihar,Oppo,1419010
+2020,3,state,Bihar,Realme,1055287
+2020,3,state,Bihar,Motorola,196074
+2020,3,state,Bihar,Huawei,194850
+2020,3,state,Bihar,Lenovo,150687
+2020,3,state,Bihar,Infinix,132702
+2020,3,state,Bihar,HMD Global,97683
+2020,3,state,Bihar,Others,999169
+2020,4,state,Bihar,Xiaomi,3761975
+2020,4,state,Bihar,Samsung,2566835
+2020,4,state,Bihar,Vivo,1900128
+2020,4,state,Bihar,Oppo,1561641
+2020,4,state,Bihar,Realme,1195635
+2020,4,state,Bihar,Huawei,209280
+2020,4,state,Bihar,Motorola,206587
+2020,4,state,Bihar,Lenovo,158922
+2020,4,state,Bihar,Infinix,151393
+2020,4,state,Bihar,HMD Global,105494
+2020,4,state,Bihar,Others,1071943
+2021,1,state,Bihar,Xiaomi,4036125
+2021,1,state,Bihar,Samsung,2749873
+2021,1,state,Bihar,Vivo,2104591
+2021,1,state,Bihar,Oppo,1694257
+2021,1,state,Bihar,Realme,1349413
+2021,1,state,Bihar,Huawei,220336
+2021,1,state,Bihar,Motorola,212374
+2021,1,state,Bihar,Infinix,177252
+2021,1,state,Bihar,Lenovo,159501
+2021,1,state,Bihar,Tecno,123065
+2021,1,state,Bihar,Others,1119501
+2021,2,state,Bihar,Xiaomi,4268361
+2021,2,state,Bihar,Samsung,2889063
+2021,2,state,Bihar,Vivo,2311477
+2021,2,state,Bihar,Oppo,1826833
+2021,2,state,Bihar,Realme,1575376
+2021,2,state,Bihar,Huawei,215607
+2021,2,state,Bihar,Motorola,214140
+2021,2,state,Bihar,Infinix,212701
+2021,2,state,Bihar,Tecno,157952
+2021,2,state,Bihar,Lenovo,154152
+2021,2,state,Bihar,Others,1146472
+2021,3,state,Bihar,Xiaomi,4521874
+2021,3,state,Bihar,Samsung,3009544
+2021,3,state,Bihar,Vivo,2576928
+2021,3,state,Bihar,Oppo,1994060
+2021,3,state,Bihar,Realme,1835886
+2021,3,state,Bihar,Infinix,278142
+2021,3,state,Bihar,Huawei,222180
+2021,3,state,Bihar,Motorola,213677
+2021,3,state,Bihar,Tecno,198088
+2021,3,state,Bihar,Lenovo,147198
+2021,3,state,Bihar,Others,1163194
+2021,4,state,Bihar,Xiaomi,4718889
+2021,4,state,Bihar,Samsung,3142992
+2021,4,state,Bihar,Vivo,2818559
+2021,4,state,Bihar,Oppo,2164915
+2021,4,state,Bihar,Realme,2149920
+2021,4,state,Bihar,Infinix,342716
+2021,4,state,Bihar,Tecno,233246
+2021,4,state,Bihar,Motorola,220257
+2021,4,state,Bihar,Huawei,214582
+2021,4,state,Bihar,Apple,144021
+2021,4,state,Bihar,Others,1185884
+2022,1,state,Bihar,Xiaomi,4888198
+2022,1,state,Bihar,Samsung,3283813
+2022,1,state,Bihar,Vivo,3062549
+2022,1,state,Bihar,Realme,2443092
+2022,1,state,Bihar,Oppo,2339620
+2022,1,state,Bihar,Infinix,387204
+2022,1,state,Bihar,Tecno,280644
+2022,1,state,Bihar,Motorola,220543
+2022,1,state,Bihar,Huawei,215004
+2022,1,state,Bihar,Apple,158500
+2022,1,state,Bihar,Others,1205491
+2020,1,state,Chandigarh,Xiaomi,74599
+2020,1,state,Chandigarh,Samsung,62236
+2020,1,state,Chandigarh,Vivo,49864
+2020,1,state,Chandigarh,Oppo,38691
+2020,1,state,Chandigarh,Apple,25309
+2020,1,state,Chandigarh,Realme,10759
+2020,1,state,Chandigarh,OnePlus,9221
+2020,1,state,Chandigarh,Motorola,7160
+2020,1,state,Chandigarh,Huawei,4807
+2020,1,state,Chandigarh,Lenovo,3862
+2020,1,state,Chandigarh,Others,26379
+2020,2,state,Chandigarh,Xiaomi,79401
+2020,2,state,Chandigarh,Samsung,66732
+2020,2,state,Chandigarh,Vivo,55338
+2020,2,state,Chandigarh,Oppo,42912
+2020,2,state,Chandigarh,Apple,26562
+2020,2,state,Chandigarh,Realme,11849
+2020,2,state,Chandigarh,OnePlus,9516
+2020,2,state,Chandigarh,Motorola,7308
+2020,2,state,Chandigarh,Huawei,5057
+2020,2,state,Chandigarh,HMD Global,3920
+2020,2,state,Chandigarh,Others,27756
+2020,3,state,Chandigarh,Xiaomi,84467
+2020,3,state,Chandigarh,Samsung,72072
+2020,3,state,Chandigarh,Vivo,61814
+2020,3,state,Chandigarh,Oppo,47234
+2020,3,state,Chandigarh,Apple,28288
+2020,3,state,Chandigarh,Realme,13210
+2020,3,state,Chandigarh,OnePlus,9903
+2020,3,state,Chandigarh,Motorola,7558
+2020,3,state,Chandigarh,Huawei,5327
+2020,3,state,Chandigarh,HMD Global,4168
+2020,3,state,Chandigarh,Others,28547
+2020,4,state,Chandigarh,Xiaomi,90201
+2020,4,state,Chandigarh,Samsung,78159
+2020,4,state,Chandigarh,Vivo,68293
+2020,4,state,Chandigarh,Oppo,51650
+2020,4,state,Chandigarh,Apple,30593
+2020,4,state,Chandigarh,Realme,14705
+2020,4,state,Chandigarh,OnePlus,10462
+2020,4,state,Chandigarh,Motorola,7780
+2020,4,state,Chandigarh,Huawei,5641
+2020,4,state,Chandigarh,HMD Global,4400
+2020,4,state,Chandigarh,Others,29518
+2021,1,state,Chandigarh,Xiaomi,96137
+2021,1,state,Chandigarh,Samsung,83453
+2021,1,state,Chandigarh,Vivo,74844
+2021,1,state,Chandigarh,Oppo,56200
+2021,1,state,Chandigarh,Apple,32907
+2021,1,state,Chandigarh,Realme,16641
+2021,1,state,Chandigarh,OnePlus,10995
+2021,1,state,Chandigarh,Motorola,7989
+2021,1,state,Chandigarh,Huawei,5854
+2021,1,state,Chandigarh,HMD Global,4591
+2021,1,state,Chandigarh,Others,30387
+2021,2,state,Chandigarh,Xiaomi,101761
+2021,2,state,Chandigarh,Samsung,88362
+2021,2,state,Chandigarh,Vivo,81826
+2021,2,state,Chandigarh,Oppo,60671
+2021,2,state,Chandigarh,Apple,35361
+2021,2,state,Chandigarh,Realme,19398
+2021,2,state,Chandigarh,OnePlus,11907
+2021,2,state,Chandigarh,Motorola,8043
+2021,2,state,Chandigarh,Huawei,5918
+2021,2,state,Chandigarh,HMD Global,4599
+2021,2,state,Chandigarh,Others,30726
+2021,3,state,Chandigarh,Xiaomi,107815
+2021,3,state,Chandigarh,Samsung,92724
+2021,3,state,Chandigarh,Vivo,89865
+2021,3,state,Chandigarh,Oppo,66039
+2021,3,state,Chandigarh,Apple,37880
+2021,3,state,Chandigarh,Realme,22934
+2021,3,state,Chandigarh,OnePlus,13193
+2021,3,state,Chandigarh,Motorola,8166
+2021,3,state,Chandigarh,Huawei,5900
+2021,3,state,Chandigarh,HMD Global,4496
+2021,3,state,Chandigarh,Others,31451
+2021,4,state,Chandigarh,Xiaomi,112958
+2021,4,state,Chandigarh,Vivo,97127
+2021,4,state,Chandigarh,Samsung,97097
+2021,4,state,Chandigarh,Oppo,71275
+2021,4,state,Chandigarh,Apple,41698
+2021,4,state,Chandigarh,Realme,27098
+2021,4,state,Chandigarh,OnePlus,14380
+2021,4,state,Chandigarh,Motorola,8240
+2021,4,state,Chandigarh,Huawei,5797
+2021,4,state,Chandigarh,HMD Global,4511
+2021,4,state,Chandigarh,Others,31911
+2022,1,state,Chandigarh,Xiaomi,118077
+2022,1,state,Chandigarh,Vivo,103673
+2022,1,state,Chandigarh,Samsung,100254
+2022,1,state,Chandigarh,Oppo,76330
+2022,1,state,Chandigarh,Apple,45080
+2022,1,state,Chandigarh,Realme,30911
+2022,1,state,Chandigarh,OnePlus,15554
+2022,1,state,Chandigarh,Motorola,8378
+2022,1,state,Chandigarh,Huawei,5812
+2022,1,state,Chandigarh,HMD Global,4529
+2022,1,state,Chandigarh,Others,32951
+2020,1,state,Chhattisgarh,Xiaomi,711639
+2020,1,state,Chhattisgarh,Vivo,613952
+2020,1,state,Chhattisgarh,Samsung,521671
+2020,1,state,Chhattisgarh,Oppo,328835
+2020,1,state,Chhattisgarh,Micromax,253971
+2020,1,state,Chhattisgarh,Realme,196352
+2020,1,state,Chhattisgarh,Apple,47890
+2020,1,state,Chhattisgarh,OnePlus,43526
+2020,1,state,Chhattisgarh,Motorola,34414
+2020,1,state,Chhattisgarh,Lenovo,29426
+2020,1,state,Chhattisgarh,Others,234811
+2020,2,state,Chhattisgarh,Xiaomi,796390
+2020,2,state,Chhattisgarh,Vivo,714180
+2020,2,state,Chhattisgarh,Samsung,579423
+2020,2,state,Chhattisgarh,Oppo,377290
+2020,2,state,Chhattisgarh,Micromax,282770
+2020,2,state,Chhattisgarh,Realme,227611
+2020,2,state,Chhattisgarh,Apple,50835
+2020,2,state,Chhattisgarh,OnePlus,45570
+2020,2,state,Chhattisgarh,Motorola,36651
+2020,2,state,Chhattisgarh,Lenovo,30902
+2020,2,state,Chhattisgarh,Others,260036
+2020,3,state,Chhattisgarh,Xiaomi,879885
+2020,3,state,Chhattisgarh,Vivo,837832
+2020,3,state,Chhattisgarh,Samsung,638573
+2020,3,state,Chhattisgarh,Oppo,424680
+2020,3,state,Chhattisgarh,Micromax,300759
+2020,3,state,Chhattisgarh,Realme,264356
+2020,3,state,Chhattisgarh,Apple,54717
+2020,3,state,Chhattisgarh,OnePlus,48306
+2020,3,state,Chhattisgarh,Motorola,38887
+2020,3,state,Chhattisgarh,Lenovo,32625
+2020,3,state,Chhattisgarh,Others,278766
+2020,4,state,Chhattisgarh,Xiaomi,962085
+2020,4,state,Chhattisgarh,Vivo,951506
+2020,4,state,Chhattisgarh,Samsung,697989
+2020,4,state,Chhattisgarh,Oppo,473974
+2020,4,state,Chhattisgarh,Micromax,315002
+2020,4,state,Chhattisgarh,Realme,302527
+2020,4,state,Chhattisgarh,Apple,59187
+2020,4,state,Chhattisgarh,OnePlus,51351
+2020,4,state,Chhattisgarh,Motorola,41093
+2020,4,state,Chhattisgarh,Lenovo,34335
+2020,4,state,Chhattisgarh,Others,301552
+2021,1,state,Chhattisgarh,Vivo,1059097
+2021,1,state,Chhattisgarh,Xiaomi,1035868
+2021,1,state,Chhattisgarh,Samsung,741544
+2021,1,state,Chhattisgarh,Oppo,511992
+2021,1,state,Chhattisgarh,Realme,338436
+2021,1,state,Chhattisgarh,Micromax,315253
+2021,1,state,Chhattisgarh,Apple,63748
+2021,1,state,Chhattisgarh,OnePlus,54838
+2021,1,state,Chhattisgarh,Motorola,42166
+2021,1,state,Chhattisgarh,Huawei,35061
+2021,1,state,Chhattisgarh,Others,316548
+2021,2,state,Chhattisgarh,Vivo,1169224
+2021,2,state,Chhattisgarh,Xiaomi,1101581
+2021,2,state,Chhattisgarh,Samsung,778803
+2021,2,state,Chhattisgarh,Oppo,550796
+2021,2,state,Chhattisgarh,Realme,397105
+2021,2,state,Chhattisgarh,Micromax,302906
+2021,2,state,Chhattisgarh,Apple,69177
+2021,2,state,Chhattisgarh,OnePlus,61100
+2021,2,state,Chhattisgarh,Motorola,41735
+2021,2,state,Chhattisgarh,Huawei,34225
+2021,2,state,Chhattisgarh,Others,330403
+2021,3,state,Chhattisgarh,Vivo,1306833
+2021,3,state,Chhattisgarh,Xiaomi,1175329
+2021,3,state,Chhattisgarh,Samsung,796963
+2021,3,state,Chhattisgarh,Oppo,605302
+2021,3,state,Chhattisgarh,Realme,464310
+2021,3,state,Chhattisgarh,Micromax,283826
+2021,3,state,Chhattisgarh,Apple,75098
+2021,3,state,Chhattisgarh,OnePlus,74197
+2021,3,state,Chhattisgarh,Motorola,41449
+2021,3,state,Chhattisgarh,Infinix,38832
+2021,3,state,Chhattisgarh,Others,343945
+2021,4,state,Chhattisgarh,Vivo,1423389
+2021,4,state,Chhattisgarh,Xiaomi,1243356
+2021,4,state,Chhattisgarh,Samsung,821562
+2021,4,state,Chhattisgarh,Oppo,651316
+2021,4,state,Chhattisgarh,Realme,551719
+2021,4,state,Chhattisgarh,Micromax,262792
+2021,4,state,Chhattisgarh,OnePlus,87470
+2021,4,state,Chhattisgarh,Apple,87360
+2021,4,state,Chhattisgarh,Infinix,47609
+2021,4,state,Chhattisgarh,Tecno,44668
+2021,4,state,Chhattisgarh,Others,344240
+2022,1,state,Chhattisgarh,Vivo,1531319
+2022,1,state,Chhattisgarh,Xiaomi,1301387
+2022,1,state,Chhattisgarh,Samsung,843988
+2022,1,state,Chhattisgarh,Oppo,702141
+2022,1,state,Chhattisgarh,Realme,629948
+2022,1,state,Chhattisgarh,Micromax,255953
+2022,1,state,Chhattisgarh,OnePlus,99485
+2022,1,state,Chhattisgarh,Apple,96555
+2022,1,state,Chhattisgarh,Tecno,57754
+2022,1,state,Chhattisgarh,Infinix,53501
+2022,1,state,Chhattisgarh,Others,344930
+2020,1,state,Dadra & Nagar Haveli & Daman & Diu,Xiaomi,52683
+2020,1,state,Dadra & Nagar Haveli & Daman & Diu,Vivo,48874
+2020,1,state,Dadra & Nagar Haveli & Daman & Diu,Samsung,38134
+2020,1,state,Dadra & Nagar Haveli & Daman & Diu,Oppo,26282
+2020,1,state,Dadra & Nagar Haveli & Daman & Diu,Realme,13927
+2020,1,state,Dadra & Nagar Haveli & Daman & Diu,Apple,4178
+2020,1,state,Dadra & Nagar Haveli & Daman & Diu,Motorola,4028
+2020,1,state,Dadra & Nagar Haveli & Daman & Diu,Lenovo,3944
+2020,1,state,Dadra & Nagar Haveli & Daman & Diu,Huawei,3732
+2020,1,state,Dadra & Nagar Haveli & Daman & Diu,OnePlus,2682
+2020,1,state,Dadra & Nagar Haveli & Daman & Diu,Others,20032
+2020,2,state,Dadra & Nagar Haveli & Daman & Diu,Xiaomi,58073
+2020,2,state,Dadra & Nagar Haveli & Daman & Diu,Vivo,56525
+2020,2,state,Dadra & Nagar Haveli & Daman & Diu,Samsung,42346
+2020,2,state,Dadra & Nagar Haveli & Daman & Diu,Oppo,29921
+2020,2,state,Dadra & Nagar Haveli & Daman & Diu,Realme,16175
+2020,2,state,Dadra & Nagar Haveli & Daman & Diu,Apple,4502
+2020,2,state,Dadra & Nagar Haveli & Daman & Diu,Motorola,4308
+2020,2,state,Dadra & Nagar Haveli & Daman & Diu,Lenovo,4157
+2020,2,state,Dadra & Nagar Haveli & Daman & Diu,Huawei,4069
+2020,2,state,Dadra & Nagar Haveli & Daman & Diu,OnePlus,2817
+2020,2,state,Dadra & Nagar Haveli & Daman & Diu,Others,21921
+2020,3,state,Dadra & Nagar Haveli & Daman & Diu,Vivo,63527
+2020,3,state,Dadra & Nagar Haveli & Daman & Diu,Xiaomi,62612
+2020,3,state,Dadra & Nagar Haveli & Daman & Diu,Samsung,46194
+2020,3,state,Dadra & Nagar Haveli & Daman & Diu,Oppo,33220
+2020,3,state,Dadra & Nagar Haveli & Daman & Diu,Realme,18327
+2020,3,state,Dadra & Nagar Haveli & Daman & Diu,Apple,4852
+2020,3,state,Dadra & Nagar Haveli & Daman & Diu,Motorola,4473
+2020,3,state,Dadra & Nagar Haveli & Daman & Diu,Huawei,4325
+2020,3,state,Dadra & Nagar Haveli & Daman & Diu,Lenovo,4294
+2020,3,state,Dadra & Nagar Haveli & Daman & Diu,OnePlus,2971
+2020,3,state,Dadra & Nagar Haveli & Daman & Diu,Others,23151
+2020,4,state,Dadra & Nagar Haveli & Daman & Diu,Vivo,71995
+2020,4,state,Dadra & Nagar Haveli & Daman & Diu,Xiaomi,68314
+2020,4,state,Dadra & Nagar Haveli & Daman & Diu,Samsung,50714
+2020,4,state,Dadra & Nagar Haveli & Daman & Diu,Oppo,36932
+2020,4,state,Dadra & Nagar Haveli & Daman & Diu,Realme,20993
+2020,4,state,Dadra & Nagar Haveli & Daman & Diu,Apple,5335
+2020,4,state,Dadra & Nagar Haveli & Daman & Diu,Motorola,4712
+2020,4,state,Dadra & Nagar Haveli & Daman & Diu,Huawei,4635
+2020,4,state,Dadra & Nagar Haveli & Daman & Diu,Lenovo,4516
+2020,4,state,Dadra & Nagar Haveli & Daman & Diu,OnePlus,3173
+2020,4,state,Dadra & Nagar Haveli & Daman & Diu,Others,25174
+2021,1,state,Dadra & Nagar Haveli & Daman & Diu,Vivo,79699
+2021,1,state,Dadra & Nagar Haveli & Daman & Diu,Xiaomi,73383
+2021,1,state,Dadra & Nagar Haveli & Daman & Diu,Samsung,54230
+2021,1,state,Dadra & Nagar Haveli & Daman & Diu,Oppo,40045
+2021,1,state,Dadra & Nagar Haveli & Daman & Diu,Realme,23882
+2021,1,state,Dadra & Nagar Haveli & Daman & Diu,Apple,5784
+2021,1,state,Dadra & Nagar Haveli & Daman & Diu,Huawei,4871
+2021,1,state,Dadra & Nagar Haveli & Daman & Diu,Motorola,4859
+2021,1,state,Dadra & Nagar Haveli & Daman & Diu,Lenovo,4531
+2021,1,state,Dadra & Nagar Haveli & Daman & Diu,Tecno,3575
+2021,1,state,Dadra & Nagar Haveli & Daman & Diu,Others,26537
+2021,2,state,Dadra & Nagar Haveli & Daman & Diu,Vivo,87001
+2021,2,state,Dadra & Nagar Haveli & Daman & Diu,Xiaomi,77605
+2021,2,state,Dadra & Nagar Haveli & Daman & Diu,Samsung,57137
+2021,2,state,Dadra & Nagar Haveli & Daman & Diu,Oppo,43131
+2021,2,state,Dadra & Nagar Haveli & Daman & Diu,Realme,27996
+2021,2,state,Dadra & Nagar Haveli & Daman & Diu,Apple,6273
+2021,2,state,Dadra & Nagar Haveli & Daman & Diu,Huawei,4834
+2021,2,state,Dadra & Nagar Haveli & Daman & Diu,Motorola,4803
+2021,2,state,Dadra & Nagar Haveli & Daman & Diu,Tecno,4453
+2021,2,state,Dadra & Nagar Haveli & Daman & Diu,Lenovo,4280
+2021,2,state,Dadra & Nagar Haveli & Daman & Diu,Others,27481
+2021,3,state,Dadra & Nagar Haveli & Daman & Diu,Vivo,95723
+2021,3,state,Dadra & Nagar Haveli & Daman & Diu,Xiaomi,82367
+2021,3,state,Dadra & Nagar Haveli & Daman & Diu,Samsung,59023
+2021,3,state,Dadra & Nagar Haveli & Daman & Diu,Oppo,46708
+2021,3,state,Dadra & Nagar Haveli & Daman & Diu,Realme,32929
+2021,3,state,Dadra & Nagar Haveli & Daman & Diu,Apple,6802
+2021,3,state,Dadra & Nagar Haveli & Daman & Diu,Tecno,5777
+2021,3,state,Dadra & Nagar Haveli & Daman & Diu,Motorola,4807
+2021,3,state,Dadra & Nagar Haveli & Daman & Diu,Huawei,4785
+2021,3,state,Dadra & Nagar Haveli & Daman & Diu,Infinix,4734
+2021,3,state,Dadra & Nagar Haveli & Daman & Diu,Others,28219
+2021,4,state,Dadra & Nagar Haveli & Daman & Diu,Vivo,104203
+2021,4,state,Dadra & Nagar Haveli & Daman & Diu,Xiaomi,85964
+2021,4,state,Dadra & Nagar Haveli & Daman & Diu,Samsung,61231
+2021,4,state,Dadra & Nagar Haveli & Daman & Diu,Oppo,50155
+2021,4,state,Dadra & Nagar Haveli & Daman & Diu,Realme,39211
+2021,4,state,Dadra & Nagar Haveli & Daman & Diu,Apple,7542
+2021,4,state,Dadra & Nagar Haveli & Daman & Diu,Tecno,6955
+2021,4,state,Dadra & Nagar Haveli & Daman & Diu,Infinix,6018
+2021,4,state,Dadra & Nagar Haveli & Daman & Diu,OnePlus,5332
+2021,4,state,Dadra & Nagar Haveli & Daman & Diu,Motorola,4828
+2021,4,state,Dadra & Nagar Haveli & Daman & Diu,Others,27524
+2022,1,state,Dadra & Nagar Haveli & Daman & Diu,Vivo,111699
+2022,1,state,Dadra & Nagar Haveli & Daman & Diu,Xiaomi,89446
+2022,1,state,Dadra & Nagar Haveli & Daman & Diu,Samsung,63414
+2022,1,state,Dadra & Nagar Haveli & Daman & Diu,Oppo,53652
+2022,1,state,Dadra & Nagar Haveli & Daman & Diu,Realme,44772
+2022,1,state,Dadra & Nagar Haveli & Daman & Diu,Apple,8300
+2022,1,state,Dadra & Nagar Haveli & Daman & Diu,Tecno,8287
+2022,1,state,Dadra & Nagar Haveli & Daman & Diu,Infinix,6909
+2022,1,state,Dadra & Nagar Haveli & Daman & Diu,OnePlus,5945
+2022,1,state,Dadra & Nagar Haveli & Daman & Diu,Motorola,4850
+2022,1,state,Dadra & Nagar Haveli & Daman & Diu,Others,27296
+2020,1,state,Delhi,Xiaomi,1998766
+2020,1,state,Delhi,Samsung,1484289
+2020,1,state,Delhi,Vivo,1238728
+2020,1,state,Delhi,Oppo,909331
+2020,1,state,Delhi,Apple,436979
+2020,1,state,Delhi,Realme,333567
+2020,1,state,Delhi,OnePlus,225852
+2020,1,state,Delhi,Motorola,223909
+2020,1,state,Delhi,Huawei,142660
+2020,1,state,Delhi,Lenovo,124278
+2020,1,state,Delhi,Others,707838
+2020,2,state,Delhi,Xiaomi,2125586
+2020,2,state,Delhi,Samsung,1585854
+2020,2,state,Delhi,Vivo,1364186
+2020,2,state,Delhi,Oppo,1002444
+2020,2,state,Delhi,Apple,458450
+2020,2,state,Delhi,Realme,366179
+2020,2,state,Delhi,OnePlus,233802
+2020,2,state,Delhi,Motorola,231246
+2020,2,state,Delhi,Huawei,150807
+2020,2,state,Delhi,Lenovo,127388
+2020,2,state,Delhi,Others,745197
+2020,3,state,Delhi,Xiaomi,2264717
+2020,3,state,Delhi,Samsung,1707446
+2020,3,state,Delhi,Vivo,1516602
+2020,3,state,Delhi,Oppo,1106202
+2020,3,state,Delhi,Apple,485868
+2020,3,state,Delhi,Realme,406930
+2020,3,state,Delhi,OnePlus,244532
+2020,3,state,Delhi,Motorola,238737
+2020,3,state,Delhi,Huawei,159503
+2020,3,state,Delhi,Lenovo,131036
+2020,3,state,Delhi,Others,782601
+2020,4,state,Delhi,Xiaomi,2416705
+2020,4,state,Delhi,Samsung,1842707
+2020,4,state,Delhi,Vivo,1673743
+2020,4,state,Delhi,Oppo,1209582
+2020,4,state,Delhi,Apple,518592
+2020,4,state,Delhi,Realme,452392
+2020,4,state,Delhi,OnePlus,256533
+2020,4,state,Delhi,Motorola,246834
+2020,4,state,Delhi,Huawei,168898
+2020,4,state,Delhi,Lenovo,134947
+2020,4,state,Delhi,Others,827035
+2021,1,state,Delhi,Xiaomi,2575350
+2021,1,state,Delhi,Samsung,1963994
+2021,1,state,Delhi,Vivo,1839180
+2021,1,state,Delhi,Oppo,1318743
+2021,1,state,Delhi,Apple,555462
+2021,1,state,Delhi,Realme,511070
+2021,1,state,Delhi,OnePlus,269742
+2021,1,state,Delhi,Motorola,253270
+2021,1,state,Delhi,Huawei,175712
+2021,1,state,Delhi,Lenovo,137068
+2021,1,state,Delhi,Others,867619
+2021,2,state,Delhi,Xiaomi,2731995
+2021,2,state,Delhi,Samsung,2070161
+2021,2,state,Delhi,Vivo,2011494
+2021,2,state,Delhi,Oppo,1432860
+2021,2,state,Delhi,Realme,596308
+2021,2,state,Delhi,Apple,591905
+2021,2,state,Delhi,OnePlus,291216
+2021,2,state,Delhi,Motorola,252565
+2021,2,state,Delhi,Huawei,176234
+2021,2,state,Delhi,Lenovo,134680
+2021,2,state,Delhi,Others,893281
+2021,3,state,Delhi,Xiaomi,2897206
+2021,3,state,Delhi,Vivo,2220413
+2021,3,state,Delhi,Samsung,2149622
+2021,3,state,Delhi,Oppo,1566918
+2021,3,state,Delhi,Realme,707377
+2021,3,state,Delhi,Apple,631640
+2021,3,state,Delhi,OnePlus,331920
+2021,3,state,Delhi,Motorola,250528
+2021,3,state,Delhi,Huawei,172290
+2021,3,state,Delhi,Tecno,148235
+2021,3,state,Delhi,Others,903912
+2021,4,state,Delhi,Xiaomi,3028207
+2021,4,state,Delhi,Vivo,2413197
+2021,4,state,Delhi,Samsung,2238115
+2021,4,state,Delhi,Oppo,1697646
+2021,4,state,Delhi,Realme,840595
+2021,4,state,Delhi,Apple,705541
+2021,4,state,Delhi,OnePlus,369158
+2021,4,state,Delhi,Motorola,250976
+2021,4,state,Delhi,Tecno,176336
+2021,4,state,Delhi,Huawei,166930
+2021,4,state,Delhi,Others,898426
+2022,1,state,Delhi,Xiaomi,3155264
+2022,1,state,Delhi,Vivo,2586749
+2022,1,state,Delhi,Samsung,2320460
+2022,1,state,Delhi,Oppo,1817979
+2022,1,state,Delhi,Realme,964540
+2022,1,state,Delhi,Apple,761100
+2022,1,state,Delhi,OnePlus,404741
+2022,1,state,Delhi,Motorola,252427
+2022,1,state,Delhi,Tecno,206904
+2022,1,state,Delhi,Huawei,164421
+2022,1,state,Delhi,Others,904612
+2020,1,state,Goa,Xiaomi,100364
+2020,1,state,Goa,Samsung,82358
+2020,1,state,Goa,Vivo,54965
+2020,1,state,Goa,Oppo,38778
+2020,1,state,Goa,Apple,19244
+2020,1,state,Goa,Realme,18803
+2020,1,state,Goa,OnePlus,14926
+2020,1,state,Goa,Motorola,13118
+2020,1,state,Goa,Huawei,8459
+2020,1,state,Goa,Lenovo,7167
+2020,1,state,Goa,Others,33718
+2020,2,state,Goa,Xiaomi,109624
+2020,2,state,Goa,Samsung,90927
+2020,2,state,Goa,Vivo,61868
+2020,2,state,Goa,Oppo,43887
+2020,2,state,Goa,Realme,21236
+2020,2,state,Goa,Apple,20388
+2020,2,state,Goa,OnePlus,15482
+2020,2,state,Goa,Motorola,13908
+2020,2,state,Goa,Huawei,9221
+2020,2,state,Goa,Lenovo,7481
+2020,2,state,Goa,Others,36617
+2020,3,state,Goa,Xiaomi,119983
+2020,3,state,Goa,Samsung,101577
+2020,3,state,Goa,Vivo,69991
+2020,3,state,Goa,Oppo,49411
+2020,3,state,Goa,Realme,24328
+2020,3,state,Goa,Apple,21967
+2020,3,state,Goa,OnePlus,16389
+2020,3,state,Goa,Motorola,14656
+2020,3,state,Goa,Huawei,9964
+2020,3,state,Goa,Lenovo,7790
+2020,3,state,Goa,Others,38906
+2020,4,state,Goa,Xiaomi,132099
+2020,4,state,Goa,Samsung,114296
+2020,4,state,Goa,Vivo,78921
+2020,4,state,Goa,Oppo,55468
+2020,4,state,Goa,Realme,28000
+2020,4,state,Goa,Apple,24214
+2020,4,state,Goa,OnePlus,17571
+2020,4,state,Goa,Motorola,15500
+2020,4,state,Goa,Huawei,10821
+2020,4,state,Goa,Lenovo,8172
+2020,4,state,Goa,Others,42522
+2021,1,state,Goa,Xiaomi,142193
+2021,1,state,Goa,Samsung,123133
+2021,1,state,Goa,Vivo,87010
+2021,1,state,Goa,Oppo,60381
+2021,1,state,Goa,Realme,31824
+2021,1,state,Goa,Apple,26139
+2021,1,state,Goa,OnePlus,18577
+2021,1,state,Goa,Motorola,15944
+2021,1,state,Goa,Huawei,11414
+2021,1,state,Goa,Lenovo,8178
+2021,1,state,Goa,Others,45242
+2021,2,state,Goa,Xiaomi,152107
+2021,2,state,Goa,Samsung,129938
+2021,2,state,Goa,Vivo,94216
+2021,2,state,Goa,Oppo,64685
+2021,2,state,Goa,Realme,37973
+2021,2,state,Goa,Apple,28049
+2021,2,state,Goa,OnePlus,19803
+2021,2,state,Goa,Motorola,15937
+2021,2,state,Goa,Huawei,11315
+2021,2,state,Goa,Lenovo,7861
+2021,2,state,Goa,Others,47222
+2021,3,state,Goa,Xiaomi,163235
+2021,3,state,Goa,Samsung,135615
+2021,3,state,Goa,Vivo,103139
+2021,3,state,Goa,Oppo,69841
+2021,3,state,Goa,Realme,45087
+2021,3,state,Goa,Apple,29989
+2021,3,state,Goa,OnePlus,22136
+2021,3,state,Goa,Motorola,15824
+2021,3,state,Goa,Huawei,11214
+2021,3,state,Goa,Tecno,7719
+2021,3,state,Goa,Others,49659
+2021,4,state,Goa,Xiaomi,172749
+2021,4,state,Goa,Samsung,141066
+2021,4,state,Goa,Vivo,110824
+2021,4,state,Goa,Oppo,75088
+2021,4,state,Goa,Realme,53598
+2021,4,state,Goa,Apple,33398
+2021,4,state,Goa,OnePlus,24355
+2021,4,state,Goa,Motorola,16068
+2021,4,state,Goa,Huawei,10899
+2021,4,state,Goa,Tecno,9081
+2021,4,state,Goa,Others,50052
+2022,1,state,Goa,Xiaomi,181266
+2022,1,state,Goa,Samsung,146487
+2022,1,state,Goa,Vivo,118448
+2022,1,state,Goa,Oppo,80145
+2022,1,state,Goa,Realme,60870
+2022,1,state,Goa,Apple,36235
+2022,1,state,Goa,OnePlus,26283
+2022,1,state,Goa,Motorola,16125
+2022,1,state,Goa,Huawei,10823
+2022,1,state,Goa,Tecno,10780
+2022,1,state,Goa,Others,51166
+2020,1,state,Gujarat,Xiaomi,2375291
+2020,1,state,Gujarat,Vivo,2206536
+2020,1,state,Gujarat,Samsung,2139753
+2020,1,state,Gujarat,Oppo,1429059
+2020,1,state,Gujarat,Realme,411217
+2020,1,state,Gujarat,Apple,377075
+2020,1,state,Gujarat,OnePlus,216733
+2020,1,state,Gujarat,Lenovo,183981
+2020,1,state,Gujarat,Motorola,152517
+2020,1,state,Gujarat,Huawei,119412
+2020,1,state,Gujarat,Others,648269
+2020,2,state,Gujarat,Xiaomi,2596510
+2020,2,state,Gujarat,Vivo,2517289
+2020,2,state,Gujarat,Samsung,2358840
+2020,2,state,Gujarat,Oppo,1638925
+2020,2,state,Gujarat,Realme,464677
+2020,2,state,Gujarat,Apple,399962
+2020,2,state,Gujarat,OnePlus,225499
+2020,2,state,Gujarat,Lenovo,199446
+2020,2,state,Gujarat,Motorola,159087
+2020,2,state,Gujarat,Huawei,128197
+2020,2,state,Gujarat,Others,704225
+2020,3,state,Gujarat,Vivo,2833786
+2020,3,state,Gujarat,Xiaomi,2792901
+2020,3,state,Gujarat,Samsung,2570866
+2020,3,state,Gujarat,Oppo,1827108
+2020,3,state,Gujarat,Realme,525717
+2020,3,state,Gujarat,Apple,425591
+2020,3,state,Gujarat,OnePlus,236755
+2020,3,state,Gujarat,Lenovo,211958
+2020,3,state,Gujarat,Motorola,164618
+2020,3,state,Gujarat,Huawei,135946
+2020,3,state,Gujarat,Others,742601
+2020,4,state,Gujarat,Vivo,3159752
+2020,4,state,Gujarat,Xiaomi,2998305
+2020,4,state,Gujarat,Samsung,2800655
+2020,4,state,Gujarat,Oppo,2016643
+2020,4,state,Gujarat,Realme,592948
+2020,4,state,Gujarat,Apple,456563
+2020,4,state,Gujarat,OnePlus,249222
+2020,4,state,Gujarat,Lenovo,223106
+2020,4,state,Gujarat,Motorola,170289
+2020,4,state,Gujarat,Huawei,144035
+2020,4,state,Gujarat,Others,793685
+2021,1,state,Gujarat,Vivo,3492512
+2021,1,state,Gujarat,Xiaomi,3197714
+2021,1,state,Gujarat,Samsung,2987011
+2021,1,state,Gujarat,Oppo,2188804
+2021,1,state,Gujarat,Realme,666628
+2021,1,state,Gujarat,Apple,489078
+2021,1,state,Gujarat,OnePlus,264150
+2021,1,state,Gujarat,Lenovo,224880
+2021,1,state,Gujarat,Motorola,174216
+2021,1,state,Gujarat,Huawei,149907
+2021,1,state,Gujarat,Others,835226
+2021,2,state,Gujarat,Vivo,3834323
+2021,2,state,Gujarat,Xiaomi,3362430
+2021,2,state,Gujarat,Samsung,3154317
+2021,2,state,Gujarat,Oppo,2364362
+2021,2,state,Gujarat,Realme,790357
+2021,2,state,Gujarat,Apple,529166
+2021,2,state,Gujarat,OnePlus,293085
+2021,2,state,Gujarat,Lenovo,218253
+2021,2,state,Gujarat,Motorola,173429
+2021,2,state,Gujarat,Huawei,146703
+2021,2,state,Gujarat,Others,869556
+2021,3,state,Gujarat,Vivo,4261214
+2021,3,state,Gujarat,Xiaomi,3544088
+2021,3,state,Gujarat,Samsung,3267319
+2021,3,state,Gujarat,Oppo,2580826
+2021,3,state,Gujarat,Realme,932371
+2021,3,state,Gujarat,Apple,569577
+2021,3,state,Gujarat,OnePlus,345805
+2021,3,state,Gujarat,Lenovo,210237
+2021,3,state,Gujarat,Motorola,172358
+2021,3,state,Gujarat,Tecno,161791
+2021,3,state,Gujarat,Others,901175
+2021,4,state,Gujarat,Vivo,4645259
+2021,4,state,Gujarat,Xiaomi,3700589
+2021,4,state,Gujarat,Samsung,3390165
+2021,4,state,Gujarat,Oppo,2791203
+2021,4,state,Gujarat,Realme,1116664
+2021,4,state,Gujarat,Apple,635160
+2021,4,state,Gujarat,OnePlus,397948
+2021,4,state,Gujarat,Lenovo,199946
+2021,4,state,Gujarat,Tecno,187064
+2021,4,state,Gujarat,Motorola,174499
+2021,4,state,Gujarat,Others,900704
+2022,1,state,Gujarat,Vivo,4996272
+2022,1,state,Gujarat,Xiaomi,3842766
+2022,1,state,Gujarat,Samsung,3511762
+2022,1,state,Gujarat,Oppo,2996365
+2022,1,state,Gujarat,Realme,1272108
+2022,1,state,Gujarat,Apple,693504
+2022,1,state,Gujarat,OnePlus,441053
+2022,1,state,Gujarat,Tecno,223305
+2022,1,state,Gujarat,Lenovo,203354
+2022,1,state,Gujarat,Motorola,174739
+2022,1,state,Gujarat,Others,910086
+2020,1,state,Haryana,Xiaomi,1753322
+2020,1,state,Haryana,Samsung,1400065
+2020,1,state,Haryana,Vivo,1250165
+2020,1,state,Haryana,Oppo,881733
+2020,1,state,Haryana,Realme,364011
+2020,1,state,Haryana,Apple,308315
+2020,1,state,Haryana,Motorola,143514
+2020,1,state,Haryana,OnePlus,137007
+2020,1,state,Haryana,Huawei,123916
+2020,1,state,Haryana,Lenovo,80705
+2020,1,state,Haryana,Others,576017
+2020,2,state,Haryana,Xiaomi,1914791
+2020,2,state,Haryana,Samsung,1520490
+2020,2,state,Haryana,Vivo,1398622
+2020,2,state,Haryana,Oppo,984512
+2020,2,state,Haryana,Realme,407778
+2020,2,state,Haryana,Apple,326534
+2020,2,state,Haryana,Motorola,151138
+2020,2,state,Haryana,OnePlus,142338
+2020,2,state,Haryana,Huawei,133152
+2020,2,state,Haryana,Lenovo,83928
+2020,2,state,Haryana,Others,619595
+2020,3,state,Haryana,Xiaomi,2075024
+2020,3,state,Haryana,Samsung,1655037
+2020,3,state,Haryana,Vivo,1573430
+2020,3,state,Haryana,Oppo,1092131
+2020,3,state,Haryana,Realme,459785
+2020,3,state,Haryana,Apple,348330
+2020,3,state,Haryana,Motorola,158324
+2020,3,state,Haryana,OnePlus,149108
+2020,3,state,Haryana,Huawei,142260
+2020,3,state,Haryana,Lenovo,87838
+2020,3,state,Haryana,Others,657549
+2020,4,state,Haryana,Xiaomi,2236661
+2020,4,state,Haryana,Samsung,1795147
+2020,4,state,Haryana,Vivo,1744266
+2020,4,state,Haryana,Oppo,1196039
+2020,4,state,Haryana,Realme,514733
+2020,4,state,Haryana,Apple,374080
+2020,4,state,Haryana,Motorola,165075
+2020,4,state,Haryana,OnePlus,156430
+2020,4,state,Haryana,Huawei,151226
+2020,4,state,Haryana,Lenovo,91990
+2020,4,state,Haryana,Others,704226
+2021,1,state,Haryana,Xiaomi,2382996
+2021,1,state,Haryana,Vivo,1922898
+2021,1,state,Haryana,Samsung,1913165
+2021,1,state,Haryana,Oppo,1300515
+2021,1,state,Haryana,Realme,577867
+2021,1,state,Haryana,Apple,401563
+2021,1,state,Haryana,Motorola,169504
+2021,1,state,Haryana,OnePlus,165335
+2021,1,state,Haryana,Huawei,157570
+2021,1,state,Haryana,Lenovo,92713
+2021,1,state,Haryana,Others,743779
+2021,2,state,Haryana,Xiaomi,2505880
+2021,2,state,Haryana,Vivo,2114734
+2021,2,state,Haryana,Samsung,2016108
+2021,2,state,Haryana,Oppo,1416092
+2021,2,state,Haryana,Realme,673053
+2021,2,state,Haryana,Apple,434298
+2021,2,state,Haryana,OnePlus,181344
+2021,2,state,Haryana,Motorola,169562
+2021,2,state,Haryana,Huawei,154484
+2021,2,state,Haryana,Tecno,108879
+2021,2,state,Haryana,Others,756160
+2021,3,state,Haryana,Xiaomi,2638176
+2021,3,state,Haryana,Vivo,2357220
+2021,3,state,Haryana,Samsung,2089070
+2021,3,state,Haryana,Oppo,1560205
+2021,3,state,Haryana,Realme,781719
+2021,3,state,Haryana,Apple,467144
+2021,3,state,Haryana,OnePlus,210246
+2021,3,state,Haryana,Motorola,168742
+2021,3,state,Haryana,Huawei,153598
+2021,3,state,Haryana,Tecno,134477
+2021,3,state,Haryana,Others,764739
+2021,4,state,Haryana,Xiaomi,2742821
+2021,4,state,Haryana,Vivo,2569078
+2021,4,state,Haryana,Samsung,2176063
+2021,4,state,Haryana,Oppo,1697572
+2021,4,state,Haryana,Realme,916660
+2021,4,state,Haryana,Apple,529430
+2021,4,state,Haryana,OnePlus,238331
+2021,4,state,Haryana,Motorola,170147
+2021,4,state,Haryana,Tecno,156987
+2021,4,state,Haryana,Huawei,147354
+2021,4,state,Haryana,Others,771996
+2022,1,state,Haryana,Xiaomi,2837979
+2022,1,state,Haryana,Vivo,2767906
+2022,1,state,Haryana,Samsung,2259241
+2022,1,state,Haryana,Oppo,1825605
+2022,1,state,Haryana,Realme,1043668
+2022,1,state,Haryana,Apple,578053
+2022,1,state,Haryana,OnePlus,267015
+2022,1,state,Haryana,Tecno,184983
+2022,1,state,Haryana,Motorola,170641
+2022,1,state,Haryana,Huawei,145049
+2022,1,state,Haryana,Others,786848
+2020,1,state,Himachal Pradesh,Xiaomi,333918
+2020,1,state,Himachal Pradesh,Samsung,165251
+2020,1,state,Himachal Pradesh,Vivo,142220
+2020,1,state,Himachal Pradesh,Oppo,129752
+2020,1,state,Himachal Pradesh,Realme,63582
+2020,1,state,Himachal Pradesh,Apple,28072
+2020,1,state,Himachal Pradesh,Motorola,24777
+2020,1,state,Himachal Pradesh,Lava,23152
+2020,1,state,Himachal Pradesh,Micromax,18804
+2020,1,state,Himachal Pradesh,Huawei,18646
+2020,1,state,Himachal Pradesh,Others,157851
+2020,2,state,Himachal Pradesh,Xiaomi,375976
+2020,2,state,Himachal Pradesh,Samsung,184898
+2020,2,state,Himachal Pradesh,Vivo,166131
+2020,2,state,Himachal Pradesh,Oppo,150002
+2020,2,state,Himachal Pradesh,Realme,74053
+2020,2,state,Himachal Pradesh,Apple,30105
+2020,2,state,Himachal Pradesh,Motorola,26497
+2020,2,state,Himachal Pradesh,Lava,25049
+2020,2,state,Himachal Pradesh,Gionee,21296
+2020,2,state,Himachal Pradesh,Micromax,20603
+2020,2,state,Himachal Pradesh,Others,175257
+2020,3,state,Himachal Pradesh,Xiaomi,412600
+2020,3,state,Himachal Pradesh,Samsung,204813
+2020,3,state,Himachal Pradesh,Vivo,190933
+2020,3,state,Himachal Pradesh,Oppo,167966
+2020,3,state,Himachal Pradesh,Realme,85574
+2020,3,state,Himachal Pradesh,Apple,32354
+2020,3,state,Himachal Pradesh,Motorola,27952
+2020,3,state,Himachal Pradesh,Lava,26803
+2020,3,state,Himachal Pradesh,Gionee,22265
+2020,3,state,Himachal Pradesh,Micromax,22029
+2020,3,state,Himachal Pradesh,Others,185345
+2020,4,state,Himachal Pradesh,Xiaomi,448361
+2020,4,state,Himachal Pradesh,Samsung,226491
+2020,4,state,Himachal Pradesh,Vivo,212147
+2020,4,state,Himachal Pradesh,Oppo,186684
+2020,4,state,Himachal Pradesh,Realme,97707
+2020,4,state,Himachal Pradesh,Apple,35276
+2020,4,state,Himachal Pradesh,Motorola,29156
+2020,4,state,Himachal Pradesh,Lava,29138
+2020,4,state,Himachal Pradesh,Gionee,23461
+2020,4,state,Himachal Pradesh,Micromax,23015
+2020,4,state,Himachal Pradesh,Others,197330
+2021,1,state,Himachal Pradesh,Xiaomi,481737
+2021,1,state,Himachal Pradesh,Samsung,242485
+2021,1,state,Himachal Pradesh,Vivo,234300
+2021,1,state,Himachal Pradesh,Oppo,202041
+2021,1,state,Himachal Pradesh,Realme,109409
+2021,1,state,Himachal Pradesh,Apple,37856
+2021,1,state,Himachal Pradesh,Lava,30512
+2021,1,state,Himachal Pradesh,Motorola,29736
+2021,1,state,Himachal Pradesh,Huawei,24038
+2021,1,state,Himachal Pradesh,Gionee,23591
+2021,1,state,Himachal Pradesh,Others,207246
+2021,2,state,Himachal Pradesh,Xiaomi,513196
+2021,2,state,Himachal Pradesh,Samsung,260440
+2021,2,state,Himachal Pradesh,Vivo,254841
+2021,2,state,Himachal Pradesh,Oppo,217962
+2021,2,state,Himachal Pradesh,Realme,128488
+2021,2,state,Himachal Pradesh,Apple,41436
+2021,2,state,Himachal Pradesh,Lava,32566
+2021,2,state,Himachal Pradesh,Motorola,30072
+2021,2,state,Himachal Pradesh,Huawei,23728
+2021,2,state,Himachal Pradesh,Gionee,23284
+2021,2,state,Himachal Pradesh,Others,217138
+2021,3,state,Himachal Pradesh,Xiaomi,549749
+2021,3,state,Himachal Pradesh,Vivo,281606
+2021,3,state,Himachal Pradesh,Samsung,274845
+2021,3,state,Himachal Pradesh,Oppo,238065
+2021,3,state,Himachal Pradesh,Realme,149451
+2021,3,state,Himachal Pradesh,Apple,44803
+2021,3,state,Himachal Pradesh,Lava,32894
+2021,3,state,Himachal Pradesh,Motorola,30197
+2021,3,state,Himachal Pradesh,Tecno,25897
+2021,3,state,Himachal Pradesh,Huawei,25680
+2021,3,state,Himachal Pradesh,Others,227439
+2021,4,state,Himachal Pradesh,Xiaomi,583871
+2021,4,state,Himachal Pradesh,Vivo,302823
+2021,4,state,Himachal Pradesh,Samsung,290183
+2021,4,state,Himachal Pradesh,Oppo,256274
+2021,4,state,Himachal Pradesh,Realme,176332
+2021,4,state,Himachal Pradesh,Apple,50504
+2021,4,state,Himachal Pradesh,Lava,32082
+2021,4,state,Himachal Pradesh,Motorola,31241
+2021,4,state,Himachal Pradesh,Tecno,30164
+2021,4,state,Himachal Pradesh,OnePlus,27508
+2021,4,state,Himachal Pradesh,Others,232765
+2022,1,state,Himachal Pradesh,Xiaomi,615419
+2022,1,state,Himachal Pradesh,Vivo,324002
+2022,1,state,Himachal Pradesh,Samsung,304181
+2022,1,state,Himachal Pradesh,Oppo,276524
+2022,1,state,Himachal Pradesh,Realme,199933
+2022,1,state,Himachal Pradesh,Apple,54982
+2022,1,state,Himachal Pradesh,Tecno,36339
+2022,1,state,Himachal Pradesh,Motorola,31514
+2022,1,state,Himachal Pradesh,Lava,31262
+2022,1,state,Himachal Pradesh,OnePlus,30536
+2022,1,state,Himachal Pradesh,Others,238791
+2020,1,state,Jammu & Kashmir,Xiaomi,262773
+2020,1,state,Jammu & Kashmir,Samsung,157318
+2020,1,state,Jammu & Kashmir,Vivo,99861
+2020,1,state,Jammu & Kashmir,Oppo,71729
+2020,1,state,Jammu & Kashmir,Realme,30778
+2020,1,state,Jammu & Kashmir,Apple,22380
+2020,1,state,Jammu & Kashmir,OnePlus,11146
+2020,1,state,Jammu & Kashmir,Motorola,10674
+2020,1,state,Jammu & Kashmir,Huawei,8727
+2020,1,state,Jammu & Kashmir,Lenovo,7362
+2020,1,state,Jammu & Kashmir,Others,52660
+2020,2,state,Jammu & Kashmir,Xiaomi,302140
+2020,2,state,Jammu & Kashmir,Samsung,179346
+2020,2,state,Jammu & Kashmir,Vivo,119239
+2020,2,state,Jammu & Kashmir,Oppo,84526
+2020,2,state,Jammu & Kashmir,Realme,36913
+2020,2,state,Jammu & Kashmir,Apple,24262
+2020,2,state,Jammu & Kashmir,OnePlus,11743
+2020,2,state,Jammu & Kashmir,Motorola,11504
+2020,2,state,Jammu & Kashmir,Huawei,9753
+2020,2,state,Jammu & Kashmir,Lenovo,7829
+2020,2,state,Jammu & Kashmir,Others,58039
+2020,3,state,Jammu & Kashmir,Xiaomi,337986
+2020,3,state,Jammu & Kashmir,Samsung,202520
+2020,3,state,Jammu & Kashmir,Vivo,138487
+2020,3,state,Jammu & Kashmir,Oppo,95838
+2020,3,state,Jammu & Kashmir,Realme,44231
+2020,3,state,Jammu & Kashmir,Apple,26378
+2020,3,state,Jammu & Kashmir,OnePlus,12578
+2020,3,state,Jammu & Kashmir,Motorola,12094
+2020,3,state,Jammu & Kashmir,Huawei,10606
+2020,3,state,Jammu & Kashmir,Lenovo,8223
+2020,3,state,Jammu & Kashmir,Others,60878
+2020,4,state,Jammu & Kashmir,Xiaomi,383539
+2020,4,state,Jammu & Kashmir,Samsung,231979
+2020,4,state,Jammu & Kashmir,Vivo,158472
+2020,4,state,Jammu & Kashmir,Oppo,109614
+2020,4,state,Jammu & Kashmir,Realme,53415
+2020,4,state,Jammu & Kashmir,Apple,29701
+2020,4,state,Jammu & Kashmir,OnePlus,13667
+2020,4,state,Jammu & Kashmir,Motorola,12734
+2020,4,state,Jammu & Kashmir,Huawei,11566
+2020,4,state,Jammu & Kashmir,Lenovo,8696
+2020,4,state,Jammu & Kashmir,Others,65639
+2021,1,state,Jammu & Kashmir,Xiaomi,418392
+2021,1,state,Jammu & Kashmir,Samsung,250133
+2021,1,state,Jammu & Kashmir,Vivo,176571
+2021,1,state,Jammu & Kashmir,Oppo,118812
+2021,1,state,Jammu & Kashmir,Realme,61109
+2021,1,state,Jammu & Kashmir,Apple,32281
+2021,1,state,Jammu & Kashmir,OnePlus,14859
+2021,1,state,Jammu & Kashmir,Motorola,12970
+2021,1,state,Jammu & Kashmir,Huawei,12094
+2021,1,state,Jammu & Kashmir,Lenovo,8627
+2021,1,state,Jammu & Kashmir,Others,68970
+2021,2,state,Jammu & Kashmir,Xiaomi,446949
+2021,2,state,Jammu & Kashmir,Samsung,263753
+2021,2,state,Jammu & Kashmir,Vivo,192016
+2021,2,state,Jammu & Kashmir,Oppo,126510
+2021,2,state,Jammu & Kashmir,Realme,74131
+2021,2,state,Jammu & Kashmir,Apple,35495
+2021,2,state,Jammu & Kashmir,OnePlus,16719
+2021,2,state,Jammu & Kashmir,Motorola,12917
+2021,2,state,Jammu & Kashmir,Huawei,11763
+2021,2,state,Jammu & Kashmir,Lenovo,8391
+2021,2,state,Jammu & Kashmir,Others,72623
+2021,3,state,Jammu & Kashmir,Xiaomi,478671
+2021,3,state,Jammu & Kashmir,Samsung,274292
+2021,3,state,Jammu & Kashmir,Vivo,211136
+2021,3,state,Jammu & Kashmir,Oppo,138333
+2021,3,state,Jammu & Kashmir,Realme,88207
+2021,3,state,Jammu & Kashmir,Apple,38603
+2021,3,state,Jammu & Kashmir,OnePlus,20040
+2021,3,state,Jammu & Kashmir,Huawei,12963
+2021,3,state,Jammu & Kashmir,Motorola,12879
+2021,3,state,Jammu & Kashmir,Lenovo,8161
+2021,3,state,Jammu & Kashmir,Others,76575
+2021,4,state,Jammu & Kashmir,Xiaomi,509234
+2021,4,state,Jammu & Kashmir,Samsung,285006
+2021,4,state,Jammu & Kashmir,Vivo,226467
+2021,4,state,Jammu & Kashmir,Oppo,147610
+2021,4,state,Jammu & Kashmir,Realme,107290
+2021,4,state,Jammu & Kashmir,Apple,44648
+2021,4,state,Jammu & Kashmir,OnePlus,23892
+2021,4,state,Jammu & Kashmir,Motorola,13042
+2021,4,state,Jammu & Kashmir,Huawei,12597
+2021,4,state,Jammu & Kashmir,Tecno,9176
+2021,4,state,Jammu & Kashmir,Others,77848
+2022,1,state,Jammu & Kashmir,Xiaomi,535687
+2022,1,state,Jammu & Kashmir,Samsung,295630
+2022,1,state,Jammu & Kashmir,Vivo,242432
+2022,1,state,Jammu & Kashmir,Oppo,158382
+2022,1,state,Jammu & Kashmir,Realme,123415
+2022,1,state,Jammu & Kashmir,Apple,49642
+2022,1,state,Jammu & Kashmir,OnePlus,27191
+2022,1,state,Jammu & Kashmir,Motorola,12933
+2022,1,state,Jammu & Kashmir,Huawei,12674
+2022,1,state,Jammu & Kashmir,Tecno,11823
+2022,1,state,Jammu & Kashmir,Others,79511
+2020,1,state,Jharkhand,Xiaomi,1062496
+2020,1,state,Jharkhand,Samsung,679288
+2020,1,state,Jharkhand,Vivo,564210
+2020,1,state,Jharkhand,Oppo,441507
+2020,1,state,Jharkhand,Realme,281656
+2020,1,state,Jharkhand,Motorola,76028
+2020,1,state,Jharkhand,Lenovo,59716
+2020,1,state,Jharkhand,Huawei,52664
+2020,1,state,Jharkhand,Apple,43622
+2020,1,state,Jharkhand,Gionee,37894
+2020,1,state,Jharkhand,Others,352312
+2020,2,state,Jharkhand,Xiaomi,1173662
+2020,2,state,Jharkhand,Samsung,747993
+2020,2,state,Jharkhand,Vivo,646094
+2020,2,state,Jharkhand,Oppo,500447
+2020,2,state,Jharkhand,Realme,324410
+2020,2,state,Jharkhand,Motorola,80707
+2020,2,state,Jharkhand,Lenovo,62936
+2020,2,state,Jharkhand,Huawei,56895
+2020,2,state,Jharkhand,Apple,46009
+2020,2,state,Jharkhand,Gionee,40449
+2020,2,state,Jharkhand,Others,381433
+2020,3,state,Jharkhand,Xiaomi,1282150
+2020,3,state,Jharkhand,Samsung,820590
+2020,3,state,Jharkhand,Vivo,738721
+2020,3,state,Jharkhand,Oppo,558559
+2020,3,state,Jharkhand,Realme,373131
+2020,3,state,Jharkhand,Motorola,85215
+2020,3,state,Jharkhand,Lenovo,66247
+2020,3,state,Jharkhand,Huawei,60940
+2020,3,state,Jharkhand,Apple,49073
+2020,3,state,Jharkhand,Micromax,42087
+2020,3,state,Jharkhand,Others,403314
+2020,4,state,Jharkhand,Xiaomi,1396020
+2020,4,state,Jharkhand,Samsung,897105
+2020,4,state,Jharkhand,Vivo,825984
+2020,4,state,Jharkhand,Oppo,619048
+2020,4,state,Jharkhand,Realme,426528
+2020,4,state,Jharkhand,Motorola,89524
+2020,4,state,Jharkhand,Lenovo,69536
+2020,4,state,Jharkhand,Huawei,65253
+2020,4,state,Jharkhand,Apple,52483
+2020,4,state,Jharkhand,Gionee,44265
+2020,4,state,Jharkhand,Others,432192
+2021,1,state,Jharkhand,Xiaomi,1499838
+2021,1,state,Jharkhand,Samsung,957520
+2021,1,state,Jharkhand,Vivo,914415
+2021,1,state,Jharkhand,Oppo,671681
+2021,1,state,Jharkhand,Realme,479676
+2021,1,state,Jharkhand,Motorola,91888
+2021,1,state,Jharkhand,Lenovo,69885
+2021,1,state,Jharkhand,Huawei,68272
+2021,1,state,Jharkhand,Apple,56181
+2021,1,state,Jharkhand,Asus,45472
+2021,1,state,Jharkhand,Others,458221
+2021,2,state,Jharkhand,Xiaomi,1595475
+2021,2,state,Jharkhand,Samsung,1010689
+2021,2,state,Jharkhand,Vivo,997874
+2021,2,state,Jharkhand,Oppo,721124
+2021,2,state,Jharkhand,Realme,562271
+2021,2,state,Jharkhand,Motorola,91906
+2021,2,state,Jharkhand,Lenovo,67445
+2021,2,state,Jharkhand,Huawei,67061
+2021,2,state,Jharkhand,Apple,60783
+2021,2,state,Jharkhand,Tecno,51242
+2021,2,state,Jharkhand,Others,475633
+2021,3,state,Jharkhand,Xiaomi,1700564
+2021,3,state,Jharkhand,Vivo,1106458
+2021,3,state,Jharkhand,Samsung,1050011
+2021,3,state,Jharkhand,Oppo,786674
+2021,3,state,Jharkhand,Realme,657093
+2021,3,state,Jharkhand,Motorola,91051
+2021,3,state,Jharkhand,Huawei,70081
+2021,3,state,Jharkhand,Apple,65816
+2021,3,state,Jharkhand,Lenovo,64742
+2021,3,state,Jharkhand,Tecno,62476
+2021,3,state,Jharkhand,Others,496877
+2021,4,state,Jharkhand,Xiaomi,1792304
+2021,4,state,Jharkhand,Vivo,1201048
+2021,4,state,Jharkhand,Samsung,1090678
+2021,4,state,Jharkhand,Oppo,850118
+2021,4,state,Jharkhand,Realme,778246
+2021,4,state,Jharkhand,Motorola,92683
+2021,4,state,Jharkhand,Apple,77092
+2021,4,state,Jharkhand,Infinix,74147
+2021,4,state,Jharkhand,Tecno,72058
+2021,4,state,Jharkhand,OnePlus,69097
+2021,4,state,Jharkhand,Others,498725
+2022,1,state,Jharkhand,Xiaomi,1869656
+2022,1,state,Jharkhand,Vivo,1293214
+2022,1,state,Jharkhand,Samsung,1130720
+2022,1,state,Jharkhand,Oppo,915649
+2022,1,state,Jharkhand,Realme,888356
+2022,1,state,Jharkhand,Motorola,93032
+2022,1,state,Jharkhand,Tecno,86837
+2022,1,state,Jharkhand,Apple,85280
+2022,1,state,Jharkhand,Infinix,83718
+2022,1,state,Jharkhand,OnePlus,79779
+2022,1,state,Jharkhand,Others,499034
+2020,1,state,Karnataka,Xiaomi,4413738
+2020,1,state,Karnataka,Samsung,3434923
+2020,1,state,Karnataka,Vivo,3081057
+2020,1,state,Karnataka,Oppo,1888027
+2020,1,state,Karnataka,Apple,688203
+2020,1,state,Karnataka,OnePlus,616490
+2020,1,state,Karnataka,Realme,577066
+2020,1,state,Karnataka,Motorola,528879
+2020,1,state,Karnataka,Huawei,332377
+2020,1,state,Karnataka,Lenovo,299776
+2020,1,state,Karnataka,Others,1156444
+2020,2,state,Karnataka,Xiaomi,4835717
+2020,2,state,Karnataka,Samsung,3760784
+2020,2,state,Karnataka,Vivo,3448934
+2020,2,state,Karnataka,Oppo,2113499
+2020,2,state,Karnataka,Apple,721866
+2020,2,state,Karnataka,Realme,645204
+2020,2,state,Karnataka,OnePlus,636867
+2020,2,state,Karnataka,Motorola,562359
+2020,2,state,Karnataka,Huawei,357407
+2020,2,state,Karnataka,Lenovo,316928
+2020,2,state,Karnataka,Others,1255801
+2020,3,state,Karnataka,Xiaomi,5287266
+2020,3,state,Karnataka,Samsung,4123920
+2020,3,state,Karnataka,Vivo,3885369
+2020,3,state,Karnataka,Oppo,2361292
+2020,3,state,Karnataka,Apple,764040
+2020,3,state,Karnataka,Realme,730583
+2020,3,state,Karnataka,OnePlus,665424
+2020,3,state,Karnataka,Motorola,596112
+2020,3,state,Karnataka,Huawei,384491
+2020,3,state,Karnataka,Lenovo,336521
+2020,3,state,Karnataka,Others,1352532
+2020,4,state,Karnataka,Xiaomi,5759174
+2020,4,state,Karnataka,Samsung,4507034
+2020,4,state,Karnataka,Vivo,4315773
+2020,4,state,Karnataka,Oppo,2613131
+2020,4,state,Karnataka,Realme,827842
+2020,4,state,Karnataka,Apple,817087
+2020,4,state,Karnataka,OnePlus,698767
+2020,4,state,Karnataka,Motorola,629773
+2020,4,state,Karnataka,Huawei,412496
+2020,4,state,Karnataka,Lenovo,356004
+2020,4,state,Karnataka,Others,1463101
+2021,1,state,Karnataka,Xiaomi,6173033
+2021,1,state,Karnataka,Samsung,4808995
+2021,1,state,Karnataka,Vivo,4760972
+2021,1,state,Karnataka,Oppo,2840533
+2021,1,state,Karnataka,Realme,932695
+2021,1,state,Karnataka,Apple,874661
+2021,1,state,Karnataka,OnePlus,736433
+2021,1,state,Karnataka,Motorola,644344
+2021,1,state,Karnataka,Huawei,430094
+2021,1,state,Karnataka,Lenovo,358120
+2021,1,state,Karnataka,Others,1535952
+2021,2,state,Karnataka,Xiaomi,6567268
+2021,2,state,Karnataka,Vivo,5226819
+2021,2,state,Karnataka,Samsung,5073030
+2021,2,state,Karnataka,Oppo,3067347
+2021,2,state,Karnataka,Realme,1108812
+2021,2,state,Karnataka,Apple,931735
+2021,2,state,Karnataka,OnePlus,794419
+2021,2,state,Karnataka,Motorola,635937
+2021,2,state,Karnataka,Huawei,423934
+2021,2,state,Karnataka,Lenovo,343779
+2021,2,state,Karnataka,Others,1577943
+2021,3,state,Karnataka,Xiaomi,6973776
+2021,3,state,Karnataka,Vivo,5824764
+2021,3,state,Karnataka,Samsung,5266120
+2021,3,state,Karnataka,Oppo,3352923
+2021,3,state,Karnataka,Realme,1315961
+2021,3,state,Karnataka,Apple,999896
+2021,3,state,Karnataka,OnePlus,906742
+2021,3,state,Karnataka,Motorola,618317
+2021,3,state,Karnataka,Huawei,423894
+2021,3,state,Karnataka,Lenovo,322124
+2021,3,state,Karnataka,Others,1609704
+2021,4,state,Karnataka,Xiaomi,7306532
+2021,4,state,Karnataka,Vivo,6391484
+2021,4,state,Karnataka,Samsung,5458878
+2021,4,state,Karnataka,Oppo,3645496
+2021,4,state,Karnataka,Realme,1586292
+2021,4,state,Karnataka,Apple,1120969
+2021,4,state,Karnataka,OnePlus,1018047
+2021,4,state,Karnataka,Motorola,606099
+2021,4,state,Karnataka,Huawei,403084
+2021,4,state,Karnataka,Lenovo,295548
+2021,4,state,Karnataka,Others,1627217
+2022,1,state,Karnataka,Xiaomi,7620184
+2022,1,state,Karnataka,Vivo,6902224
+2022,1,state,Karnataka,Samsung,5641275
+2022,1,state,Karnataka,Oppo,3941299
+2022,1,state,Karnataka,Realme,1813184
+2022,1,state,Karnataka,Apple,1215812
+2022,1,state,Karnataka,OnePlus,1110711
+2022,1,state,Karnataka,Motorola,595920
+2022,1,state,Karnataka,Huawei,394470
+2022,1,state,Karnataka,Lenovo,290138
+2022,1,state,Karnataka,Others,1675132
+2020,1,state,Kerala,Xiaomi,990472
+2020,1,state,Kerala,Samsung,858444
+2020,1,state,Kerala,Vivo,448326
+2020,1,state,Kerala,Oppo,423226
+2020,1,state,Kerala,Huawei,259148
+2020,1,state,Kerala,Apple,248003
+2020,1,state,Kerala,Realme,202442
+2020,1,state,Kerala,OnePlus,103907
+2020,1,state,Kerala,Motorola,100697
+2020,1,state,Kerala,Lenovo,96507
+2020,1,state,Kerala,Others,347144
+2020,2,state,Kerala,Xiaomi,1124154
+2020,2,state,Kerala,Samsung,1009812
+2020,2,state,Kerala,Vivo,545130
+2020,2,state,Kerala,Oppo,505563
+2020,2,state,Kerala,Huawei,303050
+2020,2,state,Kerala,Apple,274565
+2020,2,state,Kerala,Realme,235063
+2020,2,state,Kerala,Motorola,111798
+2020,2,state,Kerala,Lenovo,109268
+2020,2,state,Kerala,OnePlus,109047
+2020,2,state,Kerala,Others,401394
+2020,3,state,Kerala,Xiaomi,1299988
+2020,3,state,Kerala,Samsung,1205428
+2020,3,state,Kerala,Vivo,688186
+2020,3,state,Kerala,Oppo,608874
+2020,3,state,Kerala,Huawei,356331
+2020,3,state,Kerala,Apple,315220
+2020,3,state,Kerala,Realme,282157
+2020,3,state,Kerala,Lenovo,126302
+2020,3,state,Kerala,Motorola,124372
+2020,3,state,Kerala,OnePlus,117670
+2020,3,state,Kerala,Others,457772
+2020,4,state,Kerala,Xiaomi,1466789
+2020,4,state,Kerala,Samsung,1399186
+2020,4,state,Kerala,Vivo,811546
+2020,4,state,Kerala,Oppo,707082
+2020,4,state,Kerala,Huawei,402396
+2020,4,state,Kerala,Apple,364712
+2020,4,state,Kerala,Realme,332456
+2020,4,state,Kerala,Lenovo,139386
+2020,4,state,Kerala,Motorola,134213
+2020,4,state,Kerala,OnePlus,127085
+2020,4,state,Kerala,Others,502318
+2021,1,state,Kerala,Xiaomi,1589645
+2021,1,state,Kerala,Samsung,1517006
+2021,1,state,Kerala,Vivo,906705
+2021,1,state,Kerala,Oppo,775012
+2021,1,state,Kerala,Huawei,426164
+2021,1,state,Kerala,Apple,398950
+2021,1,state,Kerala,Realme,378100
+2021,1,state,Kerala,Lenovo,140787
+2021,1,state,Kerala,Motorola,138567
+2021,1,state,Kerala,OnePlus,135957
+2021,1,state,Kerala,Others,530050
+2021,2,state,Kerala,Xiaomi,1714598
+2021,2,state,Kerala,Samsung,1605779
+2021,2,state,Kerala,Vivo,999633
+2021,2,state,Kerala,Oppo,831538
+2021,2,state,Kerala,Realme,444654
+2021,2,state,Kerala,Huawei,427830
+2021,2,state,Kerala,Apple,427612
+2021,2,state,Kerala,OnePlus,146086
+2021,2,state,Kerala,Lenovo,138448
+2021,2,state,Kerala,Motorola,138108
+2021,2,state,Kerala,Others,541797
+2021,3,state,Kerala,Xiaomi,1859763
+2021,3,state,Kerala,Samsung,1678905
+2021,3,state,Kerala,Vivo,1115818
+2021,3,state,Kerala,Oppo,896805
+2021,3,state,Kerala,Realme,528624
+2021,3,state,Kerala,Apple,461244
+2021,3,state,Kerala,Huawei,422903
+2021,3,state,Kerala,OnePlus,167667
+2021,3,state,Kerala,Motorola,135436
+2021,3,state,Kerala,Lenovo,132669
+2021,3,state,Kerala,Others,549591
+2021,4,state,Kerala,Xiaomi,1989367
+2021,4,state,Kerala,Samsung,1752657
+2021,4,state,Kerala,Vivo,1227761
+2021,4,state,Kerala,Oppo,961805
+2021,4,state,Kerala,Realme,622033
+2021,4,state,Kerala,Apple,507548
+2021,4,state,Kerala,Huawei,412197
+2021,4,state,Kerala,OnePlus,185990
+2021,4,state,Kerala,Motorola,137360
+2021,4,state,Kerala,Lenovo,125313
+2021,4,state,Kerala,Others,551779
+2022,1,state,Kerala,Xiaomi,2098370
+2022,1,state,Kerala,Samsung,1826034
+2022,1,state,Kerala,Vivo,1330622
+2022,1,state,Kerala,Oppo,1032233
+2022,1,state,Kerala,Realme,705424
+2022,1,state,Kerala,Apple,550489
+2022,1,state,Kerala,Huawei,408553
+2022,1,state,Kerala,OnePlus,199414
+2022,1,state,Kerala,Motorola,137230
+2022,1,state,Kerala,Lenovo,124999
+2022,1,state,Kerala,Others,558931
+2020,1,state,Ladakh,Xiaomi,13890
+2020,1,state,Ladakh,Vivo,10052
+2020,1,state,Ladakh,Samsung,8475
+2020,1,state,Ladakh,Oppo,6916
+2020,1,state,Ladakh,Realme,2292
+2020,1,state,Ladakh,Apple,1130
+2020,1,state,Ladakh,OnePlus,1058
+2020,1,state,Ladakh,Motorola,787
+2020,1,state,Ladakh,Huawei,703
+2020,1,state,Ladakh,Lenovo,453
+2020,1,state,Ladakh,Others,2034
+2020,2,state,Ladakh,Xiaomi,15512
+2020,2,state,Ladakh,Vivo,11201
+2020,2,state,Ladakh,Samsung,9371
+2020,2,state,Ladakh,Oppo,7736
+2020,2,state,Ladakh,Realme,2628
+2020,2,state,Ladakh,Apple,1234
+2020,2,state,Ladakh,OnePlus,1131
+2020,2,state,Ladakh,Motorola,828
+2020,2,state,Ladakh,Huawei,786
+2020,2,state,Ladakh,Lenovo,461
+2020,2,state,Ladakh,Others,2146
+2020,3,state,Ladakh,Xiaomi,17122
+2020,3,state,Ladakh,Vivo,12388
+2020,3,state,Ladakh,Samsung,10309
+2020,3,state,Ladakh,Oppo,8583
+2020,3,state,Ladakh,Realme,3003
+2020,3,state,Ladakh,Apple,1338
+2020,3,state,Ladakh,OnePlus,1228
+2020,3,state,Ladakh,Motorola,865
+2020,3,state,Ladakh,Huawei,851
+2020,3,state,Ladakh,Lenovo,500
+2020,3,state,Ladakh,Others,2214
+2020,4,state,Ladakh,Xiaomi,18866
+2020,4,state,Ladakh,Vivo,13750
+2020,4,state,Ladakh,Samsung,11484
+2020,4,state,Ladakh,Oppo,9683
+2020,4,state,Ladakh,Realme,3480
+2020,4,state,Ladakh,Apple,1484
+2020,4,state,Ladakh,OnePlus,1397
+2020,4,state,Ladakh,Huawei,924
+2020,4,state,Ladakh,Motorola,912
+2020,4,state,Ladakh,Lenovo,524
+2020,4,state,Ladakh,Others,2349
+2021,1,state,Ladakh,Xiaomi,20199
+2021,1,state,Ladakh,Vivo,15183
+2021,1,state,Ladakh,Samsung,12232
+2021,1,state,Ladakh,Oppo,10382
+2021,1,state,Ladakh,Realme,3940
+2021,1,state,Ladakh,Apple,1613
+2021,1,state,Ladakh,OnePlus,1531
+2021,1,state,Ladakh,Huawei,941
+2021,1,state,Ladakh,Motorola,924
+2021,1,state,Ladakh,Lenovo,520
+2021,1,state,Ladakh,Others,2454
+2021,2,state,Ladakh,Xiaomi,21227
+2021,2,state,Ladakh,Vivo,16463
+2021,2,state,Ladakh,Samsung,13134
+2021,2,state,Ladakh,Oppo,11029
+2021,2,state,Ladakh,Realme,4715
+2021,2,state,Ladakh,Apple,1823
+2021,2,state,Ladakh,OnePlus,1741
+2021,2,state,Ladakh,Motorola,922
+2021,2,state,Ladakh,Huawei,894
+2021,2,state,Ladakh,Lenovo,490
+2021,2,state,Ladakh,Others,2610
+2021,3,state,Ladakh,Xiaomi,22384
+2021,3,state,Ladakh,Vivo,18124
+2021,3,state,Ladakh,Samsung,13661
+2021,3,state,Ladakh,Oppo,12095
+2021,3,state,Ladakh,Realme,5579
+2021,3,state,Ladakh,OnePlus,2176
+2021,3,state,Ladakh,Apple,2004
+2021,3,state,Ladakh,Huawei,1013
+2021,3,state,Ladakh,Motorola,910
+2021,3,state,Ladakh,Lenovo,476
+2021,3,state,Ladakh,Others,2788
+2021,4,state,Ladakh,Xiaomi,23462
+2021,4,state,Ladakh,Vivo,19473
+2021,4,state,Ladakh,Samsung,14073
+2021,4,state,Ladakh,Oppo,12900
+2021,4,state,Ladakh,Realme,6879
+2021,4,state,Ladakh,OnePlus,2678
+2021,4,state,Ladakh,Apple,2358
+2021,4,state,Ladakh,Huawei,958
+2021,4,state,Ladakh,Motorola,912
+2021,4,state,Ladakh,Lenovo,449
+2021,4,state,Ladakh,Others,2915
+2022,1,state,Ladakh,Xiaomi,24460
+2022,1,state,Ladakh,Vivo,20679
+2022,1,state,Ladakh,Samsung,14554
+2022,1,state,Ladakh,Oppo,13813
+2022,1,state,Ladakh,Realme,7852
+2022,1,state,Ladakh,OnePlus,2984
+2022,1,state,Ladakh,Apple,2655
+2022,1,state,Ladakh,Huawei,996
+2022,1,state,Ladakh,Motorola,921
+2022,1,state,Ladakh,Lenovo,502
+2022,1,state,Ladakh,Others,3076
+2020,1,state,Lakshadweep,Xiaomi,560
+2020,1,state,Lakshadweep,Vivo,548
+2020,1,state,Lakshadweep,Samsung,431
+2020,1,state,Lakshadweep,Oppo,426
+2020,1,state,Lakshadweep,Huawei,237
+2020,1,state,Lakshadweep,Realme,152
+2020,1,state,Lakshadweep,Apple,81
+2020,1,state,Lakshadweep,OnePlus,77
+2020,1,state,Lakshadweep,Lenovo,47
+2020,1,state,Lakshadweep,Motorola,38
+2020,1,state,Lakshadweep,Others,175
+2020,2,state,Lakshadweep,Vivo,654
+2020,2,state,Lakshadweep,Xiaomi,654
+2020,2,state,Lakshadweep,Samsung,495
+2020,2,state,Lakshadweep,Oppo,489
+2020,2,state,Lakshadweep,Huawei,266
+2020,2,state,Lakshadweep,Realme,195
+2020,2,state,Lakshadweep,Apple,85
+2020,2,state,Lakshadweep,OnePlus,81
+2020,2,state,Lakshadweep,Lenovo,44
+2020,2,state,Lakshadweep,Motorola,41
+2020,2,state,Lakshadweep,Others,183
+2020,3,state,Lakshadweep,Vivo,784
+2020,3,state,Lakshadweep,Xiaomi,736
+2020,3,state,Lakshadweep,Oppo,567
+2020,3,state,Lakshadweep,Samsung,550
+2020,3,state,Lakshadweep,Huawei,302
+2020,3,state,Lakshadweep,Realme,222
+2020,3,state,Lakshadweep,Apple,91
+2020,3,state,Lakshadweep,OnePlus,87
+2020,3,state,Lakshadweep,Lenovo,50
+2020,3,state,Lakshadweep,Motorola,44
+2020,3,state,Lakshadweep,Others,211
+2020,4,state,Lakshadweep,Vivo,934
+2020,4,state,Lakshadweep,Xiaomi,838
+2020,4,state,Lakshadweep,Oppo,639
+2020,4,state,Lakshadweep,Samsung,635
+2020,4,state,Lakshadweep,Huawei,346
+2020,4,state,Lakshadweep,Realme,272
+2020,4,state,Lakshadweep,Apple,101
+2020,4,state,Lakshadweep,OnePlus,97
+2020,4,state,Lakshadweep,Lenovo,52
+2020,4,state,Lakshadweep,Motorola,47
+2020,4,state,Lakshadweep,Others,218
+2021,1,state,Lakshadweep,Vivo,1032
+2021,1,state,Lakshadweep,Xiaomi,921
+2021,1,state,Lakshadweep,Oppo,720
+2021,1,state,Lakshadweep,Samsung,693
+2021,1,state,Lakshadweep,Huawei,371
+2021,1,state,Lakshadweep,Realme,302
+2021,1,state,Lakshadweep,Apple,106
+2021,1,state,Lakshadweep,OnePlus,103
+2021,1,state,Lakshadweep,Lenovo,54
+2021,1,state,Lakshadweep,Motorola,46
+2021,1,state,Lakshadweep,Others,229
+2021,2,state,Lakshadweep,Vivo,1118
+2021,2,state,Lakshadweep,Xiaomi,970
+2021,2,state,Lakshadweep,Oppo,771
+2021,2,state,Lakshadweep,Samsung,717
+2021,2,state,Lakshadweep,Huawei,379
+2021,2,state,Lakshadweep,Realme,350
+2021,2,state,Lakshadweep,Apple,121
+2021,2,state,Lakshadweep,OnePlus,118
+2021,2,state,Lakshadweep,Lenovo,60
+2021,2,state,Lakshadweep,Motorola,42
+2021,2,state,Lakshadweep,Others,250
+2021,3,state,Lakshadweep,Vivo,1234
+2021,3,state,Lakshadweep,Xiaomi,1046
+2021,3,state,Lakshadweep,Oppo,816
+2021,3,state,Lakshadweep,Samsung,774
+2021,3,state,Lakshadweep,Realme,413
+2021,3,state,Lakshadweep,Huawei,398
+2021,3,state,Lakshadweep,Apple,134
+2021,3,state,Lakshadweep,OnePlus,132
+2021,3,state,Lakshadweep,Lenovo,55
+2021,3,state,Lakshadweep,Motorola,46
+2021,3,state,Lakshadweep,Others,239
+2021,4,state,Lakshadweep,Vivo,1354
+2021,4,state,Lakshadweep,Xiaomi,1146
+2021,4,state,Lakshadweep,Oppo,899
+2021,4,state,Lakshadweep,Samsung,776
+2021,4,state,Lakshadweep,Realme,448
+2021,4,state,Lakshadweep,Huawei,396
+2021,4,state,Lakshadweep,Apple,151
+2021,4,state,Lakshadweep,OnePlus,143
+2021,4,state,Lakshadweep,Motorola,46
+2021,4,state,Lakshadweep,Lenovo,45
+2021,4,state,Lakshadweep,Others,234
+2022,1,state,Lakshadweep,Vivo,1441
+2022,1,state,Lakshadweep,Xiaomi,1203
+2022,1,state,Lakshadweep,Oppo,956
+2022,1,state,Lakshadweep,Samsung,804
+2022,1,state,Lakshadweep,Realme,507
+2022,1,state,Lakshadweep,Huawei,397
+2022,1,state,Lakshadweep,Apple,176
+2022,1,state,Lakshadweep,OnePlus,160
+2022,1,state,Lakshadweep,Lenovo,50
+2022,1,state,Lakshadweep,Motorola,49
+2022,1,state,Lakshadweep,Others,247
+2020,1,state,Madhya Pradesh,Xiaomi,2697286
+2020,1,state,Madhya Pradesh,Vivo,1956817
+2020,1,state,Madhya Pradesh,Samsung,1873824
+2020,1,state,Madhya Pradesh,Oppo,1206327
+2020,1,state,Madhya Pradesh,Realme,607456
+2020,1,state,Madhya Pradesh,Motorola,174003
+2020,1,state,Madhya Pradesh,Apple,160868
+2020,1,state,Madhya Pradesh,Huawei,136299
+2020,1,state,Madhya Pradesh,Micromax,135703
+2020,1,state,Madhya Pradesh,OnePlus,133926
+2020,1,state,Madhya Pradesh,Others,1068862
+2020,2,state,Madhya Pradesh,Xiaomi,3003291
+2020,2,state,Madhya Pradesh,Vivo,2247524
+2020,2,state,Madhya Pradesh,Samsung,2084294
+2020,2,state,Madhya Pradesh,Oppo,1376782
+2020,2,state,Madhya Pradesh,Realme,693404
+2020,2,state,Madhya Pradesh,Motorola,185349
+2020,2,state,Madhya Pradesh,Apple,170312
+2020,2,state,Madhya Pradesh,Micromax,147344
+2020,2,state,Madhya Pradesh,Huawei,147224
+2020,2,state,Madhya Pradesh,OnePlus,139482
+2020,2,state,Madhya Pradesh,Others,1179417
+2020,3,state,Madhya Pradesh,Xiaomi,3292397
+2020,3,state,Madhya Pradesh,Vivo,2556833
+2020,3,state,Madhya Pradesh,Samsung,2278237
+2020,3,state,Madhya Pradesh,Oppo,1539499
+2020,3,state,Madhya Pradesh,Realme,799089
+2020,3,state,Madhya Pradesh,Motorola,196221
+2020,3,state,Madhya Pradesh,Apple,181092
+2020,3,state,Madhya Pradesh,Huawei,157340
+2020,3,state,Madhya Pradesh,Micromax,157127
+2020,3,state,Madhya Pradesh,OnePlus,146328
+2020,3,state,Madhya Pradesh,Others,1260061
+2020,4,state,Madhya Pradesh,Xiaomi,3563397
+2020,4,state,Madhya Pradesh,Vivo,2853943
+2020,4,state,Madhya Pradesh,Samsung,2466332
+2020,4,state,Madhya Pradesh,Oppo,1703093
+2020,4,state,Madhya Pradesh,Realme,905866
+2020,4,state,Madhya Pradesh,Motorola,206156
+2020,4,state,Madhya Pradesh,Apple,195195
+2020,4,state,Madhya Pradesh,Huawei,166594
+2020,4,state,Madhya Pradesh,Micromax,164239
+2020,4,state,Madhya Pradesh,Tecno,157894
+2020,4,state,Madhya Pradesh,Others,1355238
+2021,1,state,Madhya Pradesh,Xiaomi,3826173
+2021,1,state,Madhya Pradesh,Vivo,3171754
+2021,1,state,Madhya Pradesh,Samsung,2620433
+2021,1,state,Madhya Pradesh,Oppo,1846729
+2021,1,state,Madhya Pradesh,Realme,1015817
+2021,1,state,Madhya Pradesh,Motorola,211488
+2021,1,state,Madhya Pradesh,Apple,210736
+2021,1,state,Madhya Pradesh,Tecno,184784
+2021,1,state,Madhya Pradesh,Huawei,173653
+2021,1,state,Madhya Pradesh,Micromax,165359
+2021,1,state,Madhya Pradesh,Others,1412501
+2021,2,state,Madhya Pradesh,Xiaomi,4052668
+2021,2,state,Madhya Pradesh,Vivo,3483187
+2021,2,state,Madhya Pradesh,Samsung,2757784
+2021,2,state,Madhya Pradesh,Oppo,2001363
+2021,2,state,Madhya Pradesh,Realme,1196164
+2021,2,state,Madhya Pradesh,Tecno,240188
+2021,2,state,Madhya Pradesh,Apple,228017
+2021,2,state,Madhya Pradesh,Motorola,210526
+2021,2,state,Madhya Pradesh,OnePlus,182565
+2021,2,state,Madhya Pradesh,Huawei,171485
+2021,2,state,Madhya Pradesh,Others,1416988
+2021,3,state,Madhya Pradesh,Xiaomi,4290362
+2021,3,state,Madhya Pradesh,Vivo,3891058
+2021,3,state,Madhya Pradesh,Samsung,2829150
+2021,3,state,Madhya Pradesh,Oppo,2215661
+2021,3,state,Madhya Pradesh,Realme,1404072
+2021,3,state,Madhya Pradesh,Tecno,298534
+2021,3,state,Madhya Pradesh,Apple,249062
+2021,3,state,Madhya Pradesh,OnePlus,224466
+2021,3,state,Madhya Pradesh,Motorola,208788
+2021,3,state,Madhya Pradesh,Huawei,180559
+2021,3,state,Madhya Pradesh,Others,1418521
+2021,4,state,Madhya Pradesh,Xiaomi,4500562
+2021,4,state,Madhya Pradesh,Vivo,4248158
+2021,4,state,Madhya Pradesh,Samsung,2921496
+2021,4,state,Madhya Pradesh,Oppo,2400977
+2021,4,state,Madhya Pradesh,Realme,1682298
+2021,4,state,Madhya Pradesh,Tecno,350126
+2021,4,state,Madhya Pradesh,Apple,293413
+2021,4,state,Madhya Pradesh,OnePlus,264637
+2021,4,state,Madhya Pradesh,Motorola,211860
+2021,4,state,Madhya Pradesh,Huawei,174122
+2021,4,state,Madhya Pradesh,Others,1408594
+2022,1,state,Madhya Pradesh,Xiaomi,4678482
+2022,1,state,Madhya Pradesh,Vivo,4575284
+2022,1,state,Madhya Pradesh,Samsung,3009068
+2022,1,state,Madhya Pradesh,Oppo,2595568
+2022,1,state,Madhya Pradesh,Realme,1935366
+2022,1,state,Madhya Pradesh,Tecno,424783
+2022,1,state,Madhya Pradesh,Apple,325559
+2022,1,state,Madhya Pradesh,OnePlus,303765
+2022,1,state,Madhya Pradesh,Motorola,211431
+2022,1,state,Madhya Pradesh,Huawei,173297
+2022,1,state,Madhya Pradesh,Others,1423544
+2020,1,state,Maharashtra,Xiaomi,6677147
+2020,1,state,Maharashtra,Samsung,5772343
+2020,1,state,Maharashtra,Vivo,4396537
+2020,1,state,Maharashtra,Oppo,3377366
+2020,1,state,Maharashtra,Realme,1031169
+2020,1,state,Maharashtra,Apple,815679
+2020,1,state,Maharashtra,OnePlus,715746
+2020,1,state,Maharashtra,Motorola,704678
+2020,1,state,Maharashtra,Lenovo,387278
+2020,1,state,Maharashtra,Huawei,338054
+2020,1,state,Maharashtra,Others,1952393
+2020,2,state,Maharashtra,Xiaomi,7291300
+2020,2,state,Maharashtra,Samsung,6335245
+2020,2,state,Maharashtra,Vivo,4942835
+2020,2,state,Maharashtra,Oppo,3797269
+2020,2,state,Maharashtra,Realme,1160245
+2020,2,state,Maharashtra,Apple,858658
+2020,2,state,Maharashtra,OnePlus,742365
+2020,2,state,Maharashtra,Motorola,742088
+2020,2,state,Maharashtra,Lenovo,406197
+2020,2,state,Maharashtra,Huawei,362725
+2020,2,state,Maharashtra,Others,2126159
+2020,3,state,Maharashtra,Xiaomi,7895486
+2020,3,state,Maharashtra,Samsung,6914730
+2020,3,state,Maharashtra,Vivo,5536849
+2020,3,state,Maharashtra,Oppo,4210793
+2020,3,state,Maharashtra,Realme,1316605
+2020,3,state,Maharashtra,Apple,911356
+2020,3,state,Maharashtra,OnePlus,778193
+2020,3,state,Maharashtra,Motorola,776080
+2020,3,state,Maharashtra,Lenovo,423666
+2020,3,state,Maharashtra,Huawei,386542
+2020,3,state,Maharashtra,Others,2259213
+2020,4,state,Maharashtra,Xiaomi,8584570
+2020,4,state,Maharashtra,Samsung,7578573
+2020,4,state,Maharashtra,Vivo,6188503
+2020,4,state,Maharashtra,Oppo,4665421
+2020,4,state,Maharashtra,Realme,1504255
+2020,4,state,Maharashtra,Apple,983306
+2020,4,state,Maharashtra,OnePlus,822805
+2020,4,state,Maharashtra,Motorola,813317
+2020,4,state,Maharashtra,Lenovo,444638
+2020,4,state,Maharashtra,Huawei,413761
+2020,4,state,Maharashtra,Others,2433482
+2021,1,state,Maharashtra,Xiaomi,9195320
+2021,1,state,Maharashtra,Samsung,8088910
+2021,1,state,Maharashtra,Vivo,6831786
+2021,1,state,Maharashtra,Oppo,5069410
+2021,1,state,Maharashtra,Realme,1696339
+2021,1,state,Maharashtra,Apple,1054581
+2021,1,state,Maharashtra,OnePlus,870022
+2021,1,state,Maharashtra,Motorola,832101
+2021,1,state,Maharashtra,Lenovo,447713
+2021,1,state,Maharashtra,Huawei,431846
+2021,1,state,Maharashtra,Others,2559509
+2021,2,state,Maharashtra,Xiaomi,9764252
+2021,2,state,Maharashtra,Samsung,8511194
+2021,2,state,Maharashtra,Vivo,7509629
+2021,2,state,Maharashtra,Oppo,5487836
+2021,2,state,Maharashtra,Realme,2003392
+2021,2,state,Maharashtra,Apple,1131848
+2021,2,state,Maharashtra,OnePlus,949407
+2021,2,state,Maharashtra,Motorola,820661
+2021,2,state,Maharashtra,Lenovo,430496
+2021,2,state,Maharashtra,Huawei,429331
+2021,2,state,Maharashtra,Others,2626651
+2021,3,state,Maharashtra,Xiaomi,10369008
+2021,3,state,Maharashtra,Samsung,8810154
+2021,3,state,Maharashtra,Vivo,8354641
+2021,3,state,Maharashtra,Oppo,6005730
+2021,3,state,Maharashtra,Realme,2373088
+2021,3,state,Maharashtra,Apple,1219480
+2021,3,state,Maharashtra,OnePlus,1108387
+2021,3,state,Maharashtra,Motorola,801994
+2021,3,state,Maharashtra,Huawei,436025
+2021,3,state,Maharashtra,Tecno,422485
+2021,3,state,Maharashtra,Others,2680225
+2021,4,state,Maharashtra,Xiaomi,10876133
+2021,4,state,Maharashtra,Vivo,9147706
+2021,4,state,Maharashtra,Samsung,9133368
+2021,4,state,Maharashtra,Oppo,6511923
+2021,4,state,Maharashtra,Realme,2837580
+2021,4,state,Maharashtra,Apple,1382079
+2021,4,state,Maharashtra,OnePlus,1264294
+2021,4,state,Maharashtra,Motorola,794353
+2021,4,state,Maharashtra,Tecno,485180
+2021,4,state,Maharashtra,Huawei,420624
+2021,4,state,Maharashtra,Others,2629266
+2022,1,state,Maharashtra,Xiaomi,11340940
+2022,1,state,Maharashtra,Vivo,9873983
+2022,1,state,Maharashtra,Samsung,9447206
+2022,1,state,Maharashtra,Oppo,7009300
+2022,1,state,Maharashtra,Realme,3235912
+2022,1,state,Maharashtra,Apple,1510802
+2022,1,state,Maharashtra,OnePlus,1396866
+2022,1,state,Maharashtra,Motorola,788109
+2022,1,state,Maharashtra,Tecno,572060
+2022,1,state,Maharashtra,Huawei,416025
+2022,1,state,Maharashtra,Others,2636427
+2020,1,state,Manipur,Xiaomi,82065
+2020,1,state,Manipur,Samsung,30698
+2020,1,state,Manipur,Vivo,20017
+2020,1,state,Manipur,Oppo,14505
+2020,1,state,Manipur,Realme,6022
+2020,1,state,Manipur,Apple,4598
+2020,1,state,Manipur,Huawei,2413
+2020,1,state,Manipur,OnePlus,2036
+2020,1,state,Manipur,Motorola,1833
+2020,1,state,Manipur,Lenovo,1609
+2020,1,state,Manipur,Others,11578
+2020,2,state,Manipur,Xiaomi,101637
+2020,2,state,Manipur,Samsung,36569
+2020,2,state,Manipur,Vivo,24681
+2020,2,state,Manipur,Oppo,17877
+2020,2,state,Manipur,Realme,7575
+2020,2,state,Manipur,Apple,5110
+2020,2,state,Manipur,Huawei,2813
+2020,2,state,Manipur,OnePlus,2198
+2020,2,state,Manipur,Motorola,2017
+2020,2,state,Manipur,Lenovo,1798
+2020,2,state,Manipur,Others,13221
+2020,3,state,Manipur,Xiaomi,123688
+2020,3,state,Manipur,Samsung,43350
+2020,3,state,Manipur,Vivo,30086
+2020,3,state,Manipur,Oppo,21723
+2020,3,state,Manipur,Realme,9422
+2020,3,state,Manipur,Apple,5797
+2020,3,state,Manipur,Huawei,3222
+2020,3,state,Manipur,OnePlus,2459
+2020,3,state,Manipur,Motorola,2176
+2020,3,state,Manipur,Lenovo,1996
+2020,3,state,Manipur,Others,14644
+2020,4,state,Manipur,Xiaomi,137767
+2020,4,state,Manipur,Samsung,48641
+2020,4,state,Manipur,Vivo,34019
+2020,4,state,Manipur,Oppo,24639
+2020,4,state,Manipur,Realme,11096
+2020,4,state,Manipur,Apple,6525
+2020,4,state,Manipur,Huawei,3448
+2020,4,state,Manipur,OnePlus,2688
+2020,4,state,Manipur,Motorola,2319
+2020,4,state,Manipur,Lenovo,2118
+2020,4,state,Manipur,Others,15512
+2021,1,state,Manipur,Xiaomi,149035
+2021,1,state,Manipur,Samsung,52212
+2021,1,state,Manipur,Vivo,37725
+2021,1,state,Manipur,Oppo,26807
+2021,1,state,Manipur,Realme,12487
+2021,1,state,Manipur,Apple,7077
+2021,1,state,Manipur,Huawei,3626
+2021,1,state,Manipur,OnePlus,2920
+2021,1,state,Manipur,Motorola,2347
+2021,1,state,Manipur,Lenovo,2098
+2021,1,state,Manipur,Others,16334
+2021,2,state,Manipur,Xiaomi,159031
+2021,2,state,Manipur,Samsung,55541
+2021,2,state,Manipur,Vivo,41068
+2021,2,state,Manipur,Oppo,29009
+2021,2,state,Manipur,Realme,14786
+2021,2,state,Manipur,Apple,7675
+2021,2,state,Manipur,Huawei,3685
+2021,2,state,Manipur,OnePlus,3183
+2021,2,state,Manipur,Motorola,2290
+2021,2,state,Manipur,HMD Global,2192
+2021,2,state,Manipur,Others,16949
+2021,3,state,Manipur,Xiaomi,171051
+2021,3,state,Manipur,Samsung,57831
+2021,3,state,Manipur,Vivo,45197
+2021,3,state,Manipur,Oppo,32022
+2021,3,state,Manipur,Realme,17435
+2021,3,state,Manipur,Apple,8421
+2021,3,state,Manipur,Huawei,4030
+2021,3,state,Manipur,OnePlus,3903
+2021,3,state,Manipur,Motorola,2266
+2021,3,state,Manipur,HMD Global,2169
+2021,3,state,Manipur,Others,17424
+2021,4,state,Manipur,Xiaomi,183086
+2021,4,state,Manipur,Samsung,60028
+2021,4,state,Manipur,Vivo,48425
+2021,4,state,Manipur,Oppo,34483
+2021,4,state,Manipur,Realme,21355
+2021,4,state,Manipur,Apple,9391
+2021,4,state,Manipur,OnePlus,4695
+2021,4,state,Manipur,Huawei,4031
+2021,4,state,Manipur,HMD Global,2508
+2021,4,state,Manipur,Motorola,2358
+2021,4,state,Manipur,Others,17386
+2022,1,state,Manipur,Xiaomi,193373
+2022,1,state,Manipur,Samsung,62042
+2022,1,state,Manipur,Vivo,51648
+2022,1,state,Manipur,Oppo,37434
+2022,1,state,Manipur,Realme,24745
+2022,1,state,Manipur,Apple,10256
+2022,1,state,Manipur,OnePlus,5335
+2022,1,state,Manipur,Huawei,4094
+2022,1,state,Manipur,HMD Global,2518
+2022,1,state,Manipur,Motorola,2359
+2022,1,state,Manipur,Others,18096
+2020,1,state,Meghalaya,Xiaomi,27877
+2020,1,state,Meghalaya,Samsung,21610
+2020,1,state,Meghalaya,Vivo,16379
+2020,1,state,Meghalaya,Oppo,14191
+2020,1,state,Meghalaya,Realme,7242
+2020,1,state,Meghalaya,Huawei,2446
+2020,1,state,Meghalaya,Motorola,2386
+2020,1,state,Meghalaya,Apple,2309
+2020,1,state,Meghalaya,Micromax,2089
+2020,1,state,Meghalaya,Asus,2050
+2020,1,state,Meghalaya,Others,15235
+2020,2,state,Meghalaya,Xiaomi,32935
+2020,2,state,Meghalaya,Samsung,25696
+2020,2,state,Meghalaya,Vivo,20152
+2020,2,state,Meghalaya,Oppo,17459
+2020,2,state,Meghalaya,Realme,9186
+2020,2,state,Meghalaya,Huawei,2792
+2020,2,state,Meghalaya,Motorola,2600
+2020,2,state,Meghalaya,Micromax,2562
+2020,2,state,Meghalaya,Apple,2489
+2020,2,state,Meghalaya,Asus,2372
+2020,2,state,Meghalaya,Others,17968
+2020,3,state,Meghalaya,Xiaomi,37816
+2020,3,state,Meghalaya,Samsung,29736
+2020,3,state,Meghalaya,Vivo,23981
+2020,3,state,Meghalaya,Oppo,20562
+2020,3,state,Meghalaya,Realme,11286
+2020,3,state,Meghalaya,Huawei,3110
+2020,3,state,Meghalaya,Micromax,2892
+2020,3,state,Meghalaya,Motorola,2853
+2020,3,state,Meghalaya,Apple,2775
+2020,3,state,Meghalaya,Asus,2623
+2020,3,state,Meghalaya,Others,20107
+2020,4,state,Meghalaya,Xiaomi,41993
+2020,4,state,Meghalaya,Samsung,33436
+2020,4,state,Meghalaya,Vivo,27150
+2020,4,state,Meghalaya,Oppo,23405
+2020,4,state,Meghalaya,Realme,13219
+2020,4,state,Meghalaya,Huawei,3369
+2020,4,state,Meghalaya,Apple,3096
+2020,4,state,Meghalaya,Micromax,3067
+2020,4,state,Meghalaya,Motorola,3016
+2020,4,state,Meghalaya,Asus,2832
+2020,4,state,Meghalaya,Others,21864
+2021,1,state,Meghalaya,Xiaomi,45624
+2021,1,state,Meghalaya,Samsung,35701
+2021,1,state,Meghalaya,Vivo,30076
+2021,1,state,Meghalaya,Oppo,25290
+2021,1,state,Meghalaya,Realme,14857
+2021,1,state,Meghalaya,Huawei,3554
+2021,1,state,Meghalaya,Apple,3344
+2021,1,state,Meghalaya,Asus,3198
+2021,1,state,Meghalaya,Micromax,3117
+2021,1,state,Meghalaya,Motorola,3077
+2021,1,state,Meghalaya,Others,23031
+2021,2,state,Meghalaya,Xiaomi,48812
+2021,2,state,Meghalaya,Samsung,38364
+2021,2,state,Meghalaya,Vivo,32487
+2021,2,state,Meghalaya,Oppo,27101
+2021,2,state,Meghalaya,Realme,17555
+2021,2,state,Meghalaya,Apple,3658
+2021,2,state,Meghalaya,Huawei,3596
+2021,2,state,Meghalaya,Asus,3185
+2021,2,state,Meghalaya,Motorola,3069
+2021,2,state,Meghalaya,Micromax,3045
+2021,2,state,Meghalaya,Others,24814
+2021,3,state,Meghalaya,Xiaomi,52800
+2021,3,state,Meghalaya,Samsung,39809
+2021,3,state,Meghalaya,Vivo,36214
+2021,3,state,Meghalaya,Oppo,29861
+2021,3,state,Meghalaya,Realme,20601
+2021,3,state,Meghalaya,Apple,4026
+2021,3,state,Meghalaya,Huawei,3953
+2021,3,state,Meghalaya,Motorola,3086
+2021,3,state,Meghalaya,Asus,3078
+2021,3,state,Meghalaya,Micromax,3036
+2021,3,state,Meghalaya,Others,26601
+2021,4,state,Meghalaya,Xiaomi,57355
+2021,4,state,Meghalaya,Samsung,41499
+2021,4,state,Meghalaya,Vivo,38748
+2021,4,state,Meghalaya,Oppo,31903
+2021,4,state,Meghalaya,Realme,24878
+2021,4,state,Meghalaya,Apple,4556
+2021,4,state,Meghalaya,Huawei,3875
+2021,4,state,Meghalaya,Motorola,3123
+2021,4,state,Meghalaya,Asus,3113
+2021,4,state,Meghalaya,HMD Global,3095
+2021,4,state,Meghalaya,Others,28123
+2022,1,state,Meghalaya,Xiaomi,60423
+2022,1,state,Meghalaya,Samsung,42900
+2022,1,state,Meghalaya,Vivo,41306
+2022,1,state,Meghalaya,Oppo,34290
+2022,1,state,Meghalaya,Realme,28354
+2022,1,state,Meghalaya,Apple,4983
+2022,1,state,Meghalaya,Huawei,3947
+2022,1,state,Meghalaya,Tecno,3471
+2022,1,state,Meghalaya,OnePlus,3191
+2022,1,state,Meghalaya,Micromax,3139
+2022,1,state,Meghalaya,Others,29835
+2020,1,state,Mizoram,Xiaomi,14848
+2020,1,state,Mizoram,Vivo,8211
+2020,1,state,Mizoram,Samsung,6761
+2020,1,state,Mizoram,Oppo,5496
+2020,1,state,Mizoram,Realme,1969
+2020,1,state,Mizoram,Apple,1617
+2020,1,state,Mizoram,Huawei,1068
+2020,1,state,Mizoram,Gionee,1065
+2020,1,state,Mizoram,Asus,695
+2020,1,state,Mizoram,OnePlus,543
+2020,1,state,Mizoram,Others,4226
+2020,2,state,Mizoram,Xiaomi,17662
+2020,2,state,Mizoram,Vivo,10175
+2020,2,state,Mizoram,Samsung,7878
+2020,2,state,Mizoram,Oppo,6795
+2020,2,state,Mizoram,Realme,2389
+2020,2,state,Mizoram,Apple,1766
+2020,2,state,Mizoram,Gionee,1246
+2020,2,state,Mizoram,Huawei,1228
+2020,2,state,Mizoram,Asus,800
+2020,2,state,Mizoram,OnePlus,583
+2020,2,state,Mizoram,Others,5052
+2020,3,state,Mizoram,Xiaomi,21725
+2020,3,state,Mizoram,Vivo,12923
+2020,3,state,Mizoram,Samsung,9501
+2020,3,state,Mizoram,Oppo,8563
+2020,3,state,Mizoram,Realme,3116
+2020,3,state,Mizoram,Apple,2096
+2020,3,state,Mizoram,Huawei,1466
+2020,3,state,Mizoram,Gionee,1403
+2020,3,state,Mizoram,Asus,966
+2020,3,state,Mizoram,OnePlus,668
+2020,3,state,Mizoram,Others,5888
+2020,4,state,Mizoram,Xiaomi,24925
+2020,4,state,Mizoram,Vivo,15062
+2020,4,state,Mizoram,Samsung,11008
+2020,4,state,Mizoram,Oppo,10055
+2020,4,state,Mizoram,Realme,3782
+2020,4,state,Mizoram,Apple,2443
+2020,4,state,Mizoram,Huawei,1625
+2020,4,state,Mizoram,Gionee,1501
+2020,4,state,Mizoram,Asus,1064
+2020,4,state,Mizoram,OnePlus,711
+2020,4,state,Mizoram,Others,6555
+2021,1,state,Mizoram,Xiaomi,27202
+2021,1,state,Mizoram,Vivo,16866
+2021,1,state,Mizoram,Samsung,11778
+2021,1,state,Mizoram,Oppo,10894
+2021,1,state,Mizoram,Realme,4253
+2021,1,state,Mizoram,Apple,2669
+2021,1,state,Mizoram,Huawei,1709
+2021,1,state,Mizoram,Gionee,1527
+2021,1,state,Mizoram,Asus,1248
+2021,1,state,Mizoram,OnePlus,765
+2021,1,state,Mizoram,Others,6839
+2021,2,state,Mizoram,Xiaomi,29025
+2021,2,state,Mizoram,Vivo,18400
+2021,2,state,Mizoram,Samsung,12850
+2021,2,state,Mizoram,Oppo,11743
+2021,2,state,Mizoram,Realme,5072
+2021,2,state,Mizoram,Apple,2898
+2021,2,state,Mizoram,Huawei,1696
+2021,2,state,Mizoram,Gionee,1512
+2021,2,state,Mizoram,Asus,1214
+2021,2,state,Mizoram,OnePlus,836
+2021,2,state,Mizoram,Others,7306
+2021,3,state,Mizoram,Xiaomi,31196
+2021,3,state,Mizoram,Vivo,20570
+2021,3,state,Mizoram,Samsung,13399
+2021,3,state,Mizoram,Oppo,13112
+2021,3,state,Mizoram,Realme,5997
+2021,3,state,Mizoram,Apple,3145
+2021,3,state,Mizoram,Huawei,1821
+2021,3,state,Mizoram,Gionee,1601
+2021,3,state,Mizoram,Asus,1176
+2021,3,state,Mizoram,OnePlus,985
+2021,3,state,Mizoram,Others,7645
+2021,4,state,Mizoram,Xiaomi,33819
+2021,4,state,Mizoram,Vivo,22023
+2021,4,state,Mizoram,Samsung,14081
+2021,4,state,Mizoram,Oppo,13819
+2021,4,state,Mizoram,Realme,7453
+2021,4,state,Mizoram,Apple,3532
+2021,4,state,Mizoram,Huawei,1796
+2021,4,state,Mizoram,Gionee,1559
+2021,4,state,Mizoram,OnePlus,1163
+2021,4,state,Mizoram,Asus,1159
+2021,4,state,Mizoram,Others,8001
+2022,1,state,Mizoram,Xiaomi,35679
+2022,1,state,Mizoram,Vivo,23611
+2022,1,state,Mizoram,Oppo,14866
+2022,1,state,Mizoram,Samsung,14652
+2022,1,state,Mizoram,Realme,8423
+2022,1,state,Mizoram,Apple,3803
+2022,1,state,Mizoram,Huawei,1816
+2022,1,state,Mizoram,Gionee,1563
+2022,1,state,Mizoram,OnePlus,1271
+2022,1,state,Mizoram,Tecno,1267
+2022,1,state,Mizoram,Others,8344
+2020,1,state,Nagaland,Xiaomi,32305
+2020,1,state,Nagaland,Vivo,17452
+2020,1,state,Nagaland,Samsung,15066
+2020,1,state,Nagaland,Oppo,12210
+2020,1,state,Nagaland,Realme,5659
+2020,1,state,Nagaland,Apple,2480
+2020,1,state,Nagaland,Huawei,2443
+2020,1,state,Nagaland,Gionee,2380
+2020,1,state,Nagaland,Asus,2036
+2020,1,state,Nagaland,Lenovo,1753
+2020,1,state,Nagaland,Others,13359
+2020,2,state,Nagaland,Xiaomi,39533
+2020,2,state,Nagaland,Vivo,21565
+2020,2,state,Nagaland,Samsung,17859
+2020,2,state,Nagaland,Oppo,15078
+2020,2,state,Nagaland,Realme,7202
+2020,2,state,Nagaland,Huawei,2861
+2020,2,state,Nagaland,Gionee,2853
+2020,2,state,Nagaland,Apple,2738
+2020,2,state,Nagaland,Asus,2406
+2020,2,state,Nagaland,Micromax,2075
+2020,2,state,Nagaland,Others,16035
+2020,3,state,Nagaland,Xiaomi,54400
+2020,3,state,Nagaland,Vivo,28624
+2020,3,state,Nagaland,Samsung,22931
+2020,3,state,Nagaland,Oppo,19865
+2020,3,state,Nagaland,Realme,10225
+2020,3,state,Nagaland,Huawei,3789
+2020,3,state,Nagaland,Gionee,3469
+2020,3,state,Nagaland,Apple,3401
+2020,3,state,Nagaland,Asus,3088
+2020,3,state,Nagaland,Micromax,2778
+2020,3,state,Nagaland,Others,20536
+2020,4,state,Nagaland,Xiaomi,60222
+2020,4,state,Nagaland,Vivo,32251
+2020,4,state,Nagaland,Samsung,25567
+2020,4,state,Nagaland,Oppo,22237
+2020,4,state,Nagaland,Realme,11862
+2020,4,state,Nagaland,Huawei,4083
+2020,4,state,Nagaland,Apple,3816
+2020,4,state,Nagaland,Gionee,3711
+2020,4,state,Nagaland,Asus,3257
+2020,4,state,Nagaland,Micromax,2988
+2020,4,state,Nagaland,Others,22194
+2021,1,state,Nagaland,Xiaomi,65272
+2021,1,state,Nagaland,Vivo,35635
+2021,1,state,Nagaland,Samsung,27338
+2021,1,state,Nagaland,Oppo,24014
+2021,1,state,Nagaland,Realme,13266
+2021,1,state,Nagaland,Huawei,4306
+2021,1,state,Nagaland,Apple,4121
+2021,1,state,Nagaland,Gionee,3806
+2021,1,state,Nagaland,Asus,3633
+2021,1,state,Nagaland,Micromax,3039
+2021,1,state,Nagaland,Others,23378
+2021,2,state,Nagaland,Xiaomi,69897
+2021,2,state,Nagaland,Vivo,38629
+2021,2,state,Nagaland,Samsung,29348
+2021,2,state,Nagaland,Oppo,25763
+2021,2,state,Nagaland,Realme,15567
+2021,2,state,Nagaland,Apple,4432
+2021,2,state,Nagaland,Huawei,4355
+2021,2,state,Nagaland,Gionee,3847
+2021,2,state,Nagaland,Asus,3569
+2021,2,state,Nagaland,Micromax,2956
+2021,2,state,Nagaland,Others,24974
+2021,3,state,Nagaland,Xiaomi,75533
+2021,3,state,Nagaland,Vivo,42814
+2021,3,state,Nagaland,Samsung,30669
+2021,3,state,Nagaland,Oppo,28344
+2021,3,state,Nagaland,Realme,18070
+2021,3,state,Nagaland,Apple,4751
+2021,3,state,Nagaland,Huawei,4623
+2021,3,state,Nagaland,Gionee,4004
+2021,3,state,Nagaland,Asus,3519
+2021,3,state,Nagaland,Micromax,2857
+2021,3,state,Nagaland,Others,26613
+2021,4,state,Nagaland,Xiaomi,81701
+2021,4,state,Nagaland,Vivo,45835
+2021,4,state,Nagaland,Samsung,32050
+2021,4,state,Nagaland,Oppo,30262
+2021,4,state,Nagaland,Realme,21734
+2021,4,state,Nagaland,Apple,5329
+2021,4,state,Nagaland,Huawei,4595
+2021,4,state,Nagaland,Gionee,3855
+2021,4,state,Nagaland,Asus,3465
+2021,4,state,Nagaland,Infinix,3191
+2021,4,state,Nagaland,Others,27973
+2022,1,state,Nagaland,Xiaomi,86500
+2022,1,state,Nagaland,Vivo,48861
+2022,1,state,Nagaland,Samsung,33311
+2022,1,state,Nagaland,Oppo,32385
+2022,1,state,Nagaland,Realme,24725
+2022,1,state,Nagaland,Apple,5724
+2022,1,state,Nagaland,Huawei,4682
+2022,1,state,Nagaland,Gionee,3847
+2022,1,state,Nagaland,Infinix,3655
+2022,1,state,Nagaland,Asus,3422
+2022,1,state,Nagaland,Others,29371
+2020,1,state,Odisha,Xiaomi,1927219
+2020,1,state,Odisha,Samsung,1180711
+2020,1,state,Odisha,Vivo,1006170
+2020,1,state,Odisha,Oppo,851242
+2020,1,state,Odisha,Realme,458938
+2020,1,state,Odisha,Motorola,164789
+2020,1,state,Odisha,Lenovo,138741
+2020,1,state,Odisha,Huawei,115095
+2020,1,state,Odisha,Micromax,111642
+2020,1,state,Odisha,OnePlus,75301
+2020,1,state,Odisha,Others,623122
+2020,2,state,Odisha,Xiaomi,2091828
+2020,2,state,Odisha,Samsung,1283975
+2020,2,state,Odisha,Vivo,1122838
+2020,2,state,Odisha,Oppo,943406
+2020,2,state,Odisha,Realme,516701
+2020,2,state,Odisha,Motorola,174133
+2020,2,state,Odisha,Lenovo,144685
+2020,2,state,Odisha,Huawei,123415
+2020,2,state,Odisha,Micromax,116156
+2020,2,state,Odisha,OnePlus,77769
+2020,2,state,Odisha,Others,663409
+2020,3,state,Odisha,Xiaomi,2262871
+2020,3,state,Odisha,Samsung,1391798
+2020,3,state,Odisha,Vivo,1253856
+2020,3,state,Odisha,Oppo,1040287
+2020,3,state,Odisha,Realme,584452
+2020,3,state,Odisha,Motorola,183892
+2020,3,state,Odisha,Lenovo,152410
+2020,3,state,Odisha,Huawei,131407
+2020,3,state,Odisha,Micromax,120863
+2020,3,state,Odisha,OnePlus,81043
+2020,3,state,Odisha,Others,698876
+2020,4,state,Odisha,Xiaomi,2445630
+2020,4,state,Odisha,Samsung,1510338
+2020,4,state,Odisha,Vivo,1383491
+2020,4,state,Odisha,Oppo,1143995
+2020,4,state,Odisha,Realme,663117
+2020,4,state,Odisha,Motorola,193546
+2020,4,state,Odisha,Lenovo,159900
+2020,4,state,Odisha,Huawei,139630
+2020,4,state,Odisha,Micromax,125854
+2020,4,state,Odisha,OnePlus,84632
+2020,4,state,Odisha,Others,748618
+2021,1,state,Odisha,Xiaomi,2614110
+2021,1,state,Odisha,Samsung,1605021
+2021,1,state,Odisha,Vivo,1523937
+2021,1,state,Odisha,Oppo,1237047
+2021,1,state,Odisha,Realme,742037
+2021,1,state,Odisha,Motorola,197806
+2021,1,state,Odisha,Lenovo,160152
+2021,1,state,Odisha,Huawei,145607
+2021,1,state,Odisha,Micromax,126538
+2021,1,state,Odisha,OnePlus,89904
+2021,1,state,Odisha,Others,790850
+2021,2,state,Odisha,Xiaomi,2776465
+2021,2,state,Odisha,Samsung,1688178
+2021,2,state,Odisha,Vivo,1666083
+2021,2,state,Odisha,Oppo,1331944
+2021,2,state,Odisha,Realme,877531
+2021,2,state,Odisha,Motorola,196873
+2021,2,state,Odisha,Lenovo,154993
+2021,2,state,Odisha,Huawei,141842
+2021,2,state,Odisha,Micromax,122934
+2021,2,state,Odisha,OnePlus,100281
+2021,2,state,Odisha,Others,833905
+2021,3,state,Odisha,Xiaomi,2958185
+2021,3,state,Odisha,Vivo,1849105
+2021,3,state,Odisha,Samsung,1745741
+2021,3,state,Odisha,Oppo,1456997
+2021,3,state,Odisha,Realme,1038215
+2021,3,state,Odisha,Motorola,193489
+2021,3,state,Odisha,Lenovo,148332
+2021,3,state,Odisha,Huawei,146495
+2021,3,state,Odisha,Micromax,120590
+2021,3,state,Odisha,OnePlus,120517
+2021,3,state,Odisha,Others,874824
+2021,4,state,Odisha,Xiaomi,3105043
+2021,4,state,Odisha,Vivo,2017533
+2021,4,state,Odisha,Samsung,1803261
+2021,4,state,Odisha,Oppo,1574160
+2021,4,state,Odisha,Realme,1250982
+2021,4,state,Odisha,Motorola,194973
+2021,4,state,Odisha,OnePlus,144365
+2021,4,state,Odisha,Huawei,140106
+2021,4,state,Odisha,Lenovo,138057
+2021,4,state,Odisha,Micromax,116563
+2021,4,state,Odisha,Others,914192
+2022,1,state,Odisha,Xiaomi,3238439
+2022,1,state,Odisha,Vivo,2184386
+2022,1,state,Odisha,Samsung,1862470
+2022,1,state,Odisha,Oppo,1698088
+2022,1,state,Odisha,Realme,1424358
+2022,1,state,Odisha,Motorola,193423
+2022,1,state,Odisha,OnePlus,164569
+2022,1,state,Odisha,Lenovo,141460
+2022,1,state,Odisha,Huawei,140367
+2022,1,state,Odisha,Apple,128069
+2022,1,state,Odisha,Others,949150
+2020,1,state,Puducherry,Xiaomi,52862
+2020,1,state,Puducherry,Samsung,44909
+2020,1,state,Puducherry,Vivo,41283
+2020,1,state,Puducherry,Oppo,23192
+2020,1,state,Puducherry,Realme,9788
+2020,1,state,Puducherry,Huawei,9578
+2020,1,state,Puducherry,Apple,8570
+2020,1,state,Puducherry,Motorola,7377
+2020,1,state,Puducherry,OnePlus,7357
+2020,1,state,Puducherry,Lenovo,5654
+2020,1,state,Puducherry,Others,20338
+2020,2,state,Puducherry,Xiaomi,58140
+2020,2,state,Puducherry,Samsung,50005
+2020,2,state,Puducherry,Vivo,46687
+2020,2,state,Puducherry,Oppo,26188
+2020,2,state,Puducherry,Realme,10959
+2020,2,state,Puducherry,Huawei,10589
+2020,2,state,Puducherry,Apple,9093
+2020,2,state,Puducherry,Motorola,7942
+2020,2,state,Puducherry,OnePlus,7606
+2020,2,state,Puducherry,Lenovo,6028
+2020,2,state,Puducherry,Others,22363
+2020,3,state,Puducherry,Xiaomi,64189
+2020,3,state,Puducherry,Samsung,56159
+2020,3,state,Puducherry,Vivo,53650
+2020,3,state,Puducherry,Oppo,29888
+2020,3,state,Puducherry,Realme,12570
+2020,3,state,Puducherry,Huawei,11683
+2020,3,state,Puducherry,Apple,9778
+2020,3,state,Puducherry,Motorola,8498
+2020,3,state,Puducherry,OnePlus,8064
+2020,3,state,Puducherry,Lenovo,6464
+2020,3,state,Puducherry,Others,24230
+2020,4,state,Puducherry,Xiaomi,71555
+2020,4,state,Puducherry,Samsung,63620
+2020,4,state,Puducherry,Vivo,61208
+2020,4,state,Puducherry,Oppo,33860
+2020,4,state,Puducherry,Realme,14505
+2020,4,state,Puducherry,Huawei,12870
+2020,4,state,Puducherry,Apple,10885
+2020,4,state,Puducherry,Motorola,9137
+2020,4,state,Puducherry,OnePlus,8651
+2020,4,state,Puducherry,Lenovo,6934
+2020,4,state,Puducherry,Others,26401
+2021,1,state,Puducherry,Xiaomi,77315
+2021,1,state,Puducherry,Samsung,68574
+2021,1,state,Puducherry,Vivo,67958
+2021,1,state,Puducherry,Oppo,37061
+2021,1,state,Puducherry,Realme,16555
+2021,1,state,Puducherry,Huawei,13528
+2021,1,state,Puducherry,Apple,11809
+2021,1,state,Puducherry,Motorola,9477
+2021,1,state,Puducherry,OnePlus,9192
+2021,1,state,Puducherry,Lenovo,7061
+2021,1,state,Puducherry,Others,27749
+2021,2,state,Puducherry,Xiaomi,83067
+2021,2,state,Puducherry,Vivo,75036
+2021,2,state,Puducherry,Samsung,72364
+2021,2,state,Puducherry,Oppo,40051
+2021,2,state,Puducherry,Realme,19411
+2021,2,state,Puducherry,Huawei,13441
+2021,2,state,Puducherry,Apple,12595
+2021,2,state,Puducherry,OnePlus,10003
+2021,2,state,Puducherry,Motorola,9333
+2021,2,state,Puducherry,Lenovo,6729
+2021,2,state,Puducherry,Others,27931
+2021,3,state,Puducherry,Xiaomi,89382
+2021,3,state,Puducherry,Vivo,83355
+2021,3,state,Puducherry,Samsung,75347
+2021,3,state,Puducherry,Oppo,43803
+2021,3,state,Puducherry,Realme,22703
+2021,3,state,Puducherry,Apple,13603
+2021,3,state,Puducherry,Huawei,13160
+2021,3,state,Puducherry,OnePlus,11252
+2021,3,state,Puducherry,Motorola,9219
+2021,3,state,Puducherry,Lenovo,6496
+2021,3,state,Puducherry,Others,28289
+2021,4,state,Puducherry,Xiaomi,95031
+2021,4,state,Puducherry,Vivo,91633
+2021,4,state,Puducherry,Samsung,78438
+2021,4,state,Puducherry,Oppo,47542
+2021,4,state,Puducherry,Realme,26683
+2021,4,state,Puducherry,Apple,15236
+2021,4,state,Puducherry,Huawei,12678
+2021,4,state,Puducherry,OnePlus,12298
+2021,4,state,Puducherry,Motorola,9210
+2021,4,state,Puducherry,Lenovo,6149
+2021,4,state,Puducherry,Others,28269
+2022,1,state,Puducherry,Xiaomi,100081
+2022,1,state,Puducherry,Vivo,99079
+2022,1,state,Puducherry,Samsung,81419
+2022,1,state,Puducherry,Oppo,51105
+2022,1,state,Puducherry,Realme,30407
+2022,1,state,Puducherry,Apple,16568
+2022,1,state,Puducherry,OnePlus,13200
+2022,1,state,Puducherry,Huawei,12478
+2022,1,state,Puducherry,Motorola,9103
+2022,1,state,Puducherry,Lenovo,5955
+2022,1,state,Puducherry,Others,28656
+2020,1,state,Punjab,Xiaomi,912905
+2020,1,state,Punjab,Samsung,851006
+2020,1,state,Punjab,Vivo,654259
+2020,1,state,Punjab,Oppo,515340
+2020,1,state,Punjab,Apple,267276
+2020,1,state,Punjab,Realme,126920
+2020,1,state,Punjab,OnePlus,46432
+2020,1,state,Punjab,Huawei,42483
+2020,1,state,Punjab,Motorola,40631
+2020,1,state,Punjab,Lenovo,28708
+2020,1,state,Punjab,Others,253542
+2020,2,state,Punjab,Xiaomi,1025347
+2020,2,state,Punjab,Samsung,957955
+2020,2,state,Punjab,Vivo,759075
+2020,2,state,Punjab,Oppo,599062
+2020,2,state,Punjab,Apple,293955
+2020,2,state,Punjab,Realme,145881
+2020,2,state,Punjab,OnePlus,48354
+2020,2,state,Punjab,Huawei,46802
+2020,2,state,Punjab,Motorola,42817
+2020,2,state,Punjab,Lenovo,30136
+2020,2,state,Punjab,Others,276097
+2020,3,state,Punjab,Xiaomi,1124885
+2020,3,state,Punjab,Samsung,1063448
+2020,3,state,Punjab,Vivo,872561
+2020,3,state,Punjab,Oppo,675846
+2020,3,state,Punjab,Apple,322529
+2020,3,state,Punjab,Realme,167279
+2020,3,state,Punjab,OnePlus,50950
+2020,3,state,Punjab,Huawei,50512
+2020,3,state,Punjab,Motorola,44739
+2020,3,state,Punjab,Lenovo,31345
+2020,3,state,Punjab,Others,290139
+2020,4,state,Punjab,Xiaomi,1219022
+2020,4,state,Punjab,Samsung,1169264
+2020,4,state,Punjab,Vivo,979161
+2020,4,state,Punjab,Oppo,750319
+2020,4,state,Punjab,Apple,356113
+2020,4,state,Punjab,Realme,189809
+2020,4,state,Punjab,Huawei,53936
+2020,4,state,Punjab,OnePlus,53667
+2020,4,state,Punjab,Motorola,46455
+2020,4,state,Punjab,HMD Global,32870
+2020,4,state,Punjab,Others,307252
+2021,1,state,Punjab,Xiaomi,1304479
+2021,1,state,Punjab,Samsung,1249727
+2021,1,state,Punjab,Vivo,1083200
+2021,1,state,Punjab,Oppo,815718
+2021,1,state,Punjab,Apple,384485
+2021,1,state,Punjab,Realme,212940
+2021,1,state,Punjab,OnePlus,56962
+2021,1,state,Punjab,Huawei,56391
+2021,1,state,Punjab,Motorola,47632
+2021,1,state,Punjab,Tecno,35552
+2021,1,state,Punjab,Others,321691
+2021,2,state,Punjab,Xiaomi,1380642
+2021,2,state,Punjab,Samsung,1317948
+2021,2,state,Punjab,Vivo,1187613
+2021,2,state,Punjab,Oppo,881894
+2021,2,state,Punjab,Apple,418009
+2021,2,state,Punjab,Realme,250679
+2021,2,state,Punjab,OnePlus,61777
+2021,2,state,Punjab,Huawei,56066
+2021,2,state,Punjab,Motorola,47652
+2021,2,state,Punjab,Tecno,44884
+2021,2,state,Punjab,Others,329384
+2021,3,state,Punjab,Xiaomi,1468863
+2021,3,state,Punjab,Samsung,1373929
+2021,3,state,Punjab,Vivo,1315799
+2021,3,state,Punjab,Oppo,964011
+2021,3,state,Punjab,Apple,450178
+2021,3,state,Punjab,Realme,292875
+2021,3,state,Punjab,OnePlus,71087
+2021,3,state,Punjab,Huawei,59682
+2021,3,state,Punjab,Tecno,54005
+2021,3,state,Punjab,Motorola,47647
+2021,3,state,Punjab,Others,336786
+2021,4,state,Punjab,Xiaomi,1548508
+2021,4,state,Punjab,Samsung,1427734
+2021,4,state,Punjab,Vivo,1424349
+2021,4,state,Punjab,Oppo,1041175
+2021,4,state,Punjab,Apple,497157
+2021,4,state,Punjab,Realme,350868
+2021,4,state,Punjab,OnePlus,80227
+2021,4,state,Punjab,Tecno,62454
+2021,4,state,Punjab,Huawei,58314
+2021,4,state,Punjab,Motorola,48503
+2021,4,state,Punjab,Others,340814
+2022,1,state,Punjab,Xiaomi,1619926
+2022,1,state,Punjab,Vivo,1523181
+2022,1,state,Punjab,Samsung,1477258
+2022,1,state,Punjab,Oppo,1119920
+2022,1,state,Punjab,Apple,540804
+2022,1,state,Punjab,Realme,403062
+2022,1,state,Punjab,OnePlus,89199
+2022,1,state,Punjab,Tecno,74590
+2022,1,state,Punjab,Huawei,58651
+2022,1,state,Punjab,Motorola,48805
+2022,1,state,Punjab,Others,347330
+2020,1,state,Rajasthan,Xiaomi,2776323
+2020,1,state,Rajasthan,Vivo,2582003
+2020,1,state,Rajasthan,Samsung,2440121
+2020,1,state,Rajasthan,Oppo,1591219
+2020,1,state,Rajasthan,Realme,608298
+2020,1,state,Rajasthan,Apple,267588
+2020,1,state,Rajasthan,Huawei,225019
+2020,1,state,Rajasthan,OnePlus,170114
+2020,1,state,Rajasthan,Gionee,158979
+2020,1,state,Rajasthan,Motorola,156126
+2020,1,state,Rajasthan,Others,1166263
+2020,2,state,Rajasthan,Xiaomi,3073847
+2020,2,state,Rajasthan,Vivo,2941265
+2020,2,state,Rajasthan,Samsung,2715434
+2020,2,state,Rajasthan,Oppo,1799104
+2020,2,state,Rajasthan,Realme,689124
+2020,2,state,Rajasthan,Apple,283321
+2020,2,state,Rajasthan,Huawei,246837
+2020,2,state,Rajasthan,Tecno,183365
+2020,2,state,Rajasthan,OnePlus,177245
+2020,2,state,Rajasthan,Gionee,172589
+2020,2,state,Rajasthan,Others,1281070
+2020,3,state,Rajasthan,Xiaomi,3353468
+2020,3,state,Rajasthan,Vivo,3346801
+2020,3,state,Rajasthan,Samsung,2973921
+2020,3,state,Rajasthan,Oppo,2001908
+2020,3,state,Rajasthan,Realme,784695
+2020,3,state,Rajasthan,Apple,302588
+2020,3,state,Rajasthan,Huawei,265862
+2020,3,state,Rajasthan,Tecno,214914
+2020,3,state,Rajasthan,OnePlus,186566
+2020,3,state,Rajasthan,Gionee,180038
+2020,3,state,Rajasthan,Others,1358651
+2020,4,state,Rajasthan,Vivo,3720519
+2020,4,state,Rajasthan,Xiaomi,3613815
+2020,4,state,Rajasthan,Samsung,3222360
+2020,4,state,Rajasthan,Oppo,2201891
+2020,4,state,Rajasthan,Realme,880750
+2020,4,state,Rajasthan,Apple,323405
+2020,4,state,Rajasthan,Huawei,283175
+2020,4,state,Rajasthan,Tecno,259273
+2020,4,state,Rajasthan,OnePlus,195918
+2020,4,state,Rajasthan,Gionee,188604
+2020,4,state,Rajasthan,Others,1439784
+2021,1,state,Rajasthan,Vivo,4143832
+2021,1,state,Rajasthan,Xiaomi,3873176
+2021,1,state,Rajasthan,Samsung,3430073
+2021,1,state,Rajasthan,Oppo,2390404
+2021,1,state,Rajasthan,Realme,987022
+2021,1,state,Rajasthan,Apple,347215
+2021,1,state,Rajasthan,Tecno,301891
+2021,1,state,Rajasthan,Huawei,295928
+2021,1,state,Rajasthan,OnePlus,208798
+2021,1,state,Rajasthan,Gionee,189685
+2021,1,state,Rajasthan,Others,1493064
+2021,2,state,Rajasthan,Vivo,4603263
+2021,2,state,Rajasthan,Xiaomi,4079016
+2021,2,state,Rajasthan,Samsung,3591961
+2021,2,state,Rajasthan,Oppo,2591657
+2021,2,state,Rajasthan,Realme,1162747
+2021,2,state,Rajasthan,Tecno,375642
+2021,2,state,Rajasthan,Apple,373677
+2021,2,state,Rajasthan,Huawei,291917
+2021,2,state,Rajasthan,OnePlus,233039
+2021,2,state,Rajasthan,Motorola,188248
+2021,2,state,Rajasthan,Others,1489818
+2021,3,state,Rajasthan,Vivo,5212563
+2021,3,state,Rajasthan,Xiaomi,4289230
+2021,3,state,Rajasthan,Samsung,3672997
+2021,3,state,Rajasthan,Oppo,2855694
+2021,3,state,Rajasthan,Realme,1363093
+2021,3,state,Rajasthan,Tecno,456211
+2021,3,state,Rajasthan,Apple,403105
+2021,3,state,Rajasthan,Huawei,298651
+2021,3,state,Rajasthan,OnePlus,283924
+2021,3,state,Rajasthan,Motorola,186498
+2021,3,state,Rajasthan,Others,1477499
+2021,4,state,Rajasthan,Vivo,5751824
+2021,4,state,Rajasthan,Xiaomi,4469665
+2021,4,state,Rajasthan,Samsung,3782393
+2021,4,state,Rajasthan,Oppo,3095179
+2021,4,state,Rajasthan,Realme,1624796
+2021,4,state,Rajasthan,Tecno,521804
+2021,4,state,Rajasthan,Apple,462924
+2021,4,state,Rajasthan,OnePlus,336937
+2021,4,state,Rajasthan,Huawei,287470
+2021,4,state,Rajasthan,Motorola,189233
+2021,4,state,Rajasthan,Others,1454977
+2022,1,state,Rajasthan,Vivo,6252325
+2022,1,state,Rajasthan,Xiaomi,4620642
+2022,1,state,Rajasthan,Samsung,3887688
+2022,1,state,Rajasthan,Oppo,3333119
+2022,1,state,Rajasthan,Realme,1857144
+2022,1,state,Rajasthan,Tecno,613379
+2022,1,state,Rajasthan,Apple,510886
+2022,1,state,Rajasthan,OnePlus,385558
+2022,1,state,Rajasthan,Huawei,284638
+2022,1,state,Rajasthan,Motorola,189003
+2022,1,state,Rajasthan,Others,1464475
+2020,1,state,Sikkim,Samsung,33471
+2020,1,state,Sikkim,Xiaomi,22619
+2020,1,state,Sikkim,Vivo,15342
+2020,1,state,Sikkim,Oppo,10442
+2020,1,state,Sikkim,Realme,4166
+2020,1,state,Sikkim,Apple,3439
+2020,1,state,Sikkim,Motorola,1728
+2020,1,state,Sikkim,OnePlus,1548
+2020,1,state,Sikkim,Lenovo,1491
+2020,1,state,Sikkim,HMD Global,1394
+2020,1,state,Sikkim,Others,8991
+2020,2,state,Sikkim,Samsung,38977
+2020,2,state,Sikkim,Xiaomi,25245
+2020,2,state,Sikkim,Vivo,18182
+2020,2,state,Sikkim,Oppo,12295
+2020,2,state,Sikkim,Realme,4814
+2020,2,state,Sikkim,Apple,3701
+2020,2,state,Sikkim,Motorola,1821
+2020,2,state,Sikkim,HMD Global,1669
+2020,2,state,Sikkim,OnePlus,1607
+2020,2,state,Sikkim,Lenovo,1576
+2020,2,state,Sikkim,Others,10034
+2020,3,state,Sikkim,Samsung,44424
+2020,3,state,Sikkim,Xiaomi,27830
+2020,3,state,Sikkim,Vivo,21086
+2020,3,state,Sikkim,Oppo,14009
+2020,3,state,Sikkim,Realme,5459
+2020,3,state,Sikkim,Apple,4035
+2020,3,state,Sikkim,HMD Global,1906
+2020,3,state,Sikkim,Motorola,1879
+2020,3,state,Sikkim,OnePlus,1694
+2020,3,state,Sikkim,Lenovo,1657
+2020,3,state,Sikkim,Others,10794
+2020,4,state,Sikkim,Samsung,49275
+2020,4,state,Sikkim,Xiaomi,30296
+2020,4,state,Sikkim,Vivo,23560
+2020,4,state,Sikkim,Oppo,15658
+2020,4,state,Sikkim,Realme,6245
+2020,4,state,Sikkim,Apple,4413
+2020,4,state,Sikkim,HMD Global,2070
+2020,4,state,Sikkim,Motorola,1984
+2020,4,state,Sikkim,OnePlus,1764
+2020,4,state,Sikkim,Lenovo,1714
+2020,4,state,Sikkim,Others,11564
+2021,1,state,Sikkim,Samsung,52629
+2021,1,state,Sikkim,Xiaomi,32524
+2021,1,state,Sikkim,Vivo,26109
+2021,1,state,Sikkim,Oppo,16921
+2021,1,state,Sikkim,Realme,7053
+2021,1,state,Sikkim,Apple,4803
+2021,1,state,Sikkim,HMD Global,2163
+2021,1,state,Sikkim,Motorola,2031
+2021,1,state,Sikkim,OnePlus,1924
+2021,1,state,Sikkim,Huawei,1738
+2021,1,state,Sikkim,Others,12318
+2021,2,state,Sikkim,Samsung,55452
+2021,2,state,Sikkim,Xiaomi,34745
+2021,2,state,Sikkim,Vivo,28736
+2021,2,state,Sikkim,Oppo,18141
+2021,2,state,Sikkim,Realme,8547
+2021,2,state,Sikkim,Apple,5244
+2021,2,state,Sikkim,HMD Global,2238
+2021,2,state,Sikkim,OnePlus,2072
+2021,2,state,Sikkim,Motorola,2043
+2021,2,state,Sikkim,Tecno,1729
+2021,2,state,Sikkim,Others,12793
+2021,3,state,Sikkim,Samsung,57652
+2021,3,state,Sikkim,Xiaomi,37473
+2021,3,state,Sikkim,Vivo,32054
+2021,3,state,Sikkim,Oppo,19674
+2021,3,state,Sikkim,Realme,10359
+2021,3,state,Sikkim,Apple,5768
+2021,3,state,Sikkim,OnePlus,2450
+2021,3,state,Sikkim,HMD Global,2212
+2021,3,state,Sikkim,Tecno,2190
+2021,3,state,Sikkim,Motorola,2041
+2021,3,state,Sikkim,Others,12820
+2021,4,state,Sikkim,Samsung,59868
+2021,4,state,Sikkim,Xiaomi,39826
+2021,4,state,Sikkim,Vivo,34807
+2021,4,state,Sikkim,Oppo,20992
+2021,4,state,Sikkim,Realme,12763
+2021,4,state,Sikkim,Apple,6458
+2021,4,state,Sikkim,OnePlus,2920
+2021,4,state,Sikkim,Tecno,2588
+2021,4,state,Sikkim,HMD Global,2358
+2021,4,state,Sikkim,Motorola,2089
+2021,4,state,Sikkim,Others,12738
+2022,1,state,Sikkim,Samsung,61996
+2022,1,state,Sikkim,Xiaomi,41866
+2022,1,state,Sikkim,Vivo,37402
+2022,1,state,Sikkim,Oppo,22501
+2022,1,state,Sikkim,Realme,14771
+2022,1,state,Sikkim,Apple,7058
+2022,1,state,Sikkim,OnePlus,3294
+2022,1,state,Sikkim,Tecno,3147
+2022,1,state,Sikkim,HMD Global,2316
+2022,1,state,Sikkim,Motorola,2125
+2022,1,state,Sikkim,Others,13140
+2020,1,state,Tamil Nadu,Xiaomi,2602334
+2020,1,state,Tamil Nadu,Samsung,2037120
+2020,1,state,Tamil Nadu,Vivo,1937792
+2020,1,state,Tamil Nadu,Oppo,1109430
+2020,1,state,Tamil Nadu,Realme,450799
+2020,1,state,Tamil Nadu,Motorola,395956
+2020,1,state,Tamil Nadu,Huawei,370773
+2020,1,state,Tamil Nadu,Apple,333073
+2020,1,state,Tamil Nadu,Lenovo,308388
+2020,1,state,Tamil Nadu,OnePlus,293970
+2020,1,state,Tamil Nadu,Others,1032733
+2020,2,state,Tamil Nadu,Xiaomi,2891155
+2020,2,state,Tamil Nadu,Samsung,2285005
+2020,2,state,Tamil Nadu,Vivo,2216953
+2020,2,state,Tamil Nadu,Oppo,1270624
+2020,2,state,Tamil Nadu,Realme,512202
+2020,2,state,Tamil Nadu,Motorola,430995
+2020,2,state,Tamil Nadu,Huawei,410511
+2020,2,state,Tamil Nadu,Apple,352063
+2020,2,state,Tamil Nadu,Lenovo,331665
+2020,2,state,Tamil Nadu,OnePlus,305910
+2020,2,state,Tamil Nadu,Others,1143703
+2020,3,state,Tamil Nadu,Xiaomi,3217633
+2020,3,state,Tamil Nadu,Vivo,2577603
+2020,3,state,Tamil Nadu,Samsung,2574986
+2020,3,state,Tamil Nadu,Oppo,1456520
+2020,3,state,Tamil Nadu,Realme,592254
+2020,3,state,Tamil Nadu,Motorola,466225
+2020,3,state,Tamil Nadu,Huawei,452345
+2020,3,state,Tamil Nadu,Apple,378323
+2020,3,state,Tamil Nadu,Lenovo,357461
+2020,3,state,Tamil Nadu,OnePlus,324336
+2020,3,state,Tamil Nadu,Others,1245765
+2020,4,state,Tamil Nadu,Xiaomi,3595631
+2020,4,state,Tamil Nadu,Vivo,2971084
+2020,4,state,Tamil Nadu,Samsung,2918795
+2020,4,state,Tamil Nadu,Oppo,1665487
+2020,4,state,Tamil Nadu,Realme,690401
+2020,4,state,Tamil Nadu,Motorola,503120
+2020,4,state,Tamil Nadu,Huawei,497653
+2020,4,state,Tamil Nadu,Apple,417632
+2020,4,state,Tamil Nadu,Lenovo,385136
+2020,4,state,Tamil Nadu,OnePlus,347722
+2020,4,state,Tamil Nadu,Others,1364925
+2021,1,state,Tamil Nadu,Xiaomi,3887022
+2021,1,state,Tamil Nadu,Vivo,3309321
+2021,1,state,Tamil Nadu,Samsung,3143951
+2021,1,state,Tamil Nadu,Oppo,1825392
+2021,1,state,Tamil Nadu,Realme,782154
+2021,1,state,Tamil Nadu,Huawei,522223
+2021,1,state,Tamil Nadu,Motorola,518191
+2021,1,state,Tamil Nadu,Apple,449432
+2021,1,state,Tamil Nadu,Lenovo,389630
+2021,1,state,Tamil Nadu,OnePlus,369966
+2021,1,state,Tamil Nadu,Others,1435326
+2021,2,state,Tamil Nadu,Xiaomi,4159447
+2021,2,state,Tamil Nadu,Vivo,3648711
+2021,2,state,Tamil Nadu,Samsung,3335419
+2021,2,state,Tamil Nadu,Oppo,1982731
+2021,2,state,Tamil Nadu,Realme,924040
+2021,2,state,Tamil Nadu,Huawei,515007
+2021,2,state,Tamil Nadu,Motorola,513680
+2021,2,state,Tamil Nadu,Apple,481336
+2021,2,state,Tamil Nadu,OnePlus,400480
+2021,2,state,Tamil Nadu,Lenovo,375748
+2021,2,state,Tamil Nadu,Others,1467943
+2021,3,state,Tamil Nadu,Xiaomi,4464525
+2021,3,state,Tamil Nadu,Vivo,4059800
+2021,3,state,Tamil Nadu,Samsung,3487967
+2021,3,state,Tamil Nadu,Oppo,2182951
+2021,3,state,Tamil Nadu,Realme,1086229
+2021,3,state,Tamil Nadu,Apple,516731
+2021,3,state,Tamil Nadu,Huawei,514394
+2021,3,state,Tamil Nadu,Motorola,504404
+2021,3,state,Tamil Nadu,OnePlus,454175
+2021,3,state,Tamil Nadu,Lenovo,358008
+2021,3,state,Tamil Nadu,Others,1498256
+2021,4,state,Tamil Nadu,Xiaomi,4737458
+2021,4,state,Tamil Nadu,Vivo,4457962
+2021,4,state,Tamil Nadu,Samsung,3636646
+2021,4,state,Tamil Nadu,Oppo,2390692
+2021,4,state,Tamil Nadu,Realme,1288203
+2021,4,state,Tamil Nadu,Apple,575168
+2021,4,state,Tamil Nadu,OnePlus,507178
+2021,4,state,Tamil Nadu,Motorola,501002
+2021,4,state,Tamil Nadu,Huawei,493892
+2021,4,state,Tamil Nadu,Lenovo,336045
+2021,4,state,Tamil Nadu,Others,1508896
+2022,1,state,Tamil Nadu,Xiaomi,4978558
+2022,1,state,Tamil Nadu,Vivo,4823657
+2022,1,state,Tamil Nadu,Samsung,3775700
+2022,1,state,Tamil Nadu,Oppo,2599406
+2022,1,state,Tamil Nadu,Realme,1468106
+2022,1,state,Tamil Nadu,Apple,624113
+2022,1,state,Tamil Nadu,OnePlus,549762
+2022,1,state,Tamil Nadu,Motorola,495397
+2022,1,state,Tamil Nadu,Huawei,485896
+2022,1,state,Tamil Nadu,Lenovo,331152
+2022,1,state,Tamil Nadu,Others,1535273
+2020,1,state,Telangana,Xiaomi,3226261
+2020,1,state,Telangana,Samsung,2521157
+2020,1,state,Telangana,Vivo,2072065
+2020,1,state,Telangana,Oppo,1250747
+2020,1,state,Telangana,Realme,664650
+2020,1,state,Telangana,Apple,522627
+2020,1,state,Telangana,OnePlus,385976
+2020,1,state,Telangana,Motorola,375706
+2020,1,state,Telangana,Huawei,300609
+2020,1,state,Telangana,Lenovo,196655
+2020,1,state,Telangana,Others,790407
+2020,2,state,Telangana,Xiaomi,3507179
+2020,2,state,Telangana,Samsung,2745328
+2020,2,state,Telangana,Vivo,2282799
+2020,2,state,Telangana,Oppo,1377106
+2020,2,state,Telangana,Realme,738264
+2020,2,state,Telangana,Apple,550940
+2020,2,state,Telangana,Motorola,398637
+2020,2,state,Telangana,OnePlus,397829
+2020,2,state,Telangana,Huawei,325187
+2020,2,state,Telangana,Lenovo,207266
+2020,2,state,Telangana,Others,847656
+2020,3,state,Telangana,Xiaomi,3810161
+2020,3,state,Telangana,Samsung,2992702
+2020,3,state,Telangana,Vivo,2542381
+2020,3,state,Telangana,Oppo,1520230
+2020,3,state,Telangana,Realme,832814
+2020,3,state,Telangana,Apple,585533
+2020,3,state,Telangana,Motorola,420978
+2020,3,state,Telangana,OnePlus,415641
+2020,3,state,Telangana,Huawei,349866
+2020,3,state,Telangana,Lenovo,219113
+2020,3,state,Telangana,Others,901463
+2020,4,state,Telangana,Xiaomi,4150153
+2020,4,state,Telangana,Samsung,3270596
+2020,4,state,Telangana,Vivo,2805410
+2020,4,state,Telangana,Oppo,1673541
+2020,4,state,Telangana,Realme,943307
+2020,4,state,Telangana,Apple,628903
+2020,4,state,Telangana,Motorola,444416
+2020,4,state,Telangana,OnePlus,436917
+2020,4,state,Telangana,Huawei,376296
+2020,4,state,Telangana,Lenovo,231688
+2020,4,state,Telangana,Others,966570
+2021,1,state,Telangana,Xiaomi,4458631
+2021,1,state,Telangana,Samsung,3491284
+2021,1,state,Telangana,Vivo,3089209
+2021,1,state,Telangana,Oppo,1818686
+2021,1,state,Telangana,Realme,1065087
+2021,1,state,Telangana,Apple,674068
+2021,1,state,Telangana,OnePlus,461518
+2021,1,state,Telangana,Motorola,454264
+2021,1,state,Telangana,Huawei,393000
+2021,1,state,Telangana,Lenovo,233554
+2021,1,state,Telangana,Others,1009768
+2021,2,state,Telangana,Xiaomi,4736356
+2021,2,state,Telangana,Samsung,3662257
+2021,2,state,Telangana,Vivo,3396906
+2021,2,state,Telangana,Oppo,1971737
+2021,2,state,Telangana,Realme,1259720
+2021,2,state,Telangana,Apple,719281
+2021,2,state,Telangana,OnePlus,508619
+2021,2,state,Telangana,Motorola,442262
+2021,2,state,Telangana,Huawei,380961
+2021,2,state,Telangana,Lenovo,219429
+2021,2,state,Telangana,Others,1009352
+2021,3,state,Telangana,Xiaomi,5040723
+2021,3,state,Telangana,Vivo,3776315
+2021,3,state,Telangana,Samsung,3769093
+2021,3,state,Telangana,Oppo,2168812
+2021,3,state,Telangana,Realme,1483670
+2021,3,state,Telangana,Apple,767224
+2021,3,state,Telangana,OnePlus,590963
+2021,3,state,Telangana,Motorola,426789
+2021,3,state,Telangana,Huawei,374748
+2021,3,state,Telangana,Lenovo,204439
+2021,3,state,Telangana,Others,1012502
+2021,4,state,Telangana,Xiaomi,5285587
+2021,4,state,Telangana,Vivo,4135644
+2021,4,state,Telangana,Samsung,3885608
+2021,4,state,Telangana,Oppo,2358132
+2021,4,state,Telangana,Realme,1759654
+2021,4,state,Telangana,Apple,856106
+2021,4,state,Telangana,OnePlus,676556
+2021,4,state,Telangana,Motorola,415921
+2021,4,state,Telangana,Huawei,353829
+2021,4,state,Telangana,Lenovo,187416
+2021,4,state,Telangana,Others,1003196
+2022,1,state,Telangana,Xiaomi,5509008
+2022,1,state,Telangana,Vivo,4471684
+2022,1,state,Telangana,Samsung,4003841
+2022,1,state,Telangana,Oppo,2540306
+2022,1,state,Telangana,Realme,1999746
+2022,1,state,Telangana,Apple,930638
+2022,1,state,Telangana,OnePlus,746766
+2022,1,state,Telangana,Motorola,406265
+2022,1,state,Telangana,Huawei,344744
+2022,1,state,Telangana,Lenovo,183434
+2022,1,state,Telangana,Others,1014180
+2020,1,state,Tripura,Xiaomi,75081
+2020,1,state,Tripura,Samsung,69532
+2020,1,state,Tripura,Oppo,40260
+2020,1,state,Tripura,Vivo,33266
+2020,1,state,Tripura,Realme,23927
+2020,1,state,Tripura,Asus,6050
+2020,1,state,Tripura,Gionee,5095
+2020,1,state,Tripura,Motorola,5014
+2020,1,state,Tripura,Lenovo,5012
+2020,1,state,Tripura,Micromax,4634
+2020,1,state,Tripura,Others,32091
+2020,2,state,Tripura,Xiaomi,83763
+2020,2,state,Tripura,Samsung,77685
+2020,2,state,Tripura,Oppo,46283
+2020,2,state,Tripura,Vivo,38364
+2020,2,state,Tripura,Realme,28326
+2020,2,state,Tripura,Asus,6561
+2020,2,state,Tripura,Gionee,5452
+2020,2,state,Tripura,Motorola,5344
+2020,2,state,Tripura,Lenovo,5242
+2020,2,state,Tripura,Huawei,5008
+2020,2,state,Tripura,Others,34638
+2020,3,state,Tripura,Xiaomi,93468
+2020,3,state,Tripura,Samsung,86403
+2020,3,state,Tripura,Oppo,52607
+2020,3,state,Tripura,Vivo,44208
+2020,3,state,Tripura,Realme,33649
+2020,3,state,Tripura,Asus,7020
+2020,3,state,Tripura,Motorola,5686
+2020,3,state,Tripura,Gionee,5652
+2020,3,state,Tripura,Lenovo,5550
+2020,3,state,Tripura,Huawei,5432
+2020,3,state,Tripura,Others,37056
+2020,4,state,Tripura,Xiaomi,101066
+2020,4,state,Tripura,Samsung,93412
+2020,4,state,Tripura,Oppo,57851
+2020,4,state,Tripura,Vivo,48775
+2020,4,state,Tripura,Realme,38173
+2020,4,state,Tripura,Asus,7328
+2020,4,state,Tripura,Motorola,5862
+2020,4,state,Tripura,Gionee,5805
+2020,4,state,Tripura,Huawei,5778
+2020,4,state,Tripura,Lenovo,5769
+2020,4,state,Tripura,Others,39291
+2021,1,state,Tripura,Xiaomi,108575
+2021,1,state,Tripura,Samsung,99168
+2021,1,state,Tripura,Oppo,62419
+2021,1,state,Tripura,Vivo,53698
+2021,1,state,Tripura,Realme,42622
+2021,1,state,Tripura,Asus,8143
+2021,1,state,Tripura,Huawei,6052
+2021,1,state,Tripura,Motorola,5947
+2021,1,state,Tripura,Gionee,5872
+2021,1,state,Tripura,Lenovo,5785
+2021,1,state,Tripura,Others,41355
+2021,2,state,Tripura,Xiaomi,116546
+2021,2,state,Tripura,Samsung,104057
+2021,2,state,Tripura,Oppo,66970
+2021,2,state,Tripura,Vivo,58517
+2021,2,state,Tripura,Realme,50025
+2021,2,state,Tripura,Asus,7942
+2021,2,state,Tripura,Motorola,5999
+2021,2,state,Tripura,Huawei,5937
+2021,2,state,Tripura,Lava,5937
+2021,2,state,Tripura,Gionee,5794
+2021,2,state,Tripura,Others,44429
+2021,3,state,Tripura,Xiaomi,126117
+2021,3,state,Tripura,Samsung,107662
+2021,3,state,Tripura,Oppo,72865
+2021,3,state,Tripura,Vivo,64797
+2021,3,state,Tripura,Realme,58578
+2021,3,state,Tripura,Asus,7665
+2021,3,state,Tripura,Huawei,6499
+2021,3,state,Tripura,Gionee,6096
+2021,3,state,Tripura,Lava,6044
+2021,3,state,Tripura,Motorola,6025
+2021,3,state,Tripura,Others,47581
+2021,4,state,Tripura,Xiaomi,135695
+2021,4,state,Tripura,Samsung,110734
+2021,4,state,Tripura,Oppo,77764
+2021,4,state,Tripura,Vivo,69926
+2021,4,state,Tripura,Realme,68822
+2021,4,state,Tripura,Asus,7552
+2021,4,state,Tripura,Huawei,6396
+2021,4,state,Tripura,Motorola,6315
+2021,4,state,Tripura,Lava,6023
+2021,4,state,Tripura,Gionee,5955
+2021,4,state,Tripura,Others,51110
+2022,1,state,Tripura,Xiaomi,143599
+2022,1,state,Tripura,Samsung,114250
+2022,1,state,Tripura,Oppo,83468
+2022,1,state,Tripura,Realme,78396
+2022,1,state,Tripura,Vivo,74834
+2022,1,state,Tripura,Asus,7367
+2022,1,state,Tripura,Huawei,6576
+2022,1,state,Tripura,Tecno,6411
+2022,1,state,Tripura,Infinix,6357
+2022,1,state,Tripura,Motorola,6335
+2022,1,state,Tripura,Others,54531
+2020,1,state,Uttar Pradesh,Xiaomi,5356063
+2020,1,state,Uttar Pradesh,Samsung,3822401
+2020,1,state,Uttar Pradesh,Vivo,3239764
+2020,1,state,Uttar Pradesh,Oppo,2429781
+2020,1,state,Uttar Pradesh,Realme,1288049
+2020,1,state,Uttar Pradesh,Apple,410932
+2020,1,state,Uttar Pradesh,Motorola,407644
+2020,1,state,Uttar Pradesh,Huawei,396726
+2020,1,state,Uttar Pradesh,Lenovo,297610
+2020,1,state,Uttar Pradesh,Lava,254946
+2020,1,state,Uttar Pradesh,Others,2232340
+2020,2,state,Uttar Pradesh,Xiaomi,5953474
+2020,2,state,Uttar Pradesh,Samsung,4228987
+2020,2,state,Uttar Pradesh,Vivo,3723388
+2020,2,state,Uttar Pradesh,Oppo,2771946
+2020,2,state,Uttar Pradesh,Realme,1489668
+2020,2,state,Uttar Pradesh,Huawei,436831
+2020,2,state,Uttar Pradesh,Motorola,435375
+2020,2,state,Uttar Pradesh,Apple,435004
+2020,2,state,Uttar Pradesh,Lenovo,314998
+2020,2,state,Uttar Pradesh,Lava,264264
+2020,2,state,Uttar Pradesh,Others,2444584
+2020,3,state,Uttar Pradesh,Xiaomi,6521651
+2020,3,state,Uttar Pradesh,Samsung,4643207
+2020,3,state,Uttar Pradesh,Vivo,4251520
+2020,3,state,Uttar Pradesh,Oppo,3101714
+2020,3,state,Uttar Pradesh,Realme,1710132
+2020,3,state,Uttar Pradesh,Huawei,472712
+2020,3,state,Uttar Pradesh,Apple,463651
+2020,3,state,Uttar Pradesh,Motorola,461063
+2020,3,state,Uttar Pradesh,Lenovo,332545
+2020,3,state,Uttar Pradesh,Lava,281022
+2020,3,state,Uttar Pradesh,Others,2598899
+2020,4,state,Uttar Pradesh,Xiaomi,7082855
+2020,4,state,Uttar Pradesh,Samsung,5086075
+2020,4,state,Uttar Pradesh,Vivo,4769619
+2020,4,state,Uttar Pradesh,Oppo,3433564
+2020,4,state,Uttar Pradesh,Realme,1937082
+2020,4,state,Uttar Pradesh,Huawei,507500
+2020,4,state,Uttar Pradesh,Apple,499152
+2020,4,state,Uttar Pradesh,Motorola,484675
+2020,4,state,Uttar Pradesh,Lenovo,348680
+2020,4,state,Uttar Pradesh,Lava,304244
+2020,4,state,Uttar Pradesh,Others,2795688
+2021,1,state,Uttar Pradesh,Xiaomi,7599834
+2021,1,state,Uttar Pradesh,Samsung,5451884
+2021,1,state,Uttar Pradesh,Vivo,5294031
+2021,1,state,Uttar Pradesh,Oppo,3737603
+2021,1,state,Uttar Pradesh,Realme,2177149
+2021,1,state,Uttar Pradesh,Apple,536023
+2021,1,state,Uttar Pradesh,Huawei,533694
+2021,1,state,Uttar Pradesh,Motorola,498264
+2021,1,state,Uttar Pradesh,Lenovo,351633
+2021,1,state,Uttar Pradesh,Tecno,329255
+2021,1,state,Uttar Pradesh,Others,2972705
+2021,2,state,Uttar Pradesh,Xiaomi,8037309
+2021,2,state,Uttar Pradesh,Vivo,5805913
+2021,2,state,Uttar Pradesh,Samsung,5762770
+2021,2,state,Uttar Pradesh,Oppo,4047089
+2021,2,state,Uttar Pradesh,Realme,2533804
+2021,2,state,Uttar Pradesh,Apple,578403
+2021,2,state,Uttar Pradesh,Huawei,526688
+2021,2,state,Uttar Pradesh,Motorola,501525
+2021,2,state,Uttar Pradesh,Tecno,419917
+2021,2,state,Uttar Pradesh,Infinix,384335
+2021,2,state,Uttar Pradesh,Others,3054141
+2021,3,state,Uttar Pradesh,Xiaomi,8522940
+2021,3,state,Uttar Pradesh,Vivo,6444391
+2021,3,state,Uttar Pradesh,Samsung,6016111
+2021,3,state,Uttar Pradesh,Oppo,4436027
+2021,3,state,Uttar Pradesh,Realme,2937420
+2021,3,state,Uttar Pradesh,Apple,619775
+2021,3,state,Uttar Pradesh,Huawei,541464
+2021,3,state,Uttar Pradesh,Tecno,528922
+2021,3,state,Uttar Pradesh,Infinix,513712
+2021,3,state,Uttar Pradesh,Motorola,501403
+2021,3,state,Uttar Pradesh,Others,3089717
+2021,4,state,Uttar Pradesh,Xiaomi,8926080
+2021,4,state,Uttar Pradesh,Vivo,7025228
+2021,4,state,Uttar Pradesh,Samsung,6308300
+2021,4,state,Uttar Pradesh,Oppo,4798699
+2021,4,state,Uttar Pradesh,Realme,3440284
+2021,4,state,Uttar Pradesh,Apple,710181
+2021,4,state,Uttar Pradesh,Infinix,635941
+2021,4,state,Uttar Pradesh,Tecno,627147
+2021,4,state,Uttar Pradesh,Huawei,526724
+2021,4,state,Uttar Pradesh,Motorola,511474
+2021,4,state,Uttar Pradesh,Others,3107597
+2022,1,state,Uttar Pradesh,Xiaomi,9273651
+2022,1,state,Uttar Pradesh,Vivo,7577324
+2022,1,state,Uttar Pradesh,Samsung,6602107
+2022,1,state,Uttar Pradesh,Oppo,5167492
+2022,1,state,Uttar Pradesh,Realme,3918711
+2022,1,state,Uttar Pradesh,Apple,775546
+2022,1,state,Uttar Pradesh,Tecno,756173
+2022,1,state,Uttar Pradesh,Infinix,719048
+2022,1,state,Uttar Pradesh,OnePlus,534457
+2022,1,state,Uttar Pradesh,Huawei,526680
+2022,1,state,Uttar Pradesh,Others,3148503
+2020,1,state,Uttarakhand,Xiaomi,456579
+2020,1,state,Uttarakhand,Samsung,378669
+2020,1,state,Uttarakhand,Vivo,319603
+2020,1,state,Uttarakhand,Oppo,280495
+2020,1,state,Uttarakhand,Realme,112983
+2020,1,state,Uttarakhand,Apple,52810
+2020,1,state,Uttarakhand,Motorola,45752
+2020,1,state,Uttarakhand,Huawei,36671
+2020,1,state,Uttarakhand,OnePlus,31306
+2020,1,state,Uttarakhand,Lenovo,28932
+2020,1,state,Uttarakhand,Others,199806
+2020,2,state,Uttarakhand,Xiaomi,501134
+2020,2,state,Uttarakhand,Samsung,415942
+2020,2,state,Uttarakhand,Vivo,362685
+2020,2,state,Uttarakhand,Oppo,317364
+2020,2,state,Uttarakhand,Realme,128396
+2020,2,state,Uttarakhand,Apple,56193
+2020,2,state,Uttarakhand,Motorola,48462
+2020,2,state,Uttarakhand,Huawei,39646
+2020,2,state,Uttarakhand,OnePlus,32449
+2020,2,state,Uttarakhand,Lenovo,30040
+2020,2,state,Uttarakhand,Others,216256
+2020,3,state,Uttarakhand,Xiaomi,546826
+2020,3,state,Uttarakhand,Samsung,457354
+2020,3,state,Uttarakhand,Vivo,410741
+2020,3,state,Uttarakhand,Oppo,354574
+2020,3,state,Uttarakhand,Realme,146360
+2020,3,state,Uttarakhand,Apple,60386
+2020,3,state,Uttarakhand,Motorola,51294
+2020,3,state,Uttarakhand,Huawei,42576
+2020,3,state,Uttarakhand,OnePlus,34157
+2020,3,state,Uttarakhand,Lenovo,31405
+2020,3,state,Uttarakhand,Others,229765
+2020,4,state,Uttarakhand,Xiaomi,594817
+2020,4,state,Uttarakhand,Samsung,504450
+2020,4,state,Uttarakhand,Vivo,458644
+2020,4,state,Uttarakhand,Oppo,392059
+2020,4,state,Uttarakhand,Realme,165895
+2020,4,state,Uttarakhand,Apple,65898
+2020,4,state,Uttarakhand,Motorola,53771
+2020,4,state,Uttarakhand,Huawei,45541
+2020,4,state,Uttarakhand,OnePlus,36256
+2020,4,state,Uttarakhand,Micromax,32967
+2020,4,state,Uttarakhand,Others,245946
+2021,1,state,Uttarakhand,Xiaomi,639297
+2021,1,state,Uttarakhand,Samsung,541527
+2021,1,state,Uttarakhand,Vivo,505799
+2021,1,state,Uttarakhand,Oppo,425532
+2021,1,state,Uttarakhand,Realme,186140
+2021,1,state,Uttarakhand,Apple,71103
+2021,1,state,Uttarakhand,Motorola,55240
+2021,1,state,Uttarakhand,Huawei,47693
+2021,1,state,Uttarakhand,OnePlus,38553
+2021,1,state,Uttarakhand,Micromax,33204
+2021,1,state,Uttarakhand,Others,258034
+2021,2,state,Uttarakhand,Xiaomi,681400
+2021,2,state,Uttarakhand,Samsung,575576
+2021,2,state,Uttarakhand,Vivo,551124
+2021,2,state,Uttarakhand,Oppo,457475
+2021,2,state,Uttarakhand,Realme,217098
+2021,2,state,Uttarakhand,Apple,76591
+2021,2,state,Uttarakhand,Motorola,55396
+2021,2,state,Uttarakhand,Huawei,47115
+2021,2,state,Uttarakhand,OnePlus,42606
+2021,2,state,Uttarakhand,Lava,34399
+2021,2,state,Uttarakhand,Others,265260
+2021,3,state,Uttarakhand,Xiaomi,729762
+2021,3,state,Uttarakhand,Vivo,607277
+2021,3,state,Uttarakhand,Samsung,603594
+2021,3,state,Uttarakhand,Oppo,495230
+2021,3,state,Uttarakhand,Realme,252524
+2021,3,state,Uttarakhand,Apple,82495
+2021,3,state,Uttarakhand,Motorola,55103
+2021,3,state,Uttarakhand,OnePlus,50778
+2021,3,state,Uttarakhand,Huawei,48071
+2021,3,state,Uttarakhand,Lava,34054
+2021,3,state,Uttarakhand,Others,274621
+2021,4,state,Uttarakhand,Xiaomi,771248
+2021,4,state,Uttarakhand,Vivo,655975
+2021,4,state,Uttarakhand,Samsung,635155
+2021,4,state,Uttarakhand,Oppo,530288
+2021,4,state,Uttarakhand,Realme,296672
+2021,4,state,Uttarakhand,Apple,94375
+2021,4,state,Uttarakhand,OnePlus,58873
+2021,4,state,Uttarakhand,Motorola,55844
+2021,4,state,Uttarakhand,Huawei,46660
+2021,4,state,Uttarakhand,HMD Global,34563
+2021,4,state,Uttarakhand,Others,280362
+2022,1,state,Uttarakhand,Xiaomi,807803
+2022,1,state,Uttarakhand,Vivo,700872
+2022,1,state,Uttarakhand,Samsung,663403
+2022,1,state,Uttarakhand,Oppo,566718
+2022,1,state,Uttarakhand,Realme,337092
+2022,1,state,Uttarakhand,Apple,103605
+2022,1,state,Uttarakhand,OnePlus,66561
+2022,1,state,Uttarakhand,Motorola,56044
+2022,1,state,Uttarakhand,Huawei,46393
+2022,1,state,Uttarakhand,Tecno,36937
+2022,1,state,Uttarakhand,Others,289401
+2020,1,state,West Bengal,Xiaomi,3213394
+2020,1,state,West Bengal,Samsung,2535508
+2020,1,state,West Bengal,Vivo,1536003
+2020,1,state,West Bengal,Oppo,1220788
+2020,1,state,West Bengal,Realme,746055
+2020,1,state,West Bengal,Motorola,331516
+2020,1,state,West Bengal,Lenovo,313552
+2020,1,state,West Bengal,Asus,237380
+2020,1,state,West Bengal,Huawei,211478
+2020,1,state,West Bengal,Micromax,174080
+2020,1,state,West Bengal,Others,1441068
+2020,2,state,West Bengal,Xiaomi,3510266
+2020,2,state,West Bengal,Samsung,2820007
+2020,2,state,West Bengal,Vivo,1751321
+2020,2,state,West Bengal,Oppo,1382437
+2020,2,state,West Bengal,Realme,851955
+2020,2,state,West Bengal,Motorola,353913
+2020,2,state,West Bengal,Lenovo,327067
+2020,2,state,West Bengal,Asus,255405
+2020,2,state,West Bengal,Huawei,230762
+2020,2,state,West Bengal,Micromax,183519
+2020,2,state,West Bengal,Others,1555370
+2020,3,state,West Bengal,Xiaomi,3792457
+2020,3,state,West Bengal,Samsung,3093948
+2020,3,state,West Bengal,Vivo,1985209
+2020,3,state,West Bengal,Oppo,1540143
+2020,3,state,West Bengal,Realme,970468
+2020,3,state,West Bengal,Motorola,373328
+2020,3,state,West Bengal,Lenovo,341183
+2020,3,state,West Bengal,Asus,270618
+2020,3,state,West Bengal,Huawei,247335
+2020,3,state,West Bengal,Micromax,190350
+2020,3,state,West Bengal,Others,1643327
+2020,4,state,West Bengal,Xiaomi,4070350
+2020,4,state,West Bengal,Samsung,3365601
+2020,4,state,West Bengal,Vivo,2206769
+2020,4,state,West Bengal,Oppo,1690166
+2020,4,state,West Bengal,Realme,1095750
+2020,4,state,West Bengal,Motorola,390257
+2020,4,state,West Bengal,Lenovo,354637
+2020,4,state,West Bengal,Asus,283758
+2020,4,state,West Bengal,Huawei,262902
+2020,4,state,West Bengal,Micromax,196449
+2020,4,state,West Bengal,Others,1745454
+2021,1,state,West Bengal,Xiaomi,4357020
+2021,1,state,West Bengal,Samsung,3588427
+2021,1,state,West Bengal,Vivo,2441181
+2021,1,state,West Bengal,Oppo,1829470
+2021,1,state,West Bengal,Realme,1227019
+2021,1,state,West Bengal,Motorola,400214
+2021,1,state,West Bengal,Lenovo,356875
+2021,1,state,West Bengal,Asus,303793
+2021,1,state,West Bengal,Huawei,275299
+2021,1,state,West Bengal,Micromax,198652
+2021,1,state,West Bengal,Others,1830849
+2021,2,state,West Bengal,Xiaomi,4654760
+2021,2,state,West Bengal,Samsung,3778434
+2021,2,state,West Bengal,Vivo,2703412
+2021,2,state,West Bengal,Oppo,1970103
+2021,2,state,West Bengal,Realme,1419072
+2021,2,state,West Bengal,Motorola,402767
+2021,2,state,West Bengal,Lenovo,350841
+2021,2,state,West Bengal,Asus,297579
+2021,2,state,West Bengal,Huawei,272965
+2021,2,state,West Bengal,Apple,201393
+2021,2,state,West Bengal,Others,1928653
+2021,3,state,West Bengal,Xiaomi,4999610
+2021,3,state,West Bengal,Samsung,3933160
+2021,3,state,West Bengal,Vivo,3037405
+2021,3,state,West Bengal,Oppo,2144589
+2021,3,state,West Bengal,Realme,1644196
+2021,3,state,West Bengal,Motorola,402425
+2021,3,state,West Bengal,Lenovo,341420
+2021,3,state,West Bengal,Asus,291778
+2021,3,state,West Bengal,Huawei,280808
+2021,3,state,West Bengal,Apple,218506
+2021,3,state,West Bengal,Others,2029381
+2021,4,state,West Bengal,Xiaomi,5313832
+2021,4,state,West Bengal,Samsung,4083535
+2021,4,state,West Bengal,Vivo,3353243
+2021,4,state,West Bengal,Oppo,2309956
+2021,4,state,West Bengal,Realme,1930021
+2021,4,state,West Bengal,Motorola,408826
+2021,4,state,West Bengal,Lenovo,325638
+2021,4,state,West Bengal,Asus,287059
+2021,4,state,West Bengal,Huawei,274009
+2021,4,state,West Bengal,Infinix,254793
+2021,4,state,West Bengal,Others,2103615
+2022,1,state,West Bengal,Xiaomi,5586240
+2022,1,state,West Bengal,Samsung,4233598
+2022,1,state,West Bengal,Vivo,3652204
+2022,1,state,West Bengal,Oppo,2480868
+2022,1,state,West Bengal,Realme,2186959
+2022,1,state,West Bengal,Motorola,410790
+2022,1,state,West Bengal,Lenovo,330017
+2022,1,state,West Bengal,Infinix,284678
+2022,1,state,West Bengal,Asus,280347
+2022,1,state,West Bengal,Apple,277752
+2022,1,state,West Bengal,Others,2196334

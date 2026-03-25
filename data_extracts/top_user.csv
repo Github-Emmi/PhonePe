@@ -1,0 +1,401 @@
+year,quarter,entity_type,entity_name,rank,registered_users
+2020,1,state,Maharashtra,1,26168390
+2020,1,state,Uttar Pradesh,2,20136256
+2020,1,state,Karnataka,3,17016980
+2020,1,state,Andhra Pradesh,4,13022060
+2020,1,state,Telangana,5,12306860
+2020,1,state,Rajasthan,6,12142053
+2020,1,state,West Bengal,7,11960822
+2020,1,state,Tamil Nadu,8,10872368
+2020,1,state,Gujarat,9,10259843
+2020,1,state,Madhya Pradesh,10,10151371
+2020,1,district,Bengaluru Urban,1,7564577
+2020,1,district,Pune,2,4802397
+2020,1,district,Jaipur,3,2966508
+2020,1,district,Thane,4,2878073
+2020,1,district,Mumbai Suburban,5,2843378
+2020,1,district,Hyderabad,6,2483843
+2020,1,district,Ahmadabad,7,2185983
+2020,1,district,Rangareddy,8,2166829
+2020,1,district,Medchal Malkajgiri,9,1845599
+2020,1,district,North Twenty Four Parganas,10,1789973
+2020,2,state,Maharashtra,1,28765086
+2020,2,state,Uttar Pradesh,2,22498519
+2020,2,state,Karnataka,3,18655366
+2020,2,state,Andhra Pradesh,4,14319675
+2020,2,state,Rajasthan,5,13563201
+2020,2,state,Telangana,6,13378191
+2020,2,state,West Bengal,7,13222022
+2020,2,state,Tamil Nadu,8,12150786
+2020,2,state,Gujarat,9,11392657
+2020,2,state,Madhya Pradesh,10,11374423
+2020,2,district,Bengaluru Urban,1,8028070
+2020,2,district,Pune,2,5144688
+2020,2,district,Jaipur,3,3182014
+2020,2,district,Thane,4,3135101
+2020,2,district,Mumbai Suburban,5,3060916
+2020,2,district,Hyderabad,6,2653534
+2020,2,district,Ahmadabad,7,2384154
+2020,2,district,Rangareddy,8,2313748
+2020,2,district,North Twenty Four Parganas,9,1966125
+2020,2,district,Medchal Malkajgiri,10,1963353
+2020,3,state,Maharashtra,1,31409513
+2020,3,state,Uttar Pradesh,2,24838116
+2020,3,state,Karnataka,3,20487550
+2020,3,state,Andhra Pradesh,4,15692405
+2020,3,state,Rajasthan,5,14969412
+2020,3,state,Telangana,6,14590882
+2020,3,state,West Bengal,7,14448366
+2020,3,state,Tamil Nadu,8,13643451
+2020,3,state,Madhya Pradesh,9,12564224
+2020,3,state,Gujarat,10,12467847
+2020,3,district,Bengaluru Urban,1,8611452
+2020,3,district,Pune,2,5546002
+2020,3,district,Jaipur,3,3433167
+2020,3,district,Thane,4,3401853
+2020,3,district,Mumbai Suburban,5,3304696
+2020,3,district,Hyderabad,6,2875965
+2020,3,district,Ahmadabad,7,2580178
+2020,3,district,Rangareddy,8,2495699
+2020,3,district,North Twenty Four Parganas,9,2143943
+2020,3,district,Medchal Malkajgiri,10,2111567
+2020,4,state,Maharashtra,1,34432631
+2020,4,state,Uttar Pradesh,2,27249134
+2020,4,state,Karnataka,3,22400182
+2020,4,state,Andhra Pradesh,4,17076565
+2020,4,state,Rajasthan,5,16329494
+2020,4,state,Telangana,6,15927797
+2020,4,state,West Bengal,7,15662093
+2020,4,state,Tamil Nadu,8,15357586
+2020,4,state,Madhya Pradesh,9,13737947
+2020,4,state,Gujarat,10,13605203
+2020,4,district,Bengaluru Urban,1,9286243
+2020,4,district,Pune,2,6033615
+2020,4,district,Thane,3,3727358
+2020,4,district,Jaipur,4,3679874
+2020,4,district,Mumbai Suburban,5,3609970
+2020,4,district,Hyderabad,6,3142385
+2020,4,district,Ahmadabad,7,2787991
+2020,4,district,Rangareddy,8,2704868
+2020,4,district,North Twenty Four Parganas,9,2321888
+2020,4,district,Medchal Malkajgiri,10,2282695
+2021,1,state,Maharashtra,1,37077537
+2021,1,state,Uttar Pradesh,2,29482075
+2021,1,state,Karnataka,3,24095832
+2021,1,state,Andhra Pradesh,4,18363733
+2021,1,state,Rajasthan,5,17661088
+2021,1,state,Telangana,6,17149069
+2021,1,state,West Bengal,7,16808799
+2021,1,state,Tamil Nadu,8,16632608
+2021,1,state,Madhya Pradesh,9,14839427
+2021,1,state,Gujarat,10,14670126
+2021,1,district,Bengaluru Urban,1,9955387
+2021,1,district,Pune,2,6481971
+2021,1,district,Thane,3,4014464
+2021,1,district,Jaipur,4,3951866
+2021,1,district,Mumbai Suburban,5,3886500
+2021,1,district,Hyderabad,6,3379663
+2021,1,district,Ahmadabad,7,2999575
+2021,1,district,Rangareddy,8,2906635
+2021,1,district,North Twenty Four Parganas,9,2491076
+2021,1,district,Surat,10,2458596
+2021,2,state,Maharashtra,1,39664697
+2021,2,state,Uttar Pradesh,2,31651894
+2021,2,state,Karnataka,3,25751023
+2021,2,state,Andhra Pradesh,4,19620905
+2021,2,state,Rajasthan,5,18980985
+2021,2,state,Telangana,6,18306880
+2021,2,state,West Bengal,7,17979979
+2021,2,state,Tamil Nadu,8,17804542
+2021,2,state,Madhya Pradesh,9,15940935
+2021,2,state,Gujarat,10,15735981
+2021,2,district,Bengaluru Urban,1,10604609
+2021,2,district,Pune,2,6915820
+2021,2,district,Thane,3,4290066
+2021,2,district,Jaipur,4,4226231
+2021,2,district,Mumbai Suburban,5,4151227
+2021,2,district,Hyderabad,6,3598337
+2021,2,district,Ahmadabad,7,3209841
+2021,2,district,Rangareddy,8,3097973
+2021,2,district,North Twenty Four Parganas,9,2660664
+2021,2,district,Surat,10,2633443
+2021,3,state,Maharashtra,1,42581217
+2021,3,state,Uttar Pradesh,2,34151882
+2021,3,state,Karnataka,3,27614221
+2021,3,state,Andhra Pradesh,4,21059898
+2021,3,state,Rajasthan,5,20499465
+2021,3,state,Telangana,6,19615278
+2021,3,state,West Bengal,7,19323278
+2021,3,state,Tamil Nadu,8,19127440
+2021,3,state,Madhya Pradesh,9,17210233
+2021,3,state,Gujarat,10,16946761
+2021,3,district,Bengaluru Urban,1,11321012
+2021,3,district,Pune,2,7398336
+2021,3,district,Thane,3,4597394
+2021,3,district,Jaipur,4,4534297
+2021,3,district,Mumbai Suburban,5,4444495
+2021,3,district,Hyderabad,6,3839513
+2021,3,district,Ahmadabad,7,3445024
+2021,3,district,Rangareddy,8,3310906
+2021,3,district,North Twenty Four Parganas,9,2852030
+2021,3,district,Surat,10,2830392
+2021,4,state,Maharashtra,1,45482506
+2021,4,state,Uttar Pradesh,2,36617655
+2021,4,state,Karnataka,3,29459646
+2021,4,state,Andhra Pradesh,4,22489029
+2021,4,state,Rajasthan,5,21977202
+2021,4,state,Telangana,6,20917649
+2021,4,state,West Bengal,7,20644527
+2021,4,state,Tamil Nadu,8,20433142
+2021,4,state,Madhya Pradesh,9,18456243
+2021,4,state,Gujarat,10,18139201
+2021,4,district,Bengaluru Urban,1,12038775
+2021,4,district,Pune,2,7880431
+2021,4,district,Thane,3,4906492
+2021,4,district,Jaipur,4,4841883
+2021,4,district,Mumbai Suburban,5,4740546
+2021,4,district,Hyderabad,6,4081185
+2021,4,district,Ahmadabad,7,3679243
+2021,4,district,Rangareddy,8,3523496
+2021,4,district,North Twenty Four Parganas,9,3043008
+2021,4,district,Surat,10,3026960
+2022,1,state,Maharashtra,1,48227630
+2022,1,state,Uttar Pradesh,2,38999692
+2022,1,state,Karnataka,3,31200349
+2022,1,state,Andhra Pradesh,4,23857951
+2022,1,state,Rajasthan,5,23398857
+2022,1,state,Telangana,6,22150612
+2022,1,state,West Bengal,7,21919787
+2022,1,state,Tamil Nadu,8,21667020
+2022,1,state,Madhya Pradesh,9,19656147
+2022,1,state,Gujarat,10,19265314
+2022,1,district,Bengaluru Urban,1,12707664
+2022,1,district,Pune,2,8331582
+2022,1,district,Thane,3,5196050
+2022,1,district,Jaipur,4,5133527
+2022,1,district,Mumbai Suburban,5,5017556
+2022,1,district,Hyderabad,6,4306136
+2022,1,district,Ahmadabad,7,3897869
+2022,1,district,Rangareddy,8,3722676
+2022,1,district,North Twenty Four Parganas,9,3224459
+2022,1,district,Surat,10,3210535
+2022,2,state,Maharashtra,1,50802786
+2022,2,state,Uttar Pradesh,2,41247289
+2022,2,state,Karnataka,3,32831447
+2022,2,state,Andhra Pradesh,4,25157264
+2022,2,state,Rajasthan,5,24716181
+2022,2,state,Telangana,6,23314363
+2022,2,state,West Bengal,7,23124388
+2022,2,state,Tamil Nadu,8,22829720
+2022,2,state,Madhya Pradesh,9,20766417
+2022,2,state,Gujarat,10,20321596
+2022,2,district,Bengaluru Urban,1,13342916
+2022,2,district,Pune,2,8757249
+2022,2,district,Thane,3,5471749
+2022,2,district,Jaipur,4,5409763
+2022,2,district,Mumbai Suburban,5,5281053
+2022,2,district,Hyderabad,6,4519625
+2022,2,district,Ahmadabad,7,4105172
+2022,2,district,Rangareddy,8,3911372
+2022,2,district,North Twenty Four Parganas,9,3397791
+2022,2,district,Surat,10,3385398
+2022,3,state,Maharashtra,1,53432602
+2022,3,state,Uttar Pradesh,2,43537920
+2022,3,state,Karnataka,3,34493994
+2022,3,state,Andhra Pradesh,4,26496330
+2022,3,state,Rajasthan,5,26042948
+2022,3,state,Telangana,6,24506111
+2022,3,state,West Bengal,7,24372048
+2022,3,state,Tamil Nadu,8,24019964
+2022,3,state,Madhya Pradesh,9,21884220
+2022,3,state,Gujarat,10,21394721
+2022,3,district,Bengaluru Urban,1,13997602
+2022,3,district,Pune,2,9194074
+2022,3,district,Thane,3,5757165
+2022,3,district,Jaipur,4,5696726
+2022,3,district,Mumbai Suburban,5,5555095
+2022,3,district,Hyderabad,6,4739891
+2022,3,district,Ahmadabad,7,4319512
+2022,3,district,Rangareddy,8,4105107
+2022,3,district,North Twenty Four Parganas,9,3578500
+2022,3,district,Surat,10,3567767
+2022,4,state,Maharashtra,1,55954028
+2022,4,state,Uttar Pradesh,2,45648650
+2022,4,state,Karnataka,3,36081698
+2022,4,state,Andhra Pradesh,4,27778016
+2022,4,state,Rajasthan,5,27255927
+2022,4,state,Telangana,6,25656381
+2022,4,state,West Bengal,7,25536381
+2022,4,state,Tamil Nadu,8,25136112
+2022,4,state,Madhya Pradesh,9,22913924
+2022,4,state,Gujarat,10,22412353
+2022,4,district,Bengaluru Urban,1,14654455
+2022,4,district,Pune,2,9622338
+2022,4,district,Thane,3,6042267
+2022,4,district,Jaipur,4,5975863
+2022,4,district,Mumbai Suburban,5,5831539
+2022,4,district,Hyderabad,6,4962214
+2022,4,district,Ahmadabad,7,4530853
+2022,4,district,Rangareddy,8,4296707
+2022,4,district,North Twenty Four Parganas,9,3755017
+2022,4,district,Surat,10,3747780
+2023,1,state,Maharashtra,1,58470784
+2023,1,state,Uttar Pradesh,2,47806049
+2023,1,state,Karnataka,3,37681426
+2023,1,state,Andhra Pradesh,4,29065863
+2023,1,state,Rajasthan,5,28523031
+2023,1,state,Telangana,6,26804259
+2023,1,state,West Bengal,7,26732895
+2023,1,state,Tamil Nadu,8,26270663
+2023,1,state,Madhya Pradesh,9,24002818
+2023,1,state,Gujarat,10,23436230
+2023,1,district,Bengaluru Urban,1,15290372
+2023,1,district,Pune,2,10037022
+2023,1,district,Thane,3,6314618
+2023,1,district,Jaipur,4,6247095
+2023,1,district,Mumbai Suburban,5,6095695
+2023,1,district,Hyderabad,6,5176899
+2023,1,district,Ahmadabad,7,4734630
+2023,1,district,Rangareddy,8,4483193
+2023,1,district,North Twenty Four Parganas,9,3926974
+2023,1,district,Surat,10,3919829
+2023,2,state,Maharashtra,1,60766850
+2023,2,state,Uttar Pradesh,2,49829833
+2023,2,state,Karnataka,3,39122314
+2023,2,state,Andhra Pradesh,4,30240061
+2023,2,state,Rajasthan,5,29745609
+2023,2,state,West Bengal,6,27827662
+2023,2,state,Telangana,7,27814633
+2023,2,state,Tamil Nadu,8,27317599
+2023,2,state,Madhya Pradesh,9,25042930
+2023,2,state,Gujarat,10,24396768
+2023,2,district,Bengaluru Urban,1,15812243
+2023,2,district,Pune,2,10396344
+2023,2,district,Thane,3,6552282
+2023,2,district,Jaipur,4,6490210
+2023,2,district,Mumbai Suburban,5,6322778
+2023,2,district,Hyderabad,6,5349842
+2023,2,district,Ahmadabad,7,4913610
+2023,2,district,Rangareddy,8,4638501
+2023,2,district,North Twenty Four Parganas,9,4079270
+2023,2,district,Surat,10,4076929
+2023,3,state,Maharashtra,1,63150997
+2023,3,state,Uttar Pradesh,2,51870932
+2023,3,state,Karnataka,3,40634390
+2023,3,state,Andhra Pradesh,4,31493897
+2023,3,state,Rajasthan,5,30997182
+2023,3,state,West Bengal,6,28966414
+2023,3,state,Telangana,7,28896668
+2023,3,state,Tamil Nadu,8,28405436
+2023,3,state,Madhya Pradesh,9,26109033
+2023,3,state,Gujarat,10,25383429
+2023,3,district,Bengaluru Urban,1,16382332
+2023,3,district,Pune,2,10780092
+2023,3,district,Thane,3,6802106
+2023,3,district,Jaipur,4,6745507
+2023,3,district,Mumbai Suburban,5,6560867
+2023,3,district,Hyderabad,6,5543537
+2023,3,district,Ahmadabad,7,5105557
+2023,3,district,Rangareddy,8,4809474
+2023,3,district,North Twenty Four Parganas,9,4241525
+2023,3,district,Surat,10,4238878
+2023,4,state,Maharashtra,1,65422120
+2023,4,state,Uttar Pradesh,2,53799813
+2023,4,state,Karnataka,3,42031396
+2023,4,state,Andhra Pradesh,4,32658698
+2023,4,state,Rajasthan,5,32157348
+2023,4,state,West Bengal,6,30064546
+2023,4,state,Telangana,7,29902636
+2023,4,state,Tamil Nadu,8,29452801
+2023,4,state,Madhya Pradesh,9,27078072
+2023,4,state,Gujarat,10,26312655
+2023,4,district,Bengaluru Urban,1,16895567
+2023,4,district,Pune,2,11135186
+2023,4,district,Thane,3,7044610
+2023,4,district,Jaipur,4,6983265
+2023,4,district,Mumbai Suburban,5,6796218
+2023,4,district,Hyderabad,6,5720710
+2023,4,district,Ahmadabad,7,5282400
+2023,4,district,Rangareddy,8,4964411
+2023,4,district,North Twenty Four Parganas,9,4396190
+2023,4,district,Surat,10,4396038
+2024,1,state,Maharashtra,1,68016876
+2024,1,state,Uttar Pradesh,2,56028765
+2024,1,state,Karnataka,3,43668141
+2024,1,state,Andhra Pradesh,4,34008709
+2024,1,state,Rajasthan,5,33505514
+2024,1,state,West Bengal,6,31306843
+2024,1,state,Telangana,7,31082447
+2024,1,state,Tamil Nadu,8,30638750
+2024,1,state,Madhya Pradesh,9,28238554
+2024,1,state,Gujarat,10,27381972
+2024,1,district,Bengaluru Urban,1,17506580
+2024,1,district,Pune,2,11546171
+2024,1,district,Thane,3,7314981
+2024,1,district,Jaipur,4,7253881
+2024,1,district,Mumbai Suburban,5,7055629
+2024,1,district,Hyderabad,6,5928930
+2024,1,district,Ahmadabad,7,5485010
+2024,1,district,Rangareddy,8,5149421
+2024,1,district,North Twenty Four Parganas,9,4570438
+2024,1,district,Surat,10,4569769
+2024,2,state,Maharashtra,1,70597223
+2024,2,state,Uttar Pradesh,2,58199149
+2024,2,state,Karnataka,3,45290606
+2024,2,state,Andhra Pradesh,4,35303719
+2024,2,state,Rajasthan,5,34773619
+2024,2,state,West Bengal,6,32540397
+2024,2,state,Telangana,7,32232171
+2024,2,state,Tamil Nadu,8,31818880
+2024,2,state,Madhya Pradesh,9,29324466
+2024,2,state,Gujarat,10,28439885
+2024,2,district,Bengaluru Urban,1,18127475
+2024,2,district,Pune,2,11964579
+2024,2,district,Thane,3,7591749
+2024,2,district,Jaipur,4,7522194
+2024,2,district,Mumbai Suburban,5,7325715
+2024,2,district,Hyderabad,6,6138190
+2024,2,district,Ahmadabad,7,5693015
+2024,2,district,Rangareddy,8,5331711
+2024,2,district,Surat,9,4747919
+2024,2,district,North Twenty Four Parganas,10,4746814
+2024,3,state,Maharashtra,1,69641161
+2024,3,state,Uttar Pradesh,2,67922000
+2024,3,state,Karnataka,3,44548391
+2024,3,state,Rajasthan,4,35583171
+2024,3,state,West Bengal,5,33612828
+2024,3,state,Tamil Nadu,6,32965209
+2024,3,state,Bihar,7,31899315
+2024,3,state,Madhya Pradesh,8,31764084
+2024,3,state,Telangana,9,30776242
+2024,3,state,Andhra Pradesh,10,29145303
+2024,3,district,Bengaluru Urban,1,17566351
+2024,3,district,Pune,2,12392676
+2024,3,district,Thane,3,7103828
+2024,3,district,Mumbai Suburban,4,6688601
+2024,3,district,Rangareddy,5,5769438
+2024,3,district,Hyderabad,6,5757304
+2024,3,district,Ahmedabad,7,5580316
+2024,3,district,Chennai,8,5387490
+2024,3,district,Jaipur,9,5219354
+2024,3,district,Surat,10,4957655
+2024,4,state,Maharashtra,1,71807805
+2024,4,state,Uttar Pradesh,2,70474113
+2024,4,state,Karnataka,3,45917653
+2024,4,state,Rajasthan,4,36828375
+2024,4,state,West Bengal,5,34750181
+2024,4,state,Tamil Nadu,6,33966610
+2024,4,state,Bihar,7,33345285
+2024,4,state,Madhya Pradesh,8,32876660
+2024,4,state,Telangana,9,31726856
+2024,4,state,Andhra Pradesh,10,29984431
+2024,4,district,Bengaluru Urban,1,18101416
+2024,4,district,Pune,2,12734314
+2024,4,district,Thane,3,7300941
+2024,4,district,Mumbai Suburban,4,6875379
+2024,4,district,Rangareddy,5,5988320
+2024,4,district,Hyderabad,6,5916910
+2024,4,district,Ahmedabad,7,5702922
+2024,4,district,Chennai,8,5541760
+2024,4,district,Jaipur,9,5371681
+2024,4,district,North Twenty Four Parganas,10,5085095

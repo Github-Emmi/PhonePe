@@ -1,0 +1,5 @@
+quarter,total_q_users,states_active,avg_state_users,seasonal_index,seasonal_classification
+1,3422038388,36,720126.0,100.0,PEAK_SEASON
+2,2097010788,36,661935.0,61.28,OFF_SEASON
+3,2278091008,36,719094.0,66.57,OFF_SEASON
+4,2461722784,36,777059.0,71.94,NORMAL_SEASON
