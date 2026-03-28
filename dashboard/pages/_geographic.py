@@ -17,34 +17,41 @@ from utils.charts import (
 def geographic_page():
     """Render geographic analysis page"""
     
-    st.title("🗺️ Geographic Analysis")
-    st.markdown("---")
+    try:
+        st.title("🗺️ Geographic Analysis")
+        st.markdown("---")
+        
+        st.info("""
+        Analyze PhonePe's performance across different states and regions.
+        Identify growth opportunities and market trends by geography.
+        """)
+        
+        # Analysis type selector
+        st.sidebar.subheader("📊 View Options")
+        analysis_type = st.sidebar.radio(
+            "Select Analysis",
+            options=[
+                "State Performance",
+                "Market Share",
+                "Growth Classification",
+                "Regional Trends"
+            ]
+        )
+        
+        if analysis_type == "State Performance":
+            state_performance()
+        elif analysis_type == "Market Share":
+            market_share()
+        elif analysis_type == "Growth Classification":
+            growth_classification()
+        elif analysis_type == "Regional Trends":
+            regional_trends()
     
-    st.info("""
-    Analyze PhonePe's performance across different states and regions.
-    Identify growth opportunities and market trends by geography.
-    """)
-    
-    # Analysis type selector
-    st.sidebar.subheader("📊 View Options")
-    analysis_type = st.sidebar.radio(
-        "Select Analysis",
-        options=[
-            "State Performance",
-            "Market Share",
-            "Growth Classification",
-            "Regional Trends"
-        ]
-    )
-    
-    if analysis_type == "State Performance":
-        state_performance()
-    elif analysis_type == "Market Share":
-        market_share()
-    elif analysis_type == "Growth Classification":
-        growth_classification()
-    elif analysis_type == "Regional Trends":
-        regional_trends()
+    except Exception as e:
+        st.error(f"❌ Error loading Geographic Analysis page: {str(e)}")
+        st.info(f"**Debug info:** {type(e).__name__}")
+        import traceback
+        st.code(traceback.format_exc(), language="python")
 
 
 def state_performance():
@@ -71,7 +78,7 @@ def state_performance():
                         value_col=numeric_cols[0],
                         orientation='h'
                     )
-                    st.plotly_chart(fig, use_container_width=True)
+                    st.plotly_chart(fig, width='stretch')
             
             with col2:
                 st.subheader("Summary")
@@ -107,7 +114,7 @@ def market_share():
                     values_col=numeric_cols[0],
                     names_col='state'
                 )
-                st.plotly_chart(fig, use_container_width=True)
+                st.plotly_chart(fig, width='stretch')
                 
                 st.markdown("---")
                 
@@ -167,7 +174,7 @@ def growth_classification():
                             names_col='Classification',
                             donut=True
                         )
-                        st.plotly_chart(fig, use_container_width=True)
+                        st.plotly_chart(fig, width='stretch')
                     
                     with col2:
                         # States by classification
@@ -212,7 +219,7 @@ def regional_trends():
                         value_col=numeric_cols[0],
                         orientation='h'
                     )
-                    st.plotly_chart(fig, use_container_width=True)
+                    st.plotly_chart(fig, width='stretch')
                 
                 with col2:
                     # Bottom performers
@@ -227,7 +234,7 @@ def regional_trends():
                             orientation='h',
                             color="#d62728"
                         )
-                        st.plotly_chart(fig, use_container_width=True)
+                        st.plotly_chart(fig, width='stretch')
                 
                 st.markdown("---")
                 st.subheader("Regional Distribution")
